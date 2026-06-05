@@ -1,922 +1,754 @@
-## Base Reality Has Priority
+# Trigger
 
-Tomas got off the bus three stops early.
+Mara knew the sound before she knew what it meant.
 
-He did not mean to.
+Three notes.
 
-The bus doors opened at 23rd Street, and his body stood before his brain voted.
+High, soft, and stupidly cheerful.
 
-By the time he realized what he had done, the bus had already sighed shut and pulled away into the dark, carrying the teenager, the woman in scrubs, the old man with the flowers, the driver, and three black books back into ordinary city traffic.
+The kind of notification sound a phone company designs to make interruption feel cute.
 
-Tomas stood under a streetlight with his own copy pressed against his chest like someone might try to take it.
+Ding.
 
-The phone screen was still black.
+Ding.
 
-White text waited patiently.
+Ding.
 
-**Baseline entry created.**
+It came from somewhere under the counter, muffled by a stack of scratch-off tickets, a half-empty bottle of blue sports drink, and the folded hoodie she had been using as a pillow during the dead hours between two and four in the morning.
 
-Then:
+The gas station was quiet.
 
-**Rule One remains active.**
+Not peaceful.
 
-Tomas stared at it.
+Quiet.
 
-“What does that mean?”
+There was a difference.
 
-The phone replied:
+Peace had room in it.
 
-**Base reality has priority.**
+Peace let the body rest.
 
-He looked around.
+Quiet at 3:17 a.m. under fluorescent lights was something else. It was a held breath. It was the hum of coolers. It was the buzz of old bulbs. It was the small electrical whine of security cameras pretending to be protection.
 
-23rd Street was not dangerous exactly, but it was not friendly either. A liquor store blinked red across the road. A laundromat hummed beside a closed pawn shop. A man slept under a bus shelter with one shoe tucked under his arm.
+Outside, the pumps stood empty under the canopy, each one lit like a machine waiting to be worshiped.
 
-The wind came through his wet hoodie like it had rent due.
+A plastic bag rolled across the lot and got caught against the curb.
 
-The phone buzzed.
+The world looked paused.
 
-**Name base reality.**
+Mara knew better.
 
-Tomas almost laughed.
+Nothing was paused.
 
-“You want me to do homework on the sidewalk?”
+Everything was waiting.
 
-The phone did not answer.
+Ding.
 
-Of course it didn’t.
+She stared at the counter.
 
-He looked around again.
+Her phone was facedown beside the register.
 
-“Cold,” he said.
+She had promised herself she would not look at it again.
+
+That promise was eleven minutes old.
+
+Promises made at three in the morning were cheap. She knew that too. The body could swear loyalty to a future self and then betray that future before the receipt paper finished curling.
+
+She had already typed the message once.
+
+Then deleted it.
+
+Then typed it again.
+
+Then deleted everything except his name.
+
+D.
+
+That was all that sat in the text box now.
+
+One letter.
+
+One door.
+
+She had not talked to Devin in forty-two days.
+
+Forty-two days was not forever. It only felt religious because she had counted every one.
+
+The first week had been shaking hands and hot skin and sleep that came in broken pieces. The second week had been anger. The third week had been embarrassing confidence. She had told everyone she was done done. Not regular done. Not temporary done. Not “I’m serious this time” done.
+
+Done done.
+
+Her sister had hugged her like she believed it.
+
+Her manager had changed her schedule so she would not get off work at the same time Devin usually came by.
+
+Her mother had said, “I’m proud of you,” in the cautious voice people use when they are afraid pride might jinx the thing they are proud of.
+
+Mara had believed herself too.
+
+That was the worst part.
+
+She had meant it.
+
+Every time.
+
+Then tonight happened.
+
+Nothing dramatic.
+
+That was what made it humiliating.
+
+Nobody died.
+
+Nobody screamed.
+
+Nobody touched her.
+
+Nobody threatened her.
+
+Nobody showed up with flowers and a sad apology.
+
+There was no movie scene.
+
+There was only a customer in a red work jacket buying cigarettes and laughing at something on his phone.
+
+The laugh sounded like Devin.
+
+Not exactly.
+
+Not enough for a court of law.
+
+Enough for the body.
+
+Her skin reacted before her mind had evidence.
+
+Her stomach dropped.
+
+Her shoulders tightened.
+
+Her mouth dried.
+
+For one second, the gas station disappeared and she was back in Devin’s passenger seat with the cracked dashboard and the pine tree air freshener that had never successfully covered the smell of smoke.
+
+Then she was behind the register again, holding a pack of Marlboro Reds she did not remember grabbing.
+
+The customer said, “You good?”
+
+Mara said, “Yeah.”
+
+The word came out perfect.
+
+That was the problem with survival.
+
+It learned customer service.
+
+The customer left.
+
+The bell above the door jingled.
+
+The parking lot swallowed his truck.
+
+And then the craving opened.
+
+Not like hunger.
+
+Hunger had honesty.
+
+This was different.
+
+This was a command wearing the voice of relief.
+
+Text him.
+
+You are not going to use.
+
+Just text him.
+
+You deserve comfort.
+
+You have been doing good.
+
+You can handle one conversation.
+
+You are lonely, not weak.
+
+Nobody has to know.
+
+The mind is an incredible lawyer when the body wants something.
+
+Mara leaned both hands on the counter and watched her reflection in the dark window behind the cigarette display.
+
+She looked older in glass.
+
+Everyone looked older in gas station glass.
+
+The face staring back at her had purple under the eyes, hair pulled into a messy knot, and the hard blank expression of a person trying not to feel one specific thing by feeling nothing.
+
+Ding.
+
+This time, she grabbed the phone.
+
+Not because she decided to.
+
+Because the hand moved.
+
+That was how it felt.
+
+Like the hand was an employee and she was only management in theory.
+
+The screen lit.
+
+No text.
+
+No missed call.
+
+No social notification.
+
+Instead, there was an icon she did not recognize.
+
+White circle.
+
+Black center.
+
+A small ripple pattern inside it.
+
+Underneath the icon, one word:
+
+INTERVENTION
+
+Mara frowned.
+
+“The hell?”
+
+She swiped up.
+
+The phone opened without asking for her passcode.
+
+That should have scared her.
+
+It did not.
+
+Fear required space. The craving had filled all available space.
+
+The app screen was black.
+
+No menu.
+
+No loading bar.
+
+No logo animation.
+
+Just a single line of white text in the center.
+
+PLAYER DETECTED
+
+Mara stared at it.
+
+Then the text changed.
+
+ROOM: 3:17 A.M.  
+STATE: ACTIVATED  
+LAYER: TRIGGER
+
+She laughed once, dry and humorless.
+
+“Cute.”
+
+The screen changed again.
+
+A TRIGGER IS NOT AN INSTRUCTION.
+
+The words sat there.
+
+Plain.
+
+Almost disappointing.
+
+Not poetic.
+
+Not mystical.
+
+Not enough.
+
+She wanted something bigger.
+
+A sign.
+
+A warning.
+
+A threat.
+
+An angel with flaming eyes.
+
+A demon with receipts.
+
+A dead grandmother.
+
+A cop.
+
+A child.
+
+A loud voice from somewhere above the ceiling saying, Mara, put the phone down.
+
+Instead, she got a sentence.
+
+A trigger is not an instruction.
+
+She hated it immediately.
+
+Not because it was wrong.
+
+Because it gave her room.
+
+The command in her body had felt solid until the sentence appeared. Now there was a small gap between the feeling and the action. Not a big gap. Not freedom. Not healing. Not a miracle.
+
+Just a gap.
+
+A hairline crack in the machine.
+
+The text box with Devin’s name was still open behind the app. She could feel it there. Waiting. Warm. Familiar. The D was probably still sitting there like bait.
+
+Her thumb hovered.
+
+INTERVENTION updated.
+
+CURRENT INPUT OPTIONS:
+
+1. SEND MESSAGE
+    
+2. DELETE MESSAGE
+    
+3. DELAY RESPONSE
+    
+4. CHANGE ROOM
+    
+5. CALL WITNESS
+    
+
+Mara whispered, “What the fuck is this?”
+
+The app did not answer.
+
+Of course it did not.
+
+Games did not answer why.
+
+They offered mechanics.
+
+She tapped nothing.
+
+Her chest hurt.
+
+The fluorescent lights buzzed louder.
+
+The cooler motor kicked on behind her with a low mechanical groan.
+
+A truck passed outside, slow enough for its headlights to drag across the window. For one second, the whole store filled with moving light. Candy wrappers shone. The mop bucket gleamed. The lottery machine blinked its fake little promise.
+
+Then dark again.
+
+Her thumb moved toward the corner of the screen.
+
+Back.
+
+Messages.
+
+D.
+
+She opened the conversation.
+
+The last message from Devin was forty-two days old.
+
+u fr done?
+
+No punctuation.
+
+No apology.
+
+No “are you okay?”
+
+No “I miss you.”
+
+Just that.
+
+u fr done?
+
+She had never answered.
+
+That silence had been the strongest thing she had done all year.
+
+Tonight, it felt like a locked door from the wrong side.
+
+Her thumb clicked the message field.
+
+The keyboard rose.
+
+She typed:
+
+I miss you
+
+Three words.
+
+True enough to be dangerous.
+
+False enough to be cruel.
+
+Because missing him was not the same as wanting the life back. Missing him was not proof. Missing him was not instruction. Missing him was a body remembering the nearest source of warmth, even if that warmth had burned the house down.
+
+Her thumb hovered over send.
+
+Ding.
+
+The INTERVENTION icon pulsed at the top of the screen.
+
+She did not tap it.
+
+The notification dropped down anyway.
+
+DELAY RESPONSE AVAILABLE  
+10 MINUTES CHANGES STATE
+
+“Shut up,” she whispered.
+
+The phone did not shut up.
+
+DELAY IS NOT DENIAL  
+DELAY IS AN INTERVENTION POINT
+
+Mara’s eyes burned.
+
+That made her angrier.
+
+She did not want to cry in a gas station under LED beer signs at 3:23 in the morning because an app with no personality had explained willpower better than every motivational quote she had ever reposted.
+
+She locked the phone and threw it onto the hoodie.
+
+Too hard.
+
+It bounced once and slid toward the edge of the counter.
+
+She caught it before it fell.
+
+Of course she caught it.
+
+That was the whole joke.
+
+She could catch the phone.
+
+She could catch falling cigarettes.
+
+She could catch a drawer shortage before her manager noticed.
+
+She could catch a customer stealing a charger from aisle three through the reflection in the security mirror.
+
+She could catch tone changes, weather shifts, lies, threats, footsteps, mood, silence, and the exact second a man decided he was done pretending he would not hit something.
+
+She could catch everything except herself before the old path opened.
+
+The bell over the door jingled.
+
+Mara flinched.
+
+A woman stepped inside carrying a toddler on her hip and a backpack over one shoulder. The woman looked exhausted in a way that made Mara straighten without thinking. Young. Maybe twenty-two. Maybe thirty. Hard to tell at this hour. The child was asleep, cheek smashed against the woman’s shoulder, one tiny hand tangled in her shirt collar.
+
+“Bathroom?” the woman asked.
+
+Mara pointed. “Back left.”
+
+“Thank you.”
+
+The woman hurried past the coolers.
+
+The child lifted his head for half a second and looked at Mara.
+
+Not really at her.
+
+Through her.
+
+Sleepy eyes. Warm face. Alive in that trusting, heavy way sleeping kids are alive when they know someone else is carrying the whole world for them.
+
+Then the bathroom door closed.
+
+Mara looked away.
+
+The phone was still on the counter.
+
+She opened it again.
+
+The message remained.
+
+I miss you
+
+Send button glowing.
+
+Her thumb hovered.
+
+In the bathroom, water ran.
+
+The child coughed.
+
+The woman said something soft that Mara could not hear.
+
+Mara imagined herself sending the message. Devin answering. The little spark in her chest when his name appeared. The relief. The plan. The lie that it was only talking. The ride after work. The smell of the car. The laugh. The apology that would sound close enough to love if she tilted her head.
+
+Then she imagined coming in tomorrow with no sleep and a story she had already told three times before.
+
+My phone died.
+
+I was tired.
+
+It wasn’t like that.
+
+I just needed closure.
+
+I didn’t use.
+
+I mean I did but it wasn’t like before.
+
+I swear I’m done now.
+
+Done done.
+
+Her stomach twisted.
+
+The bathroom door opened.
+
+The woman came back carrying the child, now wrapped in a thin dinosaur blanket.
+
+“Do you sell little milk cartons?” the woman asked.
+
+“Cooler by the orange juice.”
+
+The woman nodded and walked over.
+
+Mara watched her scan the shelves, shifting the child’s weight from one hip to the other. Her hands were shaking slightly. She counted coins in her palm. Put one thing back. Picked up the milk. Checked the price again.
+
+Mara knew that math.
+
+That was not school math.
+
+That was survival math.
+
+Milk or gas.
+
+Diaper or sandwich.
+
+Phone bill or lights.
+
+One more hour or quit.
+
+The woman came to the counter with milk, a banana, and a pack of crackers.
+
+“Pump four,” she said. “Just three dollars.”
+
+Mara rang up the food.
+
+The total was too high.
+
+The woman looked at the coins in her hand.
+
+Her face did the thing faces do when they are trying to stay normal in front of strangers.
+
+“Take off the crackers,” she said.
+
+The child woke fully then.
+
+Not screaming.
+
+Worse.
+
+He looked at the crackers.
+
+His mouth trembled.
+
+The woman closed her eyes for one second.
+
+Mara looked at the phone.
+
+The message to Devin glowed under her thumb.
+
+I miss you
+
+The app notification still sat at the top of the screen.
+
+DELAY RESPONSE AVAILABLE
+
+Mara turned the phone facedown.
+
+She reached under the counter, took her own debit card from the back of her case, and swiped it before the woman could object.
+
+The register beeped.
+
+Receipt printed.
+
+The woman stared.
+
+“Oh, no, I can’t—”
+
+“You’re good,” Mara said.
+
+“No, really, I—”
+
+“You’re good.”
+
+The woman’s eyes filled so fast it embarrassed them both.
+
+“Thank you,” she whispered.
+
+Mara shrugged like it was nothing.
+
+Because that was another survival skill.
+
+Pretending kindness had not cost anything.
+
+The woman took the bag, gathered the child, and pushed through the door into the cold white light of the pumps.
+
+Mara watched her buckle the child into a car seat through the window.
+
+The phone vibrated.
+
+Not ding.
+
+Vibrate.
+
+Low against the counter.
+
+She turned it over.
+
+INTERVENTION had opened again.
+
+UNEXPECTED OUTPUT DETECTED
+
+Mara frowned.
 
 The screen updated.
 
-**Good.**
+RIPPLE CREATED
 
-He frowned.
+She almost laughed.
 
-“Wet shoes.”
+Almost.
 
-**Good.**
+Outside, the woman at pump four leaned her forehead against the top of her car for one second before starting the gas. Then she wiped her face with her sleeve, got in, and drove away with three dollars of fuel and a sleeping child eating crackers in the back seat.
 
-“Wrong stop.”
+Mara looked back at the phone.
 
-**Good.**
+The message was still there.
 
-“Need to get home.”
+I miss you
 
-**Good.**
+Only now it looked different.
 
-“Kind of freaked out.”
+Not less true.
 
-**Also base reality.**
+Just smaller.
 
-That line bothered him.
+That surprised her.
 
-He had spent years treating fear like either weakness or prophecy.
+The craving had not vanished. It had not been defeated. It had not been cast out by the power of generosity or motherhood or some corny gas station miracle.
 
-If he was afraid, either he was pathetic or something terrible was definitely about to happen.
+It was still there.
 
-The book had a third category.
+A hot wire in the chest.
 
-Fear could just be information.
+But it was no longer the only thing in the room.
 
-Not truth.
+That was the change.
 
-Not command.
+The room had widened.
 
-Information.
+The command had become an option.
 
-The screen changed.
+Mara selected the text.
 
-**Base reality is not always comforting. It is the layer where action is safest.**
+Deleted it.
 
-Tomas slipped the phone into his pocket.
+Then she deleted the D.
 
-“Okay, mysterious book. I’m cold. What now?”
+Then she closed the conversation.
 
-The book did not reply.
+Then she opened her contacts and called her sister.
 
-The phone buzzed once.
+It rang six times.
 
-**Find warmth.**
+On the seventh, a voice answered thick with sleep.
 
-“Genius.”
+“Mara?”
 
-He started walking.
+Mara pressed her palm against her eyes.
 
-At the corner, he passed the sleeping man under the shelter.
+“I didn’t send it.”
 
-The man’s cardboard sign had fallen face down beside him. Tomas could not read it. He told himself not to stop.
+Her sister was quiet.
 
-He had three dollars, a cracked phone screen, wet shoes, and a mystery book that apparently came with strangers.
+Then awake.
 
-He was not in a position to be anybody’s rescue team.
-
-Then he remembered the first rule.
-
-**If you are hungry, eat.  
-If you are in danger, leave.  
-If you need help, ask a real person.  
-This book is not a rescue team.**
-
-He stopped.
-
-Turned around.
-
-The man under the shelter shifted in his sleep.
-
-Tomas felt annoyed before he felt kind.
-
-That was honest.
-
-Kindness would have made a better story.
-
-Annoyance was base reality.
-
-He walked back and nudged the sign upright.
-
-It said:
-
-**HUNGRY. ANYTHING HELPS.**
-
-Tomas stared at it.
-
-His phone buzzed.
-
-He did not look.
-
-“Don’t start,” he muttered.
-
-The phone buzzed again.
-
-He pulled it out.
-
-**Intervention point available.**
-
-Tomas shut his eyes.
-
-“I have three dollars.”
-
-The screen replied:
-
-**Base reality noted.**
-
-“I’m not buying him dinner.”
-
-**No command issued.**
-
-“I’m tired.”
-
-**Base reality noted.**
-
-“I don’t even know if he’s awake.”
-
-**Base reality noted.**
-
-“What do you want from me?”
-
-The screen paused.
-
-Then:
-
-**What can happen without pretending you have more than you have?**
-
-Tomas hated that.
-
-Not because it was manipulative.
-
-Because it was reasonable.
-
-He crossed to the liquor store and bought a bottle of water and a pack of peanut butter crackers. It cost two dollars and sixteen cents.
-
-He came back, set them beside the man’s hand, and started to walk away.
-
-The man opened one eye.
-
-For one second, Tomas wished he had not stopped.
-
-Witness made everything heavier.
-
-The man looked at the crackers.
-
-Then at Tomas.
-
-“Thanks.”
-
-Tomas nodded once.
-
-“Yeah.”
-
-The man closed his eye again.
-
-No music swelled.
-
-No reward appeared.
-
-No cosmic warmth filled Tomas’s chest.
-
-He was still cold.
-
-Still tired.
-
-Still broke.
-
-Still three stops from home.
-
-The phone buzzed.
-
-**Ripple logged.**
-
-Tomas looked at the screen.
-
-“What ripple? I gave him crackers.”
-
-**One person ate because another person noticed.**
-
-Tomas stood there, angry in a way he could not explain.
-
-“That’s not enough.”
-
-The phone answered immediately.
-
-**Correct.**
-
-That stopped him.
-
-The screen continued:
-
-**An intervention does not have to solve the whole system to be real.**
-
-Tomas read the sentence three times.
-
-Then he put the phone away and kept walking.
-
----
-
-He reached home at 2:31 a.m.
-
-Home was a one-bedroom apartment he shared with his cousin Maribel and her six-year-old son, Eli.
-
-The couch was Tomas’s.
-
-The closet was half storage, half his.
-
-The kitchen table had three legs that touched the floor and one that believed in theory.
-
-He unlocked the door as quietly as possible.
-
-Eli was asleep on the couch.
-
-In Tomas’s spot.
-
-A blanket was twisted around one foot. His mouth hung open. One hand rested on a plastic dinosaur.
-
-Tomas stood in the doorway, cold and wet and suddenly aware that base reality had a sense of humor.
-
-He could wake the kid.
-
-He could move him.
-
-He could complain.
-
-He could sleep on the floor.
-
-He could be angry at Maribel for letting Eli crash there again.
-
-He could be angry at himself for being thirty-two and sleeping on a couch he did not even fully control.
-
-The book in his backpack felt heavier.
-
-He hated that too.
-
-He set his bag down.
-
-Eli stirred.
-
-“Uncle T?”
-
-“Yeah. Go back to sleep.”
-
-“You got work?”
-
-“Already did.”
-
-“You smell like fries.”
-
-“So do my dreams.”
-
-Eli smiled without opening his eyes.
-
-Tomas pulled the blanket up over him.
-
-Then grabbed a folded towel from the laundry basket and made a pillow on the floor.
-
-His phone buzzed.
-
-He whispered, “If you say ripple, I’m throwing you out the window.”
-
-The screen glowed.
-
-**Base reality has priority. Sleep.**
-
-Tomas blinked.
-
-“Oh.”
-
-For the first time all night, the game did not ask him to interpret anything.
-
-It told him to stop.
-
-That scared him more than the questions.
-
-Because it meant the system had boundaries.
-
-Or at least pretended to.
-
-He lay on the floor.
-
-The carpet smelled like dust and apple juice.
-
-The refrigerator clicked.
-
-Someone upstairs walked heavily across their apartment.
-
-Eli breathed in soft little whistles.
-
-Tomas opened the book one more time.
-
-The page that had been blank on the bus now contained text.
-
-**Chapter Two begins when the observer mistakes analysis for action.**
-
-He frowned.
-
-Below it:
-
-**You are tired.  
-You are cold.  
-You have done enough for this hour.  
-Rest is not avoidance when the body is the base layer asking for repair.**
-
-Tomas stared at the page until the letters blurred.
-
-He had never trusted rest.
-
-Rest felt like falling behind.
-
-Rest felt like punishment wearing pajamas.
-
-Rest felt like something other people earned.
-
-But the book did not call it peace.
-
-It called it repair.
-
-That word got through.
-
-He closed the book.
-
-The cover was warm under his hand.
-
-Probably because it had been near his body.
-
-Probably.
-
-Before he fell asleep, his phone buzzed one last time.
-
-He almost ignored it.
-
-Then smiled despite himself.
-
-The screen read:
-
-**Checkpoint saved.**
-
-Tomas whispered, “That is so stupid.”
-
-Then slept harder than he had slept in weeks.
-
----
-
-Morning came mean.
-
-Eli stepped on his ankle at 6:47 a.m.
-
-Tomas woke up making a sound he did not respect.
-
-“Sorry!” Eli yelled, not sorry enough.
-
-Maribel was in the kitchen, making coffee with the desperate precision of a woman who had been awake too long.
-
-“You slept on the floor?” she asked.
-
-“Eli stole my estate.”
-
-Eli climbed onto the couch like royalty reclaiming a throne.
-
-“I was tired.”
-
-“We all got hobbies.”
-
-Maribel handed Tomas coffee.
-
-Then noticed the black book on the floor.
-
-“What’s that?”
-
-Tomas picked it up too fast.
-
-“Nothing.”
-
-“That is never true when someone says it like that.”
-
-“It’s a book.”
-
-“I know what books are.”
-
-“It’s weird.”
-
-“Most things you bring home are weird.”
-
-“I found it.”
-
-“Worse.”
-
-Eli leaned over the couch.
-
-“Does it have pictures?”
+“You didn’t?”
 
 “No.”
 
-“Then why read it?”
+“Are you at work?”
 
-“Excellent question.”
+“Yeah.”
 
-Maribel held out her hand.
+“You alone?”
 
-Tomas hesitated.
+“Yeah.”
 
-He did not know why.
+“Do you want me to stay on the phone?”
 
-It was just a book.
+Mara nodded before remembering her sister could not see her.
 
-He gave it to her.
+“Yeah,” she said.
 
-She opened the first page.
+Her sister breathed out slowly.
 
-Her face changed.
+“Okay. I’m here.”
 
-Not dramatically.
+Mara leaned against the counter.
 
-Just enough.
+The gas station hummed.
 
-The way faces change when private pain recognizes public language.
+The pumps waited.
 
-She read silently.
+The lights buzzed.
 
-Then turned the page.
+The night did not become beautiful.
 
-Then another.
+The world did not reward her with music.
 
-Tomas waited.
+No achievement unlocked.
 
-“What does it say?” he asked.
+No badge appeared.
 
-Maribel did not answer right away.
+No heavenly chorus.
 
-Finally she said, “It says I’m not the only one in this apartment carrying the whole apartment.”
+No permanent recovery.
 
-Tomas felt that land badly.
+No promise that tomorrow would be easier.
 
-“Maribel—”
+Only this:
 
-She closed the book and handed it back.
+At 3:31 a.m., in a gas station no one would remember, a woman did not text the person who could reopen the loop.
 
-“I’m not mad.”
+Instead, she bought crackers for a stranger’s child.
 
-“You look mad.”
+Then she called a witness.
 
-“I am mad. But not only at you.”
+The phone screen dimmed.
 
-“That’s comforting.”
+INTERVENTION remained open beneath her sister’s breathing.
 
-She almost smiled.
+One final line appeared before the app went black.
 
-The book slipped open in Tomas’s hands.
+A TRIGGER IS NOT AN INSTRUCTION.
 
-A new page had appeared.
+This time, Mara did not hate it.
 
-**Shared architecture detected.**
+Not completely.
 
-He snapped it shut.
+She looked through the window at the empty parking lot and saw, for the first time that night, not a trap.
 
-“Nope.”
+A room.
 
-Maribel looked at him.
-
-“What?”
-
-“This book is doing too much before coffee.”
-
-She pointed at it.
-
-“Then maybe drink coffee before letting it read your life.”
-
-Tomas stared at her.
-
-“You’re way too calm about this.”
-
-“I’m a mother. Haunted objects are like fourth on my list.”
-
-Eli popped up.
-
-“What’s first?”
-
-“School emails.”
-
-He accepted that.
-
-Tomas’s phone buzzed.
-
-He refused to look.
-
-It buzzed again.
-
-Maribel raised an eyebrow.
-
-“Your haunted book has an app?”
-
-“I did not download anything.”
-
-“That’s what people say in movies before the demon gets administrative access.”
-
-He looked at the phone.
-
-**Rule One review available.**
-
-Under it:
-
-**Base reality has priority.**
-
-Then:
-
-**Meaning is useful only after survival needs are acknowledged.**
-
-The app displayed three buttons.
-
-Eat.
-
-Sleep.
-
-Leave.
-
-Ask for help.
-
-Tomas stared.
-
-“Those are four buttons.”
-
-The app replied:
-
-**Good. You are awake enough to count.**
-
-He laughed once.
-
-Maribel looked at him like he had finally lost his last good screw.
-
-He showed her the screen.
-
-She read it.
-
-Then said, “Eat.”
-
-“I have coffee.”
-
-“That is not food.”
-
-“It’s emotional food.”
-
-“It is bean water with panic.”
-
-Eli yelled from the couch, “Bean water!”
-
-Maribel pointed at Tomas.
-
-“Make toast.”
-
-Tomas wanted to argue.
-
-Then realized he was about to argue against toast while holding a supernatural workbook about reality.
-
-He made toast.
-
-Two pieces.
-
-One for him.
-
-One for Eli.
-
-Maribel stole half of his.
-
-Base reality had priority.
-
----
-
-At 8:03 a.m., Tomas got a notification.
-
-Not from INTERVENTION.
-
-From his bank.
-
-Balance: $18.44.
-
-Rent due in five days.
-
-Phone bill due in eight.
-
-Work schedule posted.
-
-Four doubles.
-
-One closing shift.
-
-No days off until Monday.
-
-The world became small again.
-
-Not metaphorically.
-
-Literally.
-
-The kitchen shrank.
-
-The air tightened.
-
-The book became stupid.
-
-The app became stupid.
-
-Ripples became stupid.
-
-The man with crackers became stupid.
-
-He had eighteen dollars.
-
-That was base reality.
-
-And base reality did not care about poetry.
-
-He opened the app, angry.
-
-“What now, genius?”
-
-The screen displayed:
-
-**Name base reality.**
-
-“Eighteen dollars.”
-
-**Good.**
-
-“Rent due.”
-
-**Good.**
-
-“Phone bill due.”
-
-**Good.**
-
-“No day off.”
-
-**Good.**
-
-“I’m screwed.”
-
-The app paused.
-
-Then:
-
-**Interpretation detected.**
-
-Tomas felt heat rise in his face.
-
-“Oh, come on.”
-
-The screen continued:
-
-**Base reality: resources are limited.  
-Interpretation: I am screwed.  
-Possible action requires separating the two.**
-
-He wanted to hate that.
-
-He almost did.
-
-Then Maribel, who had been pretending not to watch, said, “That part’s annoying but fair.”
-
-Tomas looked at her.
-
-“You’re on its side now?”
-
-“I’m on the side of you not spiraling before breakfast.”
-
-That sentence entered the room differently.
-
-Not as advice.
-
-As intervention.
-
-He sat down.
-
-The app asked:
-
-**What is one action available before panic becomes architecture?**
-
-Tomas typed:
-
-Check if I can pick up one extra shift next week.
-
-The app replied:
-
-**Available.**
-
-He typed:
-
-Ask Maribel if I can pay part of rent Friday and part Monday.
-
-The app replied:
-
-**Available. Requires conversation.**
-
-Maribel looked over.
-
-“You can.”
-
-Tomas blinked.
-
-“What?”
-
-“You can pay part Friday and part Monday.”
-
-He stared at her.
-
-“I didn’t ask yet.”
-
-“You were going to. I live here too.”
-
-For a second, Tomas had no clever answer.
-
-The app buzzed.
-
-**Intervention received.**
-
-Maribel pointed at the phone.
-
-“Tell your ghost book I said you’re welcome.”
-
-Tomas typed:
-
-Maribel says you’re welcome.
-
-The app replied:
-
-**Acknowledged. Human intervention has priority over system prompt.**
-
-Maribel nodded.
-
-“Finally, some respect.”
-
-Tomas laughed.
-
-And for the first time since finding the book, he understood something important.
-
-INTERVENTION was not powerful because it knew everything.
-
-It was powerful because it kept pointing him back to what was actually there.
-
-Cold.
-
-Food.
-
-Money.
-
-People.
-
-Rooms.
-
-Choices.
-
-Limits.
-
-Help.
-
-Not fantasy.
-
-Not escape.
-
-Base reality.
-
-But rendered with handles.
-
----
-
-That afternoon, before his next shift, Tomas opened the book again.
-
-The new chapter heading had appeared.
-
-**Chapter Two: Base Reality Has Priority**
-
-Under it:
-
-**Many players fail here.**
-
-Tomas frowned.
-
-That felt rude.
-
-The page continued:
-
-**They want symbols before food.  
-Meaning before sleep.  
-Patterns before safety.  
-Mystery before rent.  
-They want the game to replace the life they do not know how to carry.**
-
-He swallowed.
-
-**Do not do this.**
-
-Then:
-
-**The first playable layer is not the hidden world.  
-It is the real one.**
-
-Tomas sat very still.
-
-Outside, a siren passed.
-
-Eli yelled at a cartoon in the other room.
-
-Maribel argued with someone on the phone about a bill.
-
-The refrigerator hummed.
-
-The world did not become beautiful.
-
-It became specific.
-
-That was enough.
-
-At the bottom of the page, one final line appeared:
-
-**Chapter Three unlocks when an old path opens and you do not immediately walk through it.**
-
-Tomas knew exactly what that meant.
-
-The gas station.
-
-Three blocks from his apartment.
-
-The one he did not walk past anymore.
-
-His phone buzzed.
-
-**Trigger Point module pending.**
-
-Tomas closed the book.
-
-“Of course.”
-
-Eli looked over from the couch.
-
-“What?”
-
-“Nothing.”
-
-“You always say nothing when it’s something.”
-
-Tomas grabbed his work shirt.
-
-“That’s because I’m mysterious.”
-
-Eli squinted.
-
-“You’re not mysterious. You smell like toast and fries.”
-
-“Base reality has priority,” Tomas said.
-
-Eli blinked.
-
-“What?”
-
-Tomas smiled.
-
-“Exactly.”
-
-He left for work with eighteen dollars, wet shoes drying by the door, a black book in his backpack, and the strange new understanding that reality had not gotten easier.
-
-It had gotten labeled.
-
-And somehow, that made the next step easier to find.
+And rooms could change.
