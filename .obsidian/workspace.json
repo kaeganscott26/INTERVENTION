@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prologue.md",
-                "mode": "preview",
+                "file": "Chapter 1.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prologue"
+              "title": "Chapter 1"
             }
           }
         ]
@@ -182,14 +182,14 @@
   },
   "active": "1d2310427840d478",
   "lastOpenFiles": [
+    "Chapter 2.md",
+    "Chapter 1.md",
+    "Prologue.md",
     "Chapter 7.md",
     "Chapter 4.md",
     "Chapter 5.md",
     "Chapter 3.md",
     "Chapter 8.md",
-    "Chapter 2.md",
-    "Chapter 1.md",
-    "Prologue.md",
     "INTERVENTION.md",
     "Dedication.md",
     "Chapter 15.md",
