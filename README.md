@@ -1,6 +1,6 @@
 # INTERVENTION
 
-## A playable book for those who notice rooms inside rooms.
+## A playable book for those who notice rooms.
 
 You have found the doorway.
 
