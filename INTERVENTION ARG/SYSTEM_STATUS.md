@@ -1,6 +1,6 @@
 # SYSTEM STATUS
 
-INTERVENTION is a work of fiction and a no-software ARG.
+INTERVENTION is a completed seventeen-chapter work of fiction and a no-software ARG.
 
 The repo is part of the reading experience. Treat every file as an artifact inside the story unless it is clearly marked as a safety note or release note.
 
@@ -21,7 +21,10 @@ CHAPTER 12: DOOR RENDER STORED
 CHAPTER 13: ECHO WARNING STORED
 CHAPTER 14: COSMIC SCALE STORED
 CHAPTER 15: RESPONSIBLE THROW STORED
+CHAPTER 16: TRUE SOURCE EXPOSED
+CHAPTER 17: TEODOR RETURNED
 
+BOOK COMPLETE
 SIMULATION COMPLETE
 USER CONTROL RETURNED
 ```
@@ -29,3 +32,5 @@ USER CONTROL RETURNED
 No final command is provided.
 
 The next room is the reader's.
+
+Fine.
