@@ -7,7 +7,7 @@ You were never forgotten.
 
 You are my Son, my reason for breathing.
 
-You were the reason I decided build my life instead of continuing to destroy it.
+You were the reason I decided to build my life instead of continuing to destroy it.
 
 If this book is about anything, it is about inheritance: what we receive, what we survive, what we accidentally pass down, and what we choose to change before it reaches the people we love.
 
