@@ -146,9 +146,93 @@
               "icon": "lucide-file",
               "title": "Chapter 1"
             }
+          },
+          {
+            "id": "0f1612f7ed12c55e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INTERVENTION ARG/Chapter 10.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 10"
+            }
+          },
+          {
+            "id": "f8fb3e9fe07a60f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INTERVENTION ARG/Chapter 11.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 11"
+            }
+          },
+          {
+            "id": "917ee5419e1e0b9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INTERVENTION ARG/Chapter 12.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 12"
+            }
+          },
+          {
+            "id": "67e55cb1fe78c167",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INTERVENTION ARG/Chapter 13.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 13"
+            }
+          },
+          {
+            "id": "e7a49581016482ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INTERVENTION ARG/Chapter 14.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 14"
+            }
+          },
+          {
+            "id": "e5d7f45d34b9f38f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 15.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 15"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -307,15 +391,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "3d69ae806e239ba2",
+  "active": "e5d7f45d34b9f38f",
   "lastOpenFiles": [
+    "INTERVENTION ARG/Chapter 14.md",
+    "Chapter 15.md",
+    "INTERVENTION ARG/Chapter 13.md",
+    "INTERVENTION ARG/Chapter 12.md",
+    "INTERVENTION ARG/Chapter 11.md",
+    "INTERVENTION ARG/Chapter 10.md",
+    "INTERVENTION ARG/Chapter 1.md",
     "INTERVENTION ARG/Chapter 7.md",
     "INTERVENTION ARG/HOW_TO_PLAY.md",
-    "INTERVENTION ARG/Chapter 1.md",
     "INTERVENTION ARG/Chapter 8.md",
     "INTERVENTION ARG/Dedication.md",
     "INTERVENTION ARG/Prologue.md",
-    "Chapter 10.md",
     "INTERVENTION ARG/Chapter 9.md",
     "INTERVENTION ARG/HOW_TO_PLAY.md.md",
     "README.md",
@@ -326,10 +415,6 @@
     "INTERVENTION ARG/Chapter 5.md",
     "INTERVENTION ARG/Chapter 4.md",
     "INTERVENTION ARG/Chapter 3.md",
-    "Chapter 15.md",
-    "Chapter 14.md",
-    "Chapter 13.md",
-    "Chapter 12.md",
-    "Chapter 11.md"
+    "Chapter 15.md"
   ]
 }
