@@ -4,7 +4,7 @@
 
 You have found the doorway.
 
-INTERVENTION is a fifteen-chapter fiction experiment, a no-software ARG, and a story-system built around Ripple Theory.
+INTERVENTION is a completed seventeen-chapter fiction experiment, a no-software ARG, and a story-system built around Ripple Theory.
 
 It is a book about a game.
 
@@ -24,9 +24,9 @@ Start here:
 
 - `INTERVENTION ARG/HOW_TO_PLAY.md`
 - `INTERVENTION ARG/ORDER.md`
-- `INTERVENTION ARG/Chapter 1.md`
+- `INTERVENTION ARG/Chapter 01.md`
 
-The chapters are stored in order from Chapter 1 through Chapter 15 inside `INTERVENTION ARG/`.
+The chapters are stored in order from Chapter 01 through Chapter 17 inside `INTERVENTION ARG/`.
 
 The artifact layer lives inside:
 
@@ -135,7 +135,21 @@ Feedback is what happens after the system responds, teaching the observer what s
 
 ---
 
+## Completion
+
+INTERVENTION is now complete as a seventeen-chapter book.
+
+Chapters 1–15 build the playable architecture of Ripple Theory.
+
+Chapter 16 exposes the thing under the thing: grief, signal, posting, shame, and the sentence the system was orbiting all along.
+
+Chapter 17 returns to Teodor and closes the book with adoption, naming, fatherhood, missed intervention, inheritance, accountability, Kaegan, and the final word: `Fine`.
+
+---
+
 ## Final Status
+
+`BOOK COMPLETE`
 
 `SIMULATION COMPLETE`
 
