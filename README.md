@@ -1,4 +1,4 @@
-# INTERVENTION
+# 🗝️ INTERVENTION 🗝️
 
 ## A playable book for those who notice rooms.
 
@@ -16,27 +16,34 @@ The game does not begin when you open the book.
 
 It begins after you close it.
 
+```text
+ARTIFACT: README 001
+STATUS: DOORWAY FOUND
+OBSERVER: YOU
+```
+
 ---
 
-## Enter
+## 🚪 Enter
 
 Start here:
 
-- `INTERVENTION ARG/HOW_TO_PLAY.md`
-- `INTERVENTION ARG/ORDER.md`
-- `INTERVENTION ARG/Chapter 01.md`
+- [Enter the Room](INTERVENTION%20ARG/HOW_TO_PLAY.md)
+- [Read the Canonical Order](INTERVENTION%20ARG/ORDER.md)
+- [Begin Chapter 01](INTERVENTION%20ARG/Chapter%2001.md)
 
 The chapters are stored in order from Chapter 01 through Chapter 17 inside `INTERVENTION ARG/`.
 
 The artifact layer lives inside:
 
-- `INTERVENTION ARG/ARTIFACTS/`
-- `INTERVENTION ARG/SYSTEM_STATUS.md`
-- `INTERVENTION ARG/BOUNDARIES.md`
+- [Artifact Layer](INTERVENTION%20ARG/ARTIFACTS/)
+- [System Status](INTERVENTION%20ARG/SYSTEM_STATUS.md)
+- [Boundaries & Consent](INTERVENTION%20ARG/BOUNDARIES.md)
+- [Community Ripple Guide](INTERVENTION%20ARG/COMMUNITY_RIPPLES.md)
 
 ---
 
-## Before You Enter
+## ⚠️ Before You Enter
 
 INTERVENTION is not here to tell you that fiction is secretly real.
 
@@ -57,7 +64,7 @@ The noticing is real.
 
 ---
 
-## What This Is
+## 🌀 What This Is
 
 INTERVENTION is structured as a sequence of rooms.
 
@@ -79,7 +86,7 @@ The reader is learning how to see.
 
 ---
 
-## The Rules of the Game
+## 🎮 The Rules of the Game
 
 There are no passwords to solve.
 
@@ -101,13 +108,23 @@ Language is interface.
 Relationships are multiplayer architecture.  
 Feedback teaches the next move.
 
+```text
+EVENT ENTERS ROOM
+OBSERVER RENDERS EVENT
+PERCEPTION CHANGES BEHAVIOR
+BEHAVIOR CHANGES ROOM
+ROOM RETURNS FEEDBACK
+FEEDBACK CHANGES OBSERVER
+RIPPLE CONTINUES
+```
+
 The game asks one question again and again:
 
 **What room are you in, and what ripple are you creating?**
 
 ---
 
-## Ripple Theory
+## 🌊 Ripple Theory
 
 Ripple Theory begins with a simple claim:
 
@@ -135,7 +152,30 @@ Feedback is what happens after the system responds, teaching the observer what s
 
 ---
 
-## Completion
+## 🧭 Participate Without Breaking the Room
+
+Readers are invited to participate carefully.
+
+You may:
+
+- Open an Issue to log a ripple you noticed.
+- Open an Issue to describe an intervention point.
+- Use Discussions for longer reflections, questions, or room reports.
+- Submit a pull request with an artifact, field note, recovered fragment, or reflection.
+
+Before participating, read:
+
+- [Community Ripple Guide](INTERVENTION%20ARG/COMMUNITY_RIPPLES.md)
+- [Boundaries & Consent](INTERVENTION%20ARG/BOUNDARIES.md)
+- [Artifact Layer README](INTERVENTION%20ARG/ARTIFACTS/README.md)
+
+The rule is simple:
+
+**Do not build cages and call them worlds.**
+
+---
+
+## ✅ Completion
 
 INTERVENTION is now complete as a seventeen-chapter book.
 
@@ -147,16 +187,25 @@ Chapter 17 returns to Teodor and closes the book with adoption, naming, fatherho
 
 ---
 
-## Final Status
+## 🔚 Exit
 
-`BOOK COMPLETE`
-
-`SIMULATION COMPLETE`
-
-`USER CONTROL RETURNED`
+```text
+BOOK COMPLETE
+SIMULATION COMPLETE
+USER CONTROL RETURNED
+```
 
 The book is not the game.
 
 The book is the doorway.
 
 What you do after you close it is where the game begins.
+
+Fine.
+
+<!--
+Artifact: README 001
+Found by: Observer
+Ripple: In progress
+Rule: Do not build cages and call them worlds.
+-->
