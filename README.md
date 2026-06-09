@@ -43,6 +43,8 @@ The official artifact layer lives inside:
 - [Mental Health Disclaimer](INTERVENTION%20ARG/MENTAL_HEALTH_DISCLAIMER.md)
 - [Community Ripple Guide](INTERVENTION%20ARG/COMMUNITY_RIPPLES.md)
 - [Community Echoes](COMMUNITY/)
+- [Theory Layer Note](NOTES/THEORY_LAYER.md)
+- [Review Log / Changelog](CHANGELOG.md)
 
 ---
 
@@ -291,6 +293,8 @@ In plain language:
 
 **Physics measures the ripple. Ripple Theory asks whether the ripple points to a deeper layer. Math decides whether the question survives contact with reality.**
 
+For a clearer separation of known science, speculative bridge-building, and story participation, read the [Theory Layer Note](NOTES/THEORY_LAYER.md).
+
 ---
 
 ## 🧭 Participate Without Breaking the Room
@@ -301,6 +305,7 @@ You may:
 
 - Open an Issue to log a ripple you noticed.
 - Open an Issue to describe an intervention point.
+- Open an Issue to propose a testable question.
 - Use Discussions for longer reflections, questions, or room reports.
 - Submit a pull request for typo fixes, documentation improvements, or curated community echoes.
 
@@ -319,6 +324,13 @@ Before participating, read:
 - [Boundaries & Consent](INTERVENTION%20ARG/BOUNDARIES.md)
 - [Artifact Layer README](INTERVENTION%20ARG/ARTIFACTS/README.md)
 - [Community Echoes README](COMMUNITY/README.md)
+- [Theory Layer Note](NOTES/THEORY_LAYER.md)
+
+Sample artifact issues:
+
+- [Issue #8: The Fork at the Bar](https://github.com/kaeganscott26/INTERVENTION/issues/8)
+- [Issue #9: Ripple Theory: Existence is the First Ripple](https://github.com/kaeganscott26/INTERVENTION/issues/9)
+- [Issue #10: Mathematical Framework: The First Ripple and Dynamic Expansion](https://github.com/kaeganscott26/INTERVENTION/issues/10)
 
 The rule is simple:
 
