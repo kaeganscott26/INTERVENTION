@@ -1,5 +1,29 @@
 # INTERVENTION ARG Architecture
 
+## Read This First
+
+INTERVENTION intentionally blurs fiction, reflection, and real-world noticing.
+
+That blur is part of the art.
+
+It is also why the boundary matters.
+
+Your life is not the ARG.
+
+Reality remains reality.
+
+If you are currently struggling to separate fiction from reality, experiencing paranoia, mania, psychosis, delusions, dissociation, severe crisis, or any mental state where pattern-based fiction could make symptoms worse, stop reading and contact a trusted real person or local professional support.
+
+No story outranks the body.
+
+No theory outranks safety.
+
+No framework outranks consent.
+
+Read the full [Mental Health Disclaimer](MENTAL_HEALTH_DISCLAIMER.md) before continuing.
+
+---
+
 ## Chapters 1–17 Meaning Map
 
 INTERVENTION is not structured like a normal linear novel.
