@@ -28,6 +28,7 @@ OBSERVER: YOU
 
 Start here:
 
+- [Read This First: Mental Health Disclaimer](INTERVENTION%20ARG/MENTAL_HEALTH_DISCLAIMER.md)
 - [Enter the Room](INTERVENTION%20ARG/HOW_TO_PLAY.md)
 - [Read the Canonical Order](INTERVENTION%20ARG/ORDER.md)
 - [Begin Chapter 01](INTERVENTION%20ARG/Chapter%2001.md)
@@ -39,6 +40,7 @@ The official artifact layer lives inside:
 - [Official Artifact Layer](INTERVENTION%20ARG/ARTIFACTS/)
 - [System Status](INTERVENTION%20ARG/SYSTEM_STATUS.md)
 - [Boundaries & Consent](INTERVENTION%20ARG/BOUNDARIES.md)
+- [Mental Health Disclaimer](INTERVENTION%20ARG/MENTAL_HEALTH_DISCLAIMER.md)
 - [Community Ripple Guide](INTERVENTION%20ARG/COMMUNITY_RIPPLES.md)
 - [Community Echoes](COMMUNITY/)
 
@@ -54,6 +56,14 @@ It is not therapy.
 It is not medical advice.  
 It is not crisis support.  
 It is not a replacement for family, community, treatment, rest, food, safety, or real-world help.
+
+This project intentionally blurs fiction, reflection, and real-world noticing.
+
+If you are currently struggling to separate fiction from reality, experiencing paranoia, mania, psychosis, delusions, dissociation, or any mental state where pattern-based fiction could make symptoms worse, do not continue alone.
+
+Your life is not the ARG.
+
+Reality remains reality.
 
 No story outranks the body.  
 No theory outranks safety.  
@@ -174,6 +184,7 @@ Reader submissions are echoes unless accepted and labeled otherwise.
 
 Before participating, read:
 
+- [Mental Health Disclaimer](INTERVENTION%20ARG/MENTAL_HEALTH_DISCLAIMER.md)
 - [Community Ripple Guide](INTERVENTION%20ARG/COMMUNITY_RIPPLES.md)
 - [Boundaries & Consent](INTERVENTION%20ARG/BOUNDARIES.md)
 - [Artifact Layer README](INTERVENTION%20ARG/ARTIFACTS/README.md)
@@ -219,5 +230,5 @@ Fine.
 Artifact: README 001
 Found by: Observer
 Ripple: In progress
-Rule: Readers can add echoes. Only the curator decides what becomes part of the room.
+Rule: Reality remains reality.
 -->
