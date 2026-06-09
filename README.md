@@ -34,12 +34,13 @@ Start here:
 
 The chapters are stored in order from Chapter 01 through Chapter 17 inside `INTERVENTION ARG/`.
 
-The artifact layer lives inside:
+The official artifact layer lives inside:
 
-- [Artifact Layer](INTERVENTION%20ARG/ARTIFACTS/)
+- [Official Artifact Layer](INTERVENTION%20ARG/ARTIFACTS/)
 - [System Status](INTERVENTION%20ARG/SYSTEM_STATUS.md)
 - [Boundaries & Consent](INTERVENTION%20ARG/BOUNDARIES.md)
 - [Community Ripple Guide](INTERVENTION%20ARG/COMMUNITY_RIPPLES.md)
+- [Community Echoes](COMMUNITY/)
 
 ---
 
@@ -161,15 +162,26 @@ You may:
 - Open an Issue to log a ripple you noticed.
 - Open an Issue to describe an intervention point.
 - Use Discussions for longer reflections, questions, or room reports.
-- Submit a pull request with an artifact, field note, recovered fragment, or reflection.
+- Submit a pull request for typo fixes, documentation improvements, or curated community echoes.
+
+Community submissions are not automatically canon.
+
+The seventeen chapters are complete.
+
+The official artifact layer is curated.
+
+Reader submissions are echoes unless accepted and labeled otherwise.
 
 Before participating, read:
 
 - [Community Ripple Guide](INTERVENTION%20ARG/COMMUNITY_RIPPLES.md)
 - [Boundaries & Consent](INTERVENTION%20ARG/BOUNDARIES.md)
 - [Artifact Layer README](INTERVENTION%20ARG/ARTIFACTS/README.md)
+- [Community Echoes README](COMMUNITY/README.md)
 
 The rule is simple:
+
+**Readers can add echoes. Only the curator decides what becomes part of the room.**
 
 **Do not build cages and call them worlds.**
 
@@ -207,5 +219,5 @@ Fine.
 Artifact: README 001
 Found by: Observer
 Ripple: In progress
-Rule: Do not build cages and call them worlds.
+Rule: Readers can add echoes. Only the curator decides what becomes part of the room.
 -->
