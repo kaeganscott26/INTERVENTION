@@ -44,6 +44,7 @@ The official artifact layer lives inside:
 - [Community Ripple Guide](INTERVENTION%20ARG/COMMUNITY_RIPPLES.md)
 - [Community Echoes](COMMUNITY/)
 - [Theory Layer Note](NOTES/THEORY_LAYER.md)
+- [Geometry as Consequence](NOTES/GEOMETRY_AS_CONSEQUENCE.md)
 - [Review Log / Changelog](CHANGELOG.md)
 
 ---
@@ -198,6 +199,24 @@ The deeper question is:
 
 **What is existence a consequence of?**
 
+### Geometry as consequence
+
+Ripple Theory also asks what shape consequence leaves behind.
+
+**Geometry is consequence made visible.**
+
+Shapes can repeat across scale when similar constraints appear: spirals, waves, branches, vortices, and toroidal circulation.
+
+Similar shape is not proof of identical mechanism.
+
+But similar shape can be a clue that flow, feedback, conservation, pressure, rotation, or constraint is shaping the system in related ways.
+
+A loop repeats.
+
+A torus circulates.
+
+For the full geometry layer, read [Geometry as Consequence](NOTES/GEOMETRY_AS_CONSEQUENCE.md).
+
 ### A physics-shaped mathematical framework
 
 This section is speculative. It is a bridge between metaphor, cosmology, and testable structure.
@@ -325,12 +344,14 @@ Before participating, read:
 - [Artifact Layer README](INTERVENTION%20ARG/ARTIFACTS/README.md)
 - [Community Echoes README](COMMUNITY/README.md)
 - [Theory Layer Note](NOTES/THEORY_LAYER.md)
+- [Geometry as Consequence](NOTES/GEOMETRY_AS_CONSEQUENCE.md)
 
 Sample artifact issues:
 
 - [Issue #8: The Fork at the Bar](https://github.com/kaeganscott26/INTERVENTION/issues/8)
 - [Issue #9: Ripple Theory: Existence is the First Ripple](https://github.com/kaeganscott26/INTERVENTION/issues/9)
 - [Issue #10: Mathematical Framework: The First Ripple and Dynamic Expansion](https://github.com/kaeganscott26/INTERVENTION/issues/10)
+- [Issue #11: Geometry as Consequence: Toroidal Circulation Across Scale](https://github.com/kaeganscott26/INTERVENTION/issues/11)
 
 The rule is simple:
 
