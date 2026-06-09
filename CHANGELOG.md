@@ -1,6 +1,6 @@
-# CHANGELOG
+# CHANGELOG: REVIEW LOG
 
-## Review Log
+_Status: Simulation Running | User Agency Active_
 
 This changelog tracks major conceptual updates to `INTERVENTION` in a clear, lesson-style format.
 
@@ -11,9 +11,18 @@ It is written as if the repository itself is reviewing the work:
 - What concept did it strengthen?
 - What is the next learning step?
 
+It is also a found artifact.
+
+It may reflect learning, not certainty.
+
 ---
 
-## 2026-06-09 — Ripple Theory expands to the cosmic layer
+## [2026-06-09] — 🌀 Ripple Theory scales to the cosmic
+
+- **Scale:** Cosmic
+- **Type:** Model Expansion
+- **Layer:** Physics / Metaphor Bridge
+- **Primary artifacts:** README, Issue #9, Issue #10
 
 ### Status
 
@@ -85,9 +94,18 @@ It starts by noticing the consequence.
 
 > Ripple Theory does not begin by naming the stone. It begins by asking whether the ripple can be noticed.
 
+### Player prompt
+
+> What made this ripple possible, and what would have to change for your model to change?
+
 ---
 
-## 2026-06-09 — Mathematical framework added
+## [2026-06-09] — 📐 Mathematical framework added
+
+- **Scale:** Cosmic
+- **Type:** Testable Question
+- **Layer:** Physics-Shaped Speculation
+- **Primary artifacts:** README, Issue #10
 
 ### Status
 
@@ -172,11 +190,76 @@ then this version of the dynamic-ripple model loses support.
 
 ### Key learning point
 
-> The first ripple becomes science only when it predicts something the universe can say no to.
+> Math is not being used here to prove a conclusion.
+> Math is being used to make the question testable.
+
+### Player prompt
+
+> What would the universe need to do for you to change your model?
 
 ---
 
-## 2026-06-09 — Issue #9 created: Ripple Theory: Existence is the First Ripple
+## [2026-06-09] — 🧭 Theory layer separation note added
+
+- **Scale:** Human / Story / Cosmic
+- **Type:** Guardrail
+- **Layer:** Ethics / Clarity / Participation
+- **Primary artifact:** `NOTES/THEORY_LAYER.md`
+
+### Status
+
+Important structural guardrail added.
+
+The project now has a dedicated note separating known science, speculative bridge-building, and ARG/story expression.
+
+---
+
+### What changed
+
+A new file was added:
+
+```text
+NOTES/THEORY_LAYER.md
+```
+
+It separates the framework into:
+
+```text
+KNOWN MODEL
+SPECULATIVE BRIDGE
+ARG / STORY EXPRESSION
+```
+
+It also adds a clear boundary statement:
+
+> Story is not proof. Science is not certainty. Belief is not model.
+
+---
+
+### What concept this strengthens
+
+This strengthens ethical worldbuilding.
+
+It keeps `INTERVENTION` from collapsing fiction, science, belief, and participation into one unsafe blur.
+
+It lets the project remain strange without becoming irresponsible.
+
+### Key learning point
+
+> The project can blur fiction, reflection, and real-world noticing. It must not blur responsibility.
+
+### Player prompt
+
+> Is this noticing helping you become more grounded, responsible, and connected — or is it making reality feel less stable?
+
+---
+
+## [2026-06-09] — 🗂️ Issue #9 created: Ripple Theory: Existence is the First Ripple
+
+- **Scale:** Cosmic
+- **Type:** Thesis Artifact
+- **Layer:** Conceptual Framework
+- **Primary artifact:** Issue #9
 
 ### Status
 
@@ -213,9 +296,18 @@ The ARG does not prove Ripple Theory.
 
 The ARG lets people experience the kind of noticing Ripple Theory describes.
 
+### Player prompt
+
+> After reading this, notice a possible fork in your day. Did you choose, did you hesitate, did you see the pattern, or did you miss the moment?
+
 ---
 
-## 2026-06-09 — Issue #10 created: Mathematical Framework: The First Ripple and Dynamic Expansion
+## [2026-06-09] — 🧪 Issue #10 created: Mathematical Framework: The First Ripple and Dynamic Expansion
+
+- **Scale:** Cosmic
+- **Type:** Testable Question
+- **Layer:** Mathematical Framework
+- **Primary artifact:** Issue #10
 
 ### Status
 
@@ -254,9 +346,18 @@ Math is not being used here to prove a conclusion.
 
 Math is being used to make the question testable.
 
+### Player prompt
+
+> What would count as evidence against this version of the model?
+
 ---
 
-## 2026-06-09 — Issue #8 updated: The Fork at the Bar
+## [2026-06-09] — 🍴 Issue #8 updated: The Fork at the Bar
+
+- **Scale:** Human
+- **Type:** Intervention Point
+- **Layer:** Lived Pattern / Narrative Echo
+- **Primary artifact:** Issue #8
 
 ### Status
 
@@ -292,6 +393,10 @@ Sometimes the fork is simply the moment when a repeated pattern is offered again
 
 > The intervention point was not opportunity appearing. The intervention point was being available when opportunity appeared.
 
+### Player prompt
+
+> Where was the real fork: the visible opportunity, or the earlier choice that made you available to notice it?
+
 ---
 
 ## Current learning summary
@@ -312,17 +417,12 @@ Existence, spacetime, expansion, emergence, dynamic dark energy, and the questio
 
 ---
 
-## Next suggested step
+## Suggested next steps
 
-Create a dedicated theory note that separates the framework into three clean categories:
-
-```text
-KNOWN MODEL
-SPECULATIVE MODEL
-ARG / STORY EXPRESSION
-```
-
-That would make it easier for readers to understand what is science, what is philosophy, and what is fiction-layer participation.
+- Link Issue #8, Issue #9, and Issue #10 from the README as sample artifacts.
+- Invite readers to open their own artifact issues or testable questions.
+- Keep the theory layer separated into known model, speculative bridge, and story expression.
+- Continue treating the book as the doorway and the repo as the archive.
 
 ---
 
@@ -337,3 +437,11 @@ The project is no longer only asking:
 It is also asking:
 
 > What made ripples possible in the first place?
+
+---
+
+<!--
+[ARTIFACT LOG]: Ripple Theory Changelog
+This archive may reflect learning, not certainty.
+System will accept pull requests from trusted observers.
+-->
