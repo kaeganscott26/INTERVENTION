@@ -12,6 +12,10 @@ The project can blur fiction, reflection, and real-world noticing.
 
 It must not blur responsibility.
 
+Related layer note:
+
+- [Geometry as Consequence](GEOMETRY_AS_CONSEQUENCE.md)
+
 ---
 
 ## 1. Known model
@@ -41,6 +45,12 @@ They are included as grounding language, not as original claims.
 - People do not experience reality as raw data.
 - Perception, memory, emotion, language, environment, and social feedback shape how events are interpreted.
 - Small actions can change group behavior, emotional temperature, and future choices.
+
+### Shape and repeated geometry
+
+- Similar shapes can appear across scale when similar constraints appear.
+- Spirals, waves, branches, vortices, and toroidal patterns can emerge from different systems for different reasons.
+- Similar shape is a clue, not proof of identical mechanism.
 
 ---
 
@@ -89,6 +99,28 @@ STORY / MEANING / ARG / ECHO
 This is not a proof chain.
 
 It is a framework for asking how consequence may scale.
+
+### Geometry bridge
+
+Ripple Theory also asks whether consequence leaves shape behind.
+
+> **Geometry is consequence made visible.**
+
+At the human scale, consequence may appear as mood, behavior, repair, avoidance, or change.
+
+At the story scale, consequence may appear as chapters, artifacts, reader echoes, and repository links.
+
+At the cosmic scale, consequence may appear as expansion, curvature, structure, clustering, or repeated geometry.
+
+Toroidal circulation is one possible visual metaphor for feedback-based systems:
+
+```text
+source → outward flow → curved return → re-entry → next ripple
+```
+
+This does not mean the universe is proven to be a torus.
+
+It means toroidal structure is a useful bridge for thinking about expansion, feedback, and return.
 
 ### Mathematical placeholder
 
@@ -187,6 +219,10 @@ They are prompts for reflection, not instructions to treat coincidence as comman
 ### Cosmic scale
 
 > What would the universe need to do for you to change your model?
+
+### Geometry scale
+
+> What shape did the consequence leave behind?
 
 ### Safety scale
 
