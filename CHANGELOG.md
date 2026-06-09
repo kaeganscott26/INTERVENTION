@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## Maestro Review Log
+## Review Log
 
 This changelog tracks major conceptual updates to `INTERVENTION` in a clear, lesson-style format.
 

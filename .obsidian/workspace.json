@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INTERVENTION ARG/Chapter 05.md",
+                "file": "CHANGELOG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 05"
+              "title": "CHANGELOG"
             }
           }
         ]
@@ -182,6 +182,8 @@
   },
   "active": "f99d6c78aa0d93fb",
   "lastOpenFiles": [
+    "README.md",
+    "INTERVENTION ARG/Chapter 05.md",
     "INTERVENTION ARG/Chapter 10.md",
     "INTERVENTION ARG/Chapter 11.md",
     "INTERVENTION ARG/Chapter 12.md",
@@ -193,7 +195,6 @@
     "INTERVENTION ARG/Chapter 09.md",
     "INTERVENTION ARG/Chapter 07.md",
     "INTERVENTION ARG/Chapter 06.md",
-    "INTERVENTION ARG/Chapter 05.md",
     "INTERVENTION ARG/Chapter 04.md",
     "INTERVENTION ARG/Chapter 03.md",
     "INTERVENTION ARG/Chapter 02.md",
@@ -214,7 +215,6 @@
     "INTERVENTION ARG/Chapter 15.md",
     "INTERVENTION ARG/Chapter 1.md",
     "INTERVENTION ARG/Chapter 7.md",
-    "INTERVENTION ARG/HOW_TO_PLAY.md",
     "INTERVENTION ARG"
   ]
 }
