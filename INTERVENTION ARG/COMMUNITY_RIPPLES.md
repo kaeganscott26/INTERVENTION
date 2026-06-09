@@ -14,13 +14,31 @@ As a field note.
 
 ---
 
+## 🗝️ Canon Boundary
+
+The seventeen chapters are complete.
+
+The official artifact layer is curated.
+
+Community submissions are not automatically canon.
+
+Readers can add echoes.
+
+Only the curator decides what becomes part of the room.
+
+A pull request is not permission to rewrite INTERVENTION.
+
+A pull request is a suggestion placed at the doorway.
+
+---
+
 ## 🗝️ Ways to Participate
 
 You can participate in three ways:
 
 1. **Open an Issue** for a short ripple log or intervention point.
 2. **Start a Discussion** for longer reflections, questions, or reader responses.
-3. **Submit an Artifact** through a pull request if you want to add a found fragment to the artifact layer.
+3. **Submit a Pull Request** only for typo fixes, documentation improvements, or curated community echoes.
 
 The goal is not to make the biggest post.
 
@@ -69,6 +87,8 @@ No conspiracy escalation.
 No crisis posting as gameplay.
 
 No asking the repo, the readers, or the author to replace real-world support.
+
+No pull requests that rewrite chapters, alter canon, or add real people into the official story without explicit approval.
 
 No story outranks the body.
 
@@ -128,9 +148,11 @@ Did you remove private details and protect real people?
 
 ---
 
-## 🗃️ Artifact Submission Rules
+## 🗃️ Community Echo Submissions
 
-Artifacts should feel found, not forced.
+Community echoes should live in `COMMUNITY/`, not inside the official chapter sequence.
+
+They should feel found, not forced.
 
 Keep them short.
 
@@ -138,10 +160,10 @@ Keep them safe.
 
 Keep them connected to the architecture of INTERVENTION.
 
-Suggested artifact format:
+Suggested format:
 
 ```text
-ARTIFACT: [short title]
+ECHO: [short title]
 ROOM: [where the ripple appeared]
 LAYER: [body / room / group / family / work / signal / loop / door / network / cosmos / grief / inheritance]
 STATUS: [noticed / traveling / interrupted / unresolved]
