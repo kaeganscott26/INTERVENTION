@@ -4,8 +4,6 @@ _Status: Simulation Running | User Agency Active_
 
 This changelog tracks major conceptual updates to `INTERVENTION` in a clear, lesson-style format.
 
-It is written as if the repository itself is reviewing the work:
-
 - What changed?
 - Why does it matter?
 - What concept did it strengthen?
@@ -26,7 +24,7 @@ It may reflect learning, not certainty.
 
 ### Status
 
-Strong work scaling the framework.
+Scaling the framework:
 
 The project now connects the original human-scale version of Ripple Theory to a broader cosmic question:
 
@@ -109,7 +107,7 @@ It starts by noticing the consequence.
 
 ### Status
 
-Good job moving from metaphor toward structure.
+Moving from metaphor toward structure:
 
 The project now includes a physics-shaped framework for asking whether the cosmic version of Ripple Theory can be tested.
 
@@ -208,7 +206,7 @@ then this version of the dynamic-ripple model loses support.
 
 ### Status
 
-Important structural guardrail added.
+Important structural guardrail added:
 
 The project now has a dedicated note separating known science, speculative bridge-building, and ARG/story expression.
 
@@ -263,7 +261,7 @@ It lets the project remain strange without becoming irresponsible.
 
 ### Status
 
-Clear conceptual expansion.
+Clear conceptual expansion:
 
 Issue #9 defines the cosmic thesis of Ripple Theory without overclaiming.
 
@@ -311,7 +309,7 @@ The ARG lets people experience the kind of noticing Ripple Theory describes.
 
 ### Status
 
-Strong move toward a testable structure.
+Strong move toward a testable structure:
 
 Issue #10 separates the poetic version from the physics-shaped version.
 
@@ -361,7 +359,7 @@ Math is being used to make the question testable.
 
 ### Status
 
-Good human-scale anchor.
+Good human-scale anchor:
 
 Issue #8 now frames a regretful decision and the choice not to repeat a loop as an intervention point.
 

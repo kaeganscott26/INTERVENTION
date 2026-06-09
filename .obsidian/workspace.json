@@ -11,10 +11,14 @@
             "id": "f99d6c78aa0d93fb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -178,10 +182,11 @@
   },
   "active": "f99d6c78aa0d93fb",
   "lastOpenFiles": [
-    "NOTES/GEOMETRY_AS_CONSEQUENCE.md",
-    "README.md",
     "CHANGELOG.md",
     "NOTES/THEORY_LAYER.md",
+    "NOTES/GEOMETRY_AS_CONSEQUENCE.md",
+    "INTERVENTION ARG/ARTIFACTS/ARTIFACT_018_MATHEMATICAL_LAYER.md",
+    "README.md",
     "NOTES",
     "INTERVENTION ARG/Chapter 05.md",
     "INTERVENTION ARG/Chapter 10.md",
@@ -211,7 +216,6 @@
     "INTERVENTION ARG/ARTIFACTS/boulder_protocol.txt",
     "INTERVENTION ARG/ARTIFACTS/README.md",
     "INTERVENTION ARG/ARTIFACTS",
-    "INTERVENTION ARG/Chapter 3.md",
     "INTERVENTION ARG"
   ]
 }
