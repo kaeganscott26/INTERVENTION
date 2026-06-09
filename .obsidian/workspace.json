@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHANGELOG.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CHANGELOG"
+              "title": "README"
             }
           }
         ]
@@ -182,6 +182,9 @@
   },
   "active": "f99d6c78aa0d93fb",
   "lastOpenFiles": [
+    "CHANGELOG.md",
+    "NOTES/THEORY_LAYER.md",
+    "NOTES",
     "README.md",
     "INTERVENTION ARG/Chapter 05.md",
     "INTERVENTION ARG/Chapter 10.md",
@@ -213,8 +216,6 @@
     "INTERVENTION ARG/ARTIFACTS",
     "INTERVENTION ARG/Chapter 3.md",
     "INTERVENTION ARG/Chapter 15.md",
-    "INTERVENTION ARG/Chapter 1.md",
-    "INTERVENTION ARG/Chapter 7.md",
     "INTERVENTION ARG"
   ]
 }

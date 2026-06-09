@@ -428,7 +428,6 @@ Existence, spacetime, expansion, emergence, dynamic dark energy, and the questio
 
 ## Closing note
 
-Strong work.
 
 The project is no longer only asking:
 
