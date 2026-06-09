@@ -1,4 +1,4 @@
-# 🗃️ Artifacts
+# 🗃️ Official Artifacts
 
 This folder contains in-world fragments from the INTERVENTION universe.
 
@@ -18,7 +18,23 @@ The room is not always dramatic when it changes.
 
 ---
 
-## 🗝️ What Counts as an Artifact?
+## 🗝️ Canon Boundary
+
+This is the official artifact layer.
+
+Artifacts in this folder are curated parts of INTERVENTION.
+
+Reader submissions do not belong here by default.
+
+Community responses, reader field notes, and outside echoes belong in `COMMUNITY/` unless the curator intentionally moves them into the official layer.
+
+Readers can add echoes.
+
+Only the curator decides what becomes part of the room.
+
+---
+
+## 🗝️ What Counts as an Official Artifact?
 
 An artifact is any small piece of writing, media, log, note, prompt, warning, or recovered fragment that helps the reader feel the system without explaining the system too loudly.
 
@@ -36,26 +52,6 @@ Artifacts may include:
 - warnings, glitches, or system messages
 
 Artifacts should feel like something found, not something advertised.
-
----
-
-## 🌀 Community Artifacts
-
-Readers may submit their own artifacts as pull requests.
-
-Keep them small.
-
-Keep them honest.
-
-Keep them safe.
-
-A good community artifact should answer at least one of these questions:
-
-- What room changed?
-- What ripple did you notice?
-- What intervention point interrupted the loop?
-- What did you almost miss?
-- What did the feedback teach you?
 
 ---
 
@@ -83,7 +79,7 @@ No ripple excuses harm.
 
 ---
 
-## 📝 Suggested Format
+## 📝 Suggested Official Artifact Format
 
 ```text
 ARTIFACT: [short title]
