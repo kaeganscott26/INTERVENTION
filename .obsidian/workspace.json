@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INTERVENTION ARG/ARTIFACTS/ARTIFACT_021_THE_IGNORED_LAYER.md",
+                "file": "INTERVENTION ARG/Prologue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ARTIFACT_021_THE_IGNORED_LAYER"
+              "title": "Prologue"
             }
           }
         ],
@@ -117,11 +117,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 200
   },
   "right": {
     "id": "32db5d9bb5b03b7c",
@@ -223,12 +224,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "0f99add0266be32e",
+  "active": "5d6e7cd868cb0667",
   "lastOpenFiles": [
-    "INTERVENTION ARG/Chapter 02.md",
-    "INTERVENTION ARG/ARTIFACTS/ARTIFACT_021_THE_IGNORED_LAYER.md",
-    "INTERVENTION ARG/ARTIFACTS/ARTIFACT_020_THE SPLIT LAYER.md",
+    "INTERVENTION ARG/CHAPTER_RIPPLE_MAP.md",
     "INTERVENTION ARG/ARTIFACTS/ARTIFACT_017_CURATOR'S_LAYER.md",
+    "scripts/add_obsidian_ripple_links.py",
+    "scripts",
+    "INTERVENTION ARG/Chapter 01.md",
+    "INTERVENTION ARG/ARTIFACTS/ARTIFACT_021_THE_IGNORED_LAYER.md",
+    "INTERVENTION ARG/Chapter 02.md",
+    "INTERVENTION ARG/ARTIFACTS/ARTIFACT_020_THE SPLIT LAYER.md",
     "INTERVENTION ARG/ARTIFACTS/README.md",
     "INTERVENTION ARG/COMMUNITY_RIPPLES.md",
     "CHANGELOG.md",
@@ -249,16 +254,12 @@
     "INTERVENTION ARG/Chapter 09.md",
     "INTERVENTION ARG/Chapter 07.md",
     "INTERVENTION ARG/Chapter 06.md",
-    "INTERVENTION ARG/Chapter 04.md",
-    "INTERVENTION ARG/Chapter 03.md",
-    "INTERVENTION ARG/Chapter 01.md",
     "INTERVENTION ARG/ARTIFACTS/room_log_0826.txt",
     "INTERVENTION ARG/ARTIFACTS/observer_event_7.txt",
     "INTERVENTION ARG/ARTIFACTS/echo_warning.txt",
     "INTERVENTION ARG/ARTIFACTS/door_render_failure.txt",
     "INTERVENTION ARG/ARTIFACTS/cosmic_room_signal.txt",
     "INTERVENTION ARG/ARTIFACTS/boulder_protocol.txt",
-    "INTERVENTION ARG/ARTIFACTS",
-    "INTERVENTION ARG"
+    "INTERVENTION ARG/ARTIFACTS"
   ]
 }
