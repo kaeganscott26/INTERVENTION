@@ -2,9 +2,24 @@
 
 ## A playable book for those who notice rooms.
 
+#INTERVENTION_ARG  
+#RippleTheory
+
+INTERVENTION is an Alternate Reality Game where the alternate reality is created through perception and choice. The reader does not solve puzzles to unlock fiction. They read fiction to recognize real intervention points in their own life.
+
+Reality remains reality. The project does not ask readers to treat coincidence as command. It asks them to notice consequence, pause before repetition, and choose the next ripple responsibly.
+
+INTERVENTION is a reflective Alternate Reality Game.  
+The game is not to escape reality.  
+The game is to notice where reality branches.
+
+https://GitHub.com/kaeganscott26/INTERVENTION
+
+---
+
 You have found the doorway.
 
-INTERVENTION is a completed seventeen-chapter fiction experiment, a no-software ARG, and a story-system built around Ripple Theory.
+INTERVENTION is a completed seventeen-chapter fiction experiment, a reflective Alternate Reality Game, and a story-system built around Ripple Theory.
 
 It is a book about a game.
 
@@ -35,17 +50,22 @@ Start here:
 
 The chapters are stored in order from Chapter 01 through Chapter 17 inside `INTERVENTION ARG/`.
 
-The official artifact layer lives inside:
+The README is the source node. The branch links begin here:
 
+- [Chapter Ripple Map](INTERVENTION%20ARG/CHAPTER_RIPPLE_MAP.md)
+- [Natural Ripple Map](INTERVENTION%20ARG/NATURAL_RIPPLE_MAP.md)
+- [Theory Layer Note](NOTES/THEORY_LAYER.md)
+- [Natural Layer Note](NOTES/NATURAL_LAYER.md)
+- [Geometry as Consequence](NOTES/GEOMETRY_AS_CONSEQUENCE.md)
 - [Official Artifact Layer](INTERVENTION%20ARG/ARTIFACTS/)
 - [System Status](INTERVENTION%20ARG/SYSTEM_STATUS.md)
 - [Boundaries & Consent](INTERVENTION%20ARG/BOUNDARIES.md)
 - [Mental Health Disclaimer](INTERVENTION%20ARG/MENTAL_HEALTH_DISCLAIMER.md)
 - [Community Ripple Guide](INTERVENTION%20ARG/COMMUNITY_RIPPLES.md)
 - [Community Echoes](COMMUNITY/)
-- [Theory Layer Note](NOTES/THEORY_LAYER.md)
-- [Geometry as Consequence](NOTES/GEOMETRY_AS_CONSEQUENCE.md)
 - [Review Log / Changelog](CHANGELOG.md)
+
+In Obsidian, this makes the README function as the doorway/singularity node: story, theory, safety, natural consequence, geometry, artifacts, and community all branch outward from here.
 
 ---
 
@@ -173,6 +193,42 @@ Ripples are the way one action, mood, sentence, behavior, or visible cue can mov
 Architecture is the structure around an experience that makes some actions easier, some harder, some visible, some invisible, some rewarded, and some punished.
 
 Feedback is what happens after the system responds, teaching the observer what seems possible next.
+
+### The natural layer
+
+Ripple Theory does not begin with human perception.
+
+It begins before us.
+
+Before a person notices a pattern, nature is already moving through consequence.
+
+```text
+disturbance → system response → propagation → feedback → new equilibrium
+```
+
+A tree falls.  
+The canopy opens.  
+Light changes.  
+Seedlings respond.  
+Insects shift.  
+Birds move.  
+Seeds spread.  
+The future forest changes.
+
+A storm forms.  
+Pressure changes.  
+Wind moves.  
+Rain falls.  
+Soil responds.  
+Plants respond.  
+Animals respond.  
+Humans eventually respond too.
+
+Nature does not need intention to create consequence.
+
+The ripple exists before the story.
+
+For the full physical/ecological map, read the [Natural Ripple Map](INTERVENTION%20ARG/NATURAL_RIPPLE_MAP.md) and the [Natural Layer Note](NOTES/NATURAL_LAYER.md).
 
 ### The cosmic hook
 
@@ -344,7 +400,10 @@ Before participating, read:
 - [Artifact Layer README](INTERVENTION%20ARG/ARTIFACTS/README.md)
 - [Community Echoes README](COMMUNITY/README.md)
 - [Theory Layer Note](NOTES/THEORY_LAYER.md)
+- [Natural Ripple Map](INTERVENTION%20ARG/NATURAL_RIPPLE_MAP.md)
+- [Natural Layer Note](NOTES/NATURAL_LAYER.md)
 - [Geometry as Consequence](NOTES/GEOMETRY_AS_CONSEQUENCE.md)
+- [Chapter Ripple Map](INTERVENTION%20ARG/CHAPTER_RIPPLE_MAP.md)
 
 Sample artifact issues:
 
