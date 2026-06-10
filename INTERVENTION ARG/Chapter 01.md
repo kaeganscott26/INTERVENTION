@@ -419,3 +419,22 @@ Teodor did not know he was waiting.
 But somewhere, someone noticed.
 
 And because someone noticed, the water moved.
+
+
+[{Chapter 02}]
+
+---
+<!-- RIPPLE_LINKS_START -->
+
+## 🌀 Ripple Links
+
+- **Room function:** first ripple / adoption / origin architecture
+- **Previous room:** [[Prologue]]
+- **Next room:** [[Chapter 02]]
+- **Canon path:** [[ORDER]] · [[HOW_TO_PLAY]] · [[THEORY_LAYER]] · [[GEOMETRY_AS_CONSEQUENCE]]
+- **Safety frame:** [[MENTAL_HEALTH_DISCLAIMER]] · [[BOUNDARIES]]
+- **Echo / artifact links:** [[ARTIFACT_017_CURATOR'S_LAYER]] · [[ARTIFACT_020_THE SPLIT LAYER]]
+
+> A loop repeats. A torus circulates. This link block is part of the graph becoming the theory.
+
+<!-- RIPPLE_LINKS_END -->

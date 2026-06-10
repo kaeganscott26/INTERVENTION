@@ -1335,3 +1335,19 @@ The ripple moved toward him.
 Softer this time.
 
 That was enough for the day.
+
+---
+<!-- RIPPLE_LINKS_START -->
+
+## 🌀 Ripple Links
+
+- **Room function:** 0826 / fatherhood / signal aimed at love
+- **Previous room:** [[Chapter 07]]
+- **Next room:** [[Chapter 09]]
+- **Canon path:** [[ORDER]] · [[HOW_TO_PLAY]] · [[THEORY_LAYER]] · [[GEOMETRY_AS_CONSEQUENCE]]
+- **Safety frame:** [[MENTAL_HEALTH_DISCLAIMER]] · [[BOUNDARIES]]
+- **Echo / artifact links:** [[ARTIFACT_017_CURATOR'S_LAYER]] · [[ARTIFACT_020_THE SPLIT LAYER]]
+
+> A loop repeats. A torus circulates. This link block is part of the graph becoming the theory.
+
+<!-- RIPPLE_LINKS_END -->

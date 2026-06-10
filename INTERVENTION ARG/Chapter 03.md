@@ -1062,3 +1062,19 @@ It was realer than that.
 It was an intervention.
 
 And for the first time in a long time, Jamal walked through the west stairwell without turning sideways.
+
+---
+<!-- RIPPLE_LINKS_START -->
+
+## 🌀 Ripple Links
+
+- **Room function:** room architecture / behavior made sensible by environment
+- **Previous room:** [[Chapter 02]]
+- **Next room:** [[Chapter 04]]
+- **Canon path:** [[ORDER]] · [[HOW_TO_PLAY]] · [[THEORY_LAYER]] · [[GEOMETRY_AS_CONSEQUENCE]]
+- **Safety frame:** [[MENTAL_HEALTH_DISCLAIMER]] · [[BOUNDARIES]]
+- **Echo / artifact links:** [[THEORY_LAYER]] · [[ARTIFACT_020_THE SPLIT LAYER]]
+
+> A loop repeats. A torus circulates. This link block is part of the graph becoming the theory.
+
+<!-- RIPPLE_LINKS_END -->

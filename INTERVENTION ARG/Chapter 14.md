@@ -1724,3 +1724,19 @@ The signal was already on its way.
 It had always been on its way.
 
 The cosmic room was open.
+
+---
+<!-- RIPPLE_LINKS_START -->
+
+## 🌀 Ripple Links
+
+- **Room function:** cosmic room / expansion / first ripple scaled outward
+- **Previous room:** [[Chapter 13]]
+- **Next room:** [[Chapter 15]]
+- **Canon path:** [[ORDER]] · [[HOW_TO_PLAY]] · [[THEORY_LAYER]] · [[GEOMETRY_AS_CONSEQUENCE]]
+- **Safety frame:** [[MENTAL_HEALTH_DISCLAIMER]] · [[BOUNDARIES]]
+- **Echo / artifact links:** [[GEOMETRY_AS_CONSEQUENCE]] · [[THEORY_LAYER]] · [[CHANGELOG]]
+
+> A loop repeats. A torus circulates. This link block is part of the graph becoming the theory.
+
+<!-- RIPPLE_LINKS_END -->

@@ -2036,3 +2036,19 @@ Dev stepped onto the sidewalk with a folded transcript in his bag, a work schedu
 The door had always been there.
 
 But now, so was he.
+
+---
+<!-- RIPPLE_LINKS_START -->
+
+## 🌀 Ripple Links
+
+- **Room function:** door / threshold / choice as passage
+- **Previous room:** [[Chapter 11]]
+- **Next room:** [[Chapter 13]]
+- **Canon path:** [[ORDER]] · [[HOW_TO_PLAY]] · [[THEORY_LAYER]] · [[GEOMETRY_AS_CONSEQUENCE]]
+- **Safety frame:** [[MENTAL_HEALTH_DISCLAIMER]] · [[BOUNDARIES]]
+- **Echo / artifact links:** [[GEOMETRY_AS_CONSEQUENCE]] · [[ARTIFACT_017_CURATOR'S_LAYER]]
+
+> A loop repeats. A torus circulates. This link block is part of the graph becoming the theory.
+
+<!-- RIPPLE_LINKS_END -->

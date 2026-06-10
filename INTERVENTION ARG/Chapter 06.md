@@ -955,3 +955,19 @@ Like a circle eating itself.
 Like a room becoming smaller.
 
 Like a warning still waiting for someone to read it correctly.
+
+---
+<!-- RIPPLE_LINKS_START -->
+
+## 🌀 Ripple Links
+
+- **Room function:** false world / danger of mistaking pattern for command
+- **Previous room:** [[Chapter 05]]
+- **Next room:** [[Chapter 07]]
+- **Canon path:** [[ORDER]] · [[HOW_TO_PLAY]] · [[THEORY_LAYER]] · [[GEOMETRY_AS_CONSEQUENCE]]
+- **Safety frame:** [[MENTAL_HEALTH_DISCLAIMER]] · [[BOUNDARIES]]
+- **Echo / artifact links:** [[ARTIFACT_021_THE_IGNORED_LAYER]] · [[MENTAL_HEALTH_DISCLAIMER]] · [[BOUNDARIES]]
+
+> A loop repeats. A torus circulates. This link block is part of the graph becoming the theory.
+
+<!-- RIPPLE_LINKS_END -->

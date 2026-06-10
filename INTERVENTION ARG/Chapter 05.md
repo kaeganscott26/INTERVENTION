@@ -924,3 +924,19 @@ Then the screen went dark.
 The rain kept falling.
 
 But it no longer had the only voice.
+
+---
+<!-- RIPPLE_LINKS_START -->
+
+## 🌀 Ripple Links
+
+- **Room function:** shared reality / social rendering layer
+- **Previous room:** [[Chapter 04]]
+- **Next room:** [[Chapter 06]]
+- **Canon path:** [[ORDER]] · [[HOW_TO_PLAY]] · [[THEORY_LAYER]] · [[GEOMETRY_AS_CONSEQUENCE]]
+- **Safety frame:** [[MENTAL_HEALTH_DISCLAIMER]] · [[BOUNDARIES]]
+- **Echo / artifact links:** [[COMMUNITY_RIPPLES]] · [[THEORY_LAYER]]
+
+> A loop repeats. A torus circulates. This link block is part of the graph becoming the theory.
+
+<!-- RIPPLE_LINKS_END -->

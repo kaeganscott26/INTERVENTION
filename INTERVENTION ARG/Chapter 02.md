@@ -752,3 +752,19 @@ She looked through the window at the empty parking lot and saw, for the first ti
 A room.
 
 And rooms could change.
+
+---
+<!-- RIPPLE_LINKS_START -->
+
+## 🌀 Ripple Links
+
+- **Room function:** trigger / gap between impulse and action
+- **Previous room:** [[Chapter 01]]
+- **Next room:** [[Chapter 03]]
+- **Canon path:** [[ORDER]] · [[HOW_TO_PLAY]] · [[THEORY_LAYER]] · [[GEOMETRY_AS_CONSEQUENCE]]
+- **Safety frame:** [[MENTAL_HEALTH_DISCLAIMER]] · [[BOUNDARIES]]
+- **Echo / artifact links:** [[ARTIFACT_021_THE_IGNORED_LAYER]] · [[MENTAL_HEALTH_DISCLAIMER]]
+
+> A loop repeats. A torus circulates. This link block is part of the graph becoming the theory.
+
+<!-- RIPPLE_LINKS_END -->

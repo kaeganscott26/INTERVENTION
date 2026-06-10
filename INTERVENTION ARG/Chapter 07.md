@@ -2076,3 +2076,19 @@ Try again.
 Try again.
 
 Try again.
+
+---
+<!-- RIPPLE_LINKS_START -->
+
+## 🌀 Ripple Links
+
+- **Room function:** observer / broadcast / perception as public architecture
+- **Previous room:** [[Chapter 06]]
+- **Next room:** [[Chapter 08]]
+- **Canon path:** [[ORDER]] · [[HOW_TO_PLAY]] · [[THEORY_LAYER]] · [[GEOMETRY_AS_CONSEQUENCE]]
+- **Safety frame:** [[MENTAL_HEALTH_DISCLAIMER]] · [[BOUNDARIES]]
+- **Echo / artifact links:** [[chapter_07_read_aloud_failure]] · [[THEORY_LAYER]]
+
+> A loop repeats. A torus circulates. This link block is part of the graph becoming the theory.
+
+<!-- RIPPLE_LINKS_END -->

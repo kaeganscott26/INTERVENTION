@@ -1712,3 +1712,19 @@ The room rendered.
 And the next ripple belonged to whoever chose it.
 
 END SIMULATION.
+
+---
+<!-- RIPPLE_LINKS_START -->
+
+## 🌀 Ripple Links
+
+- **Room function:** boulder / weight / consequence made visible
+- **Previous room:** [[Chapter 14]]
+- **Next room:** [[Chapter 16]]
+- **Canon path:** [[ORDER]] · [[HOW_TO_PLAY]] · [[THEORY_LAYER]] · [[GEOMETRY_AS_CONSEQUENCE]]
+- **Safety frame:** [[MENTAL_HEALTH_DISCLAIMER]] · [[BOUNDARIES]]
+- **Echo / artifact links:** [[GEOMETRY_AS_CONSEQUENCE]] · [[ARTIFACT_021_THE_IGNORED_LAYER]]
+
+> A loop repeats. A torus circulates. This link block is part of the graph becoming the theory.
+
+<!-- RIPPLE_LINKS_END -->
