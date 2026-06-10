@@ -1714,6 +1714,8 @@ And the next ripple belonged to whoever chose it.
 END SIMULATION.
 
 ---
+
+---
 <!-- RIPPLE_LINKS_START -->
 
 ## 🌀 Ripple Links

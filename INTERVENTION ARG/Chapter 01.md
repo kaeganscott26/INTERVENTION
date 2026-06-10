@@ -424,6 +424,8 @@ And because someone noticed, the water moved.
 [{Chapter 02}]
 
 ---
+
+---
 <!-- RIPPLE_LINKS_START -->
 
 ## 🌀 Ripple Links

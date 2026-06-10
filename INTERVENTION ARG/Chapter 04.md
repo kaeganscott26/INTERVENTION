@@ -1174,6 +1174,8 @@ They held what people finally noticed.
 And sometimes, if someone noticed in time, they held the shape of what could happen differently next time.
 
 ---
+
+---
 <!-- RIPPLE_LINKS_START -->
 
 ## 🌀 Ripple Links

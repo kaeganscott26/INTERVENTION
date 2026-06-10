@@ -1337,6 +1337,8 @@ Softer this time.
 That was enough for the day.
 
 ---
+
+---
 <!-- RIPPLE_LINKS_START -->
 
 ## 🌀 Ripple Links

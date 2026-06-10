@@ -957,6 +957,8 @@ Like a room becoming smaller.
 Like a warning still waiting for someone to read it correctly.
 
 ---
+
+---
 <!-- RIPPLE_LINKS_START -->
 
 ## 🌀 Ripple Links

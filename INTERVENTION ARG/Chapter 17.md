@@ -330,6 +330,8 @@ The ripple ends where accountability begins.
 Fine.
 
 ---
+
+---
 <!-- RIPPLE_LINKS_START -->
 
 ## 🌀 Ripple Links

@@ -473,6 +473,8 @@ And for the first time, I did not open it for the audience.
 I opened it because I was tired of pretending there was nothing inside.
 
 ---
+
+---
 <!-- RIPPLE_LINKS_START -->
 
 ## 🌀 Ripple Links

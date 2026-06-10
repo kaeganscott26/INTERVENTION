@@ -227,6 +227,8 @@ The book is the doorway.
 What you do after you close it is where the game begins.
 
 ---
+
+---
 <!-- RIPPLE_LINKS_START -->
 
 ## 🌀 Ripple Links

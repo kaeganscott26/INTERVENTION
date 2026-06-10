@@ -1506,6 +1506,8 @@ But the output changed.
 For one room, that was enough.
 
 ---
+
+---
 <!-- RIPPLE_LINKS_START -->
 
 ## 🌀 Ripple Links

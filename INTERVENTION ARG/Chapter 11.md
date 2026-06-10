@@ -1928,6 +1928,8 @@ The observer had seen it.
 And this time, for one small morning, the output changed.
 
 ---
+
+---
 <!-- RIPPLE_LINKS_START -->
 
 ## 🌀 Ripple Links
