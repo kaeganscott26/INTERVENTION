@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INTERVENTION ARG/Prologue.md",
+                "file": "INTERVENTION ARG/NATURAL_RIPPLE_MAP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prologue"
+              "title": "NATURAL_RIPPLE_MAP"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#INTERVENTION_ARG",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -226,6 +226,9 @@
   },
   "active": "5d6e7cd868cb0667",
   "lastOpenFiles": [
+    "NOTES/NATURAL_LAYER.md",
+    "INTERVENTION ARG/NATURAL_RIPPLE_MAP.md",
+    "INTERVENTION ARG/Prologue.md",
     "INTERVENTION ARG/CHAPTER_RIPPLE_MAP.md",
     "INTERVENTION ARG/ARTIFACTS/ARTIFACT_017_CURATOR'S_LAYER.md",
     "scripts/add_obsidian_ripple_links.py",
@@ -252,8 +255,6 @@
     "INTERVENTION ARG/Chapter 17.md",
     "INTERVENTION ARG/Chapter 08.md",
     "INTERVENTION ARG/Chapter 09.md",
-    "INTERVENTION ARG/Chapter 07.md",
-    "INTERVENTION ARG/Chapter 06.md",
     "INTERVENTION ARG/ARTIFACTS/room_log_0826.txt",
     "INTERVENTION ARG/ARTIFACTS/observer_event_7.txt",
     "INTERVENTION ARG/ARTIFACTS/echo_warning.txt",
