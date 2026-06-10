@@ -43,6 +43,21 @@ A torus circulates.
 
 ---
 
+## Map Inside the Map
+
+The natural layer now has its own map outside of the psychological/perception layer:
+
+- [[NATURAL_RIPPLE_MAP]] — physical/ecological consequence map
+- [[NATURAL_LAYER]] — full natural layer note
+
+This is the layer where consequence exists before human meaning.
+
+```text
+disturbance → system response → propagation → feedback → new equilibrium
+```
+
+---
+
 ## Core Stabilizers
 
 - [[ORDER]]
@@ -51,6 +66,7 @@ A torus circulates.
 - [[BOUNDARIES]]
 - [[THEORY_LAYER]]
 - [[GEOMETRY_AS_CONSEQUENCE]]
+- [[NATURAL_RIPPLE_MAP]]
 - [[NATURAL_LAYER]]
 - [[CHANGELOG]]
 - [[COMMUNITY_RIPPLES]]
@@ -60,6 +76,9 @@ A torus circulates.
 
 ## Natural Currents
 
+These links belong to the physical/ecological layer, not the psychological/perception layer.
+
+- [[NATURAL_RIPPLE_MAP]] — map inside the map
 - [[NATURAL_LAYER]] — plants / animals / weather / ocean currents / physical consequence
 - [[GEOMETRY_AS_CONSEQUENCE]] — repeated shape / toroidal flow / consequence made visible
 - [[Chapter 01]] — first ripple / early architecture
@@ -67,7 +86,9 @@ A torus circulates.
 - [[Chapter 15]] — boulder / physical consequence / weight
 
 ```text
-physical disturbance → system response → propagation → feedback → new equilibrium
+physical disturbance → force → motion → changed conditions
+changed conditions → organism response → habitat shift → feedback
+heat → pressure → current → weather → ecosystem response
 ```
 
 ---
@@ -93,7 +114,7 @@ physical disturbance → system response → propagation → feedback → new eq
 
 - Previous room: [[Prologue]]
 - Next room: [[Chapter 02]]
-- Echoes: [[ARTIFACT_017_CURATOR'S_LAYER]], [[ARTIFACT_020_THE SPLIT LAYER]], [[THEORY_LAYER]], [[NATURAL_LAYER]]
+- Echoes: [[ARTIFACT_017_CURATOR'S_LAYER]], [[ARTIFACT_020_THE SPLIT LAYER]], [[THEORY_LAYER]], [[NATURAL_RIPPLE_MAP]]
 
 ### [[Chapter 02]] — Trigger
 
@@ -105,7 +126,7 @@ physical disturbance → system response → propagation → feedback → new eq
 
 - Previous room: [[Chapter 02]]
 - Next room: [[Chapter 04]]
-- Echoes: [[THEORY_LAYER]], [[ARTIFACT_020_THE SPLIT LAYER]], [[NATURAL_LAYER]]
+- Echoes: [[THEORY_LAYER]], [[ARTIFACT_020_THE SPLIT LAYER]]
 
 ### [[Chapter 04]] — The Missed Layer
 
@@ -171,13 +192,13 @@ physical disturbance → system response → propagation → feedback → new eq
 
 - Previous room: [[Chapter 13]]
 - Next room: [[Chapter 15]]
-- Echoes: [[GEOMETRY_AS_CONSEQUENCE]], [[NATURAL_LAYER]], [[THEORY_LAYER]], [[CHANGELOG]]
+- Echoes: [[GEOMETRY_AS_CONSEQUENCE]], [[NATURAL_RIPPLE_MAP]], [[THEORY_LAYER]], [[CHANGELOG]]
 
 ### [[Chapter 15]] — Boulder
 
 - Previous room: [[Chapter 14]]
 - Next room: [[Chapter 16]]
-- Echoes: [[GEOMETRY_AS_CONSEQUENCE]], [[NATURAL_LAYER]], [[ARTIFACT_021_THE_IGNORED_LAYER]]
+- Echoes: [[GEOMETRY_AS_CONSEQUENCE]], [[NATURAL_RIPPLE_MAP]], [[ARTIFACT_021_THE_IGNORED_LAYER]]
 
 ### [[Chapter 16]] — The Morning After the Signal
 
@@ -190,7 +211,7 @@ physical disturbance → system response → propagation → feedback → new eq
 - Previous room: [[Chapter 16]]
 - Next room: [[Chapter 01]]
 - Return current: [[Chapter 17]] → [[Chapter 01]] → [[README]]
-- Echoes: [[ARTIFACT_017_CURATOR'S_LAYER]], [[ARTIFACT_020_THE SPLIT LAYER]], [[GEOMETRY_AS_CONSEQUENCE]], [[NATURAL_LAYER]]
+- Echoes: [[ARTIFACT_017_CURATOR'S_LAYER]], [[ARTIFACT_020_THE SPLIT LAYER]], [[GEOMETRY_AS_CONSEQUENCE]], [[NATURAL_RIPPLE_MAP]]
 
 ---
 
@@ -203,7 +224,7 @@ The graph is the theory attempting to draw itself.
 ```text
 README = source / doorway
 Chapters = outward expansion
-Natural Layer = physical consequence before perception
+Natural Ripple Map = map under the map
 Artifacts = interference pattern
 Theory Layer = stabilizer
 Community = return current
