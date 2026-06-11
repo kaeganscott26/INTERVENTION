@@ -4,7 +4,7 @@ _Status: Fiction Artifact | Dream Layer Active_
 
 This artifact belongs to the Dream Layer.
 
-It is fiction.
+It is fiction, but based on real unexplained experience.
 
 It is not testimony.
 
