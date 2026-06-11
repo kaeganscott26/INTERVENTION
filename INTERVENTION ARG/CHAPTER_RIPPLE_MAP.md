@@ -45,15 +45,21 @@ A torus circulates.
 
 ## Map Inside the Map
 
-The natural layer now has its own map outside of the psychological/perception layer:
+The natural layer has its own map outside of the psychological/perception layer:
 
 - [[NATURAL_RIPPLE_MAP]] — physical/ecological consequence map
 - [[NATURAL_LAYER]] — full natural layer note
 
-This is the layer where consequence exists before human meaning.
+The dream layer now has its own guided section outside the chapter path:
+
+- [[DREAM_RIPPLE_MAP]] — dream consequence / simulated-room map
+- [[DREAM_LAYER]] — full dream layer note
+- [[ARTIFACT_022_BAD_DREAM_MOMMY_DAD_MIMIC]] — fiction artifact / dream current
+
+This is the layer where internal simulation can still create waking consequence.
 
 ```text
-disturbance → system response → propagation → feedback → new equilibrium
+dream → emotional imprint → waking interpretation → behavior shift → ripple
 ```
 
 ---
@@ -68,6 +74,8 @@ disturbance → system response → propagation → feedback → new equilibrium
 - [[GEOMETRY_AS_CONSEQUENCE]]
 - [[NATURAL_RIPPLE_MAP]]
 - [[NATURAL_LAYER]]
+- [[DREAM_RIPPLE_MAP]]
+- [[DREAM_LAYER]]
 - [[CHANGELOG]]
 - [[COMMUNITY_RIPPLES]]
 - [[SYSTEM_STATUS]]
@@ -93,11 +101,35 @@ heat → pressure → current → weather → ecosystem response
 
 ---
 
+## Dream Currents
+
+These links belong to the Dream Layer: simulated rooms, waking residue, memory, emotion, horror-symbols, and the return to grounded reality.
+
+- [[DREAM_RIPPLE_MAP]] — dream section / player path
+- [[DREAM_LAYER]] — dreams and waking consequence
+- [[ARTIFACT_022_BAD_DREAM_MOMMY_DAD_MIMIC]] — bad_dream_mommy / Dad_mimic artifact
+- [[MENTAL_HEALTH_DISCLAIMER]] — first guardrail
+- [[BOUNDARIES]] — safety and consent
+- [[THEORY_LAYER]] — story is not proof
+- [[Chapter 08]] — child / father / signal echoes
+- [[Chapter 16]] — grief / aftermath / emotional residue
+- [[Chapter 17]] — inheritance / return current
+
+```text
+unconscious material → simulated room → emotional imprint
+emotional imprint → waking mood → choice → ripple
+```
+
+Dreams are where fiction briefly wears the body of reality.
+
+---
+
 ## Artifact Currents
 
 - [[ARTIFACT_017_CURATOR'S_LAYER]] — origin / curator / repo as mirror
 - [[ARTIFACT_020_THE SPLIT LAYER]] — branching lives / family consequence
 - [[ARTIFACT_021_THE_IGNORED_LAYER]] — warning / handrail / ignored disclaimer
+- [[ARTIFACT_022_BAD_DREAM_MOMMY_DAD_MIMIC]] — dream artifact / horror current
 - [[chapter_07_read_aloud_failure]] — failed audio artifact / Chapter 07 echo
 
 ---
@@ -156,7 +188,7 @@ heat → pressure → current → weather → ecosystem response
 
 - Previous room: [[Chapter 07]]
 - Next room: [[Chapter 09]]
-- Echoes: [[ARTIFACT_017_CURATOR'S_LAYER]], [[ARTIFACT_020_THE SPLIT LAYER]]
+- Echoes: [[ARTIFACT_017_CURATOR'S_LAYER]], [[ARTIFACT_020_THE SPLIT LAYER]], [[DREAM_RIPPLE_MAP]]
 
 ### [[Chapter 09]] — The Kitchen
 
@@ -204,14 +236,14 @@ heat → pressure → current → weather → ecosystem response
 
 - Previous room: [[Chapter 15]]
 - Next room: [[Chapter 17]]
-- Echoes: [[ARTIFACT_017_CURATOR'S_LAYER]], [[ARTIFACT_021_THE_IGNORED_LAYER]]
+- Echoes: [[ARTIFACT_017_CURATOR'S_LAYER]], [[ARTIFACT_021_THE_IGNORED_LAYER]], [[DREAM_RIPPLE_MAP]]
 
 ### [[Chapter 17]] — Teodor
 
 - Previous room: [[Chapter 16]]
 - Next room: [[Chapter 01]]
 - Return current: [[Chapter 17]] → [[Chapter 01]] → [[README]]
-- Echoes: [[ARTIFACT_017_CURATOR'S_LAYER]], [[ARTIFACT_020_THE SPLIT LAYER]], [[GEOMETRY_AS_CONSEQUENCE]], [[NATURAL_RIPPLE_MAP]]
+- Echoes: [[ARTIFACT_017_CURATOR'S_LAYER]], [[ARTIFACT_020_THE SPLIT LAYER]], [[GEOMETRY_AS_CONSEQUENCE]], [[NATURAL_RIPPLE_MAP]], [[DREAM_RIPPLE_MAP]]
 
 ---
 
@@ -225,6 +257,7 @@ The graph is the theory attempting to draw itself.
 README = source / doorway
 Chapters = outward expansion
 Natural Ripple Map = map under the map
+Dream Ripple Map = simulated-room current
 Artifacts = interference pattern
 Theory Layer = stabilizer
 Community = return current
