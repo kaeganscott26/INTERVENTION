@@ -12,9 +12,10 @@ The project can blur fiction, reflection, and real-world noticing.
 
 It must not blur responsibility.
 
-Related layer note:
+Related layer notes:
 
 - [Geometry as Consequence](GEOMETRY_AS_CONSEQUENCE.md)
+- [Cultural Layer](CULTURAL_LAYER.md)
 
 ---
 
@@ -223,6 +224,10 @@ They are prompts for reflection, not instructions to treat coincidence as comman
 ### Geometry scale
 
 > What shape did the consequence leave behind?
+
+### Cultural scale
+
+> What older human framework does this resemble, and does that resemblance support the theory, challenge it, or expose a weakness?
 
 ### Safety scale
 
