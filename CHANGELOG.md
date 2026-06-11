@@ -15,6 +15,95 @@ It may reflect learning, not certainty.
 
 ---
 
+## [2026-06-11] — 💤 Dream Layer added
+
+- **Scale:** Dream / Memory / Waking Consequence
+- **Type:** Layer Expansion
+- **Layer:** Simulated Rooms / Emotional Imprint / Horror Current
+- **Primary artifacts:** `NOTES/DREAM_LAYER.md`, `INTERVENTION ARG/DREAM_RIPPLE_MAP.md`, `ARTIFACT_022_BAD_DREAM_MOMMY_DAD_MIMIC.md`, Issue #12
+
+### Status
+
+Ripple Theory now has a dedicated Dream Layer.
+
+This layer explains how dreams can be unreal as base events while still creating real waking effects.
+
+Dreams are not proof.
+
+Dreams are not commands.
+
+Dreams are not instructions from the repo.
+
+But dreams can still affect emotion, memory, attention, decision-making, and behavior.
+
+---
+
+### What changed
+
+Three new files were added:
+
+```text
+NOTES/DREAM_LAYER.md
+INTERVENTION ARG/DREAM_RIPPLE_MAP.md
+INTERVENTION ARG/ARTIFACTS/ARTIFACT_022_BAD_DREAM_MOMMY_DAD_MIMIC.md
+```
+
+A new issue was also created:
+
+```text
+Issue #12: Dream Layer: Simulated rooms with waking consequences
+```
+
+The Chapter Ripple Map now includes a Dream Currents section connecting:
+
+```text
+[[DREAM_RIPPLE_MAP]]
+[[DREAM_LAYER]]
+[[ARTIFACT_022_BAD_DREAM_MOMMY_DAD_MIMIC]]
+[[MENTAL_HEALTH_DISCLAIMER]]
+[[BOUNDARIES]]
+[[THEORY_LAYER]]
+[[Chapter 08]]
+[[Chapter 16]]
+[[Chapter 17]]
+```
+
+---
+
+### What concept this strengthens
+
+This strengthens the border between fiction and consequence.
+
+A dream may not happen in base reality, but the waking body can still carry its residue.
+
+This creates a new Ripple Theory pattern:
+
+```text
+unconscious material
+        ↓
+simulated room
+        ↓
+emotional imprint
+        ↓
+waking interpretation
+        ↓
+behavior shift
+        ↓
+real-world ripple
+```
+
+The Dream Layer adds the creepy factor to the ARG without asking the reader to believe the fiction is literal.
+
+### Key learning point
+
+> Dreams are where fiction briefly wears the body of reality.
+
+### Player prompt
+
+> What part of the dream ended, and what part followed you into the day?
+
+---
+
 ## [2026-06-10] — 🚪 README first-reader path added
 
 - **Scale:** Reader / Entry UX
@@ -41,19 +130,10 @@ The repo may be structurally clear to the curator, but a reader entering from Fa
 The README now includes a new section near the top:
 
 ```text
-START HERE IF GITHUB LOOKS CONFUSING
+START HERE
 ```
 
-It explains that `INTERVENTION` is not a coding project readers need to understand before entering.
-
-It tells first-time readers:
-
-```text
-ignore the code-looking parts
-click the blue links like chapters in an online book
-```
-
-It also gives a simple recommended first path:
+It gives a simple recommended first path:
 
 ```text
 1. Mental Health Disclaimer
@@ -65,7 +145,7 @@ It also gives a simple recommended first path:
 
 A recovery-sensitive line was also added:
 
-> If you are here because someone sent you this while you are struggling, start with the disclaimer and move slowly.
+> If you are here because someone sent you this while you are struggling, start with the disclaimer and move on only when you feel comfortable.
 
 ---
 
@@ -134,20 +214,9 @@ The natural layer explains Ripple Theory through:
 - recovery,
 - and physical reality outside perception.
 
-The natural ripple map creates a separate graph cluster:
+The natural ripple map creates a separate graph cluster.
 
-```text
-[[NATURAL_RIPPLE_MAP]]
-[[NATURAL_LAYER]]
-[[GEOMETRY_AS_CONSEQUENCE]]
-[[THEORY_LAYER]]
-[[Chapter 01]]
-[[Chapter 14]]
-[[Chapter 15]]
-[[Chapter 17]]
-```
-
-The README now includes a natural layer section explaining:
+The README includes a natural layer section explaining:
 
 > The ripple exists before the story.
 
@@ -614,25 +683,29 @@ Sometimes the fork is simply the moment when a repeated pattern is offered again
 
 ## Current learning summary
 
-Ripple Theory now has five active scales:
+Ripple Theory now has six active scales:
 
 ### 1. Natural / physical scale
 
 Disturbance, force, motion, weather, water, plants, animals, currents, decay, recovery.
 
-### 2. Human scale
+### 2. Dream / simulated-room scale
+
+Dreams, emotional imprint, waking residue, memory, symbol, fiction-body overlap, and return to grounded reality.
+
+### 3. Human scale
 
 Rooms, moods, choices, triggers, interventions, feedback, repair.
 
-### 3. Story scale
+### 4. Story scale
 
 Chapters, artifacts, issues, echoes, reflective ARG participation, perception training.
 
-### 4. Cosmic scale
+### 5. Cosmic scale
 
 Existence, spacetime, expansion, emergence, dynamic dark energy, and the question of whether the first ripple can be mathematically modeled.
 
-### 5. Doorway / reader scale
+### 6. Doorway / reader scale
 
 GitHub entry, first-click clarity, safety-first reading path, and the README as the source node.
 
@@ -641,7 +714,7 @@ GitHub entry, first-click clarity, safety-first reading path, and the README as 
 ## Suggested next steps
 
 - Keep the first-reader path obvious at the top of the README.
-- Link new artifacts back through the Chapter Ripple Map and Natural Ripple Map.
+- Link new artifacts back through the Chapter Ripple Map, Natural Ripple Map, and Dream Ripple Map.
 - Invite readers to open their own artifact issues or testable questions.
 - Keep the theory layer separated into known model, speculative bridge, and story expression.
 - Continue treating the book as the doorway and the repo as the archive.
@@ -661,6 +734,10 @@ It is also asking:
 And now, before either question:
 
 > Where does the reader safely enter?
+
+The Dream Layer adds another question:
+
+> What followed you back from the room that was not real?
 
 ---
 
