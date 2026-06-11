@@ -17,6 +17,32 @@ https://GitHub.com/kaeganscott26/INTERVENTION
 
 ---
 
+## START HERE IF GITHUB LOOKS CONFUSING
+
+This is not a coding project you have to understand before reading.
+
+This is a book, archive, and reflective game stored on GitHub.
+
+If you are not familiar with GitHub, ignore the code-looking parts. Click the blue links like chapters in an online book.
+
+Recommended first path:
+
+1. [Read This First: Mental Health Disclaimer](INTERVENTION%20ARG/MENTAL_HEALTH_DISCLAIMER.md)
+2. [Enter the Room / How To Play](INTERVENTION%20ARG/HOW_TO_PLAY.md)
+3. [Read the Canonical Order](INTERVENTION%20ARG/ORDER.md)
+4. [Begin Chapter 01](INTERVENTION%20ARG/Chapter%2001.md)
+5. When you want the full map, open the [Chapter Ripple Map](INTERVENTION%20ARG/CHAPTER_RIPPLE_MAP.md)
+
+If you are here because someone sent you this while you are struggling, start with the disclaimer and move slowly.
+
+This project is not therapy, crisis support, or a replacement for real-world help.
+
+It is language for noticing consequence.
+
+Reality remains reality.
+
+---
+
 You have found the doorway.
 
 INTERVENTION is a completed seventeen-chapter fiction experiment, a reflective Alternate Reality Game, and a story-system built around Ripple Theory.
