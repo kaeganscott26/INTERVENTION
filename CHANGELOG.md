@@ -15,6 +15,81 @@ It may reflect learning, not certainty.
 
 ---
 
+## [2026-06-11] — 🧭 Cultural Layer linked into the front door
+
+- **Scale:** Cultural / Philosophical / Evidence Discipline
+- **Type:** Layer Integration
+- **Layer:** Ancient-to-modern comparison / Pressure testing / Falsifiability
+- **Primary artifacts:** `NOTES/CULTURAL_LAYER.md`, `NOTES/DREAM_LAYER.md`, README, `NOTES/THEORY_LAYER.md`
+
+### Status
+
+The Cultural Layer is now connected into the main reader path.
+
+The README links directly to both the Dream Layer and the Cultural Layer.
+
+The Dream Layer now links back to the Cultural Layer, and the Cultural Layer has a dedicated Obsidian link section connecting it to the theory, dream, sleep, natural, geometry, safety, and ignored-pattern layers.
+
+---
+
+### What changed
+
+The README front page now includes clickable links for:
+
+```text
+NOTES/DREAM_LAYER.md
+NOTES/CULTURAL_LAYER.md
+```
+
+The README also now contains short readable sections for:
+
+```text
+The dream layer
+The cultural layer
+```
+
+The Cultural Layer now includes an Obsidian link hub:
+
+```text
+[[THEORY_LAYER]]
+[[DREAM_LAYER]]
+[[SUSHUPTI_BRIDGE]]
+[[NATURAL_LAYER]]
+[[GEOMETRY_AS_CONSEQUENCE]]
+[[MENTAL_HEALTH_DISCLAIMER]]
+[[BOUNDARIES]]
+[[DREAM_RIPPLE_MAP]]
+[[NATURAL_RIPPLE_MAP]]
+[[CHAPTER_RIPPLE_MAP]]
+[[ARTIFACT_021_THE_IGNORED_LAYER]]
+```
+
+---
+
+### What concept this strengthens
+
+This strengthens the pressure-test rule.
+
+Ripple Theory is not only collecting supporting ideas.
+
+It is now explicitly inviting cultural, philosophical, psychological, spiritual, and historical frameworks to test it.
+
+If a framework supports the theory, the support is documented.
+
+If a framework challenges the theory, the challenge is documented.
+
+If a framework breaks the theory, the break is documented.
+
+### Key learning point
+
+> A theory that cannot be challenged becomes a room with no exits.
+
+### Player prompt
+
+> What older room does this idea resemble, and does that resemblance support the theory, challenge it, or expose a weakness?
+
+---
+
 ## [2026-06-11] — 💤 Dream Layer added
 
 - **Scale:** Dream / Memory / Waking Consequence
@@ -683,7 +758,7 @@ Sometimes the fork is simply the moment when a repeated pattern is offered again
 
 ## Current learning summary
 
-Ripple Theory now has six active scales:
+Ripple Theory now has seven active scales:
 
 ### 1. Natural / physical scale
 
@@ -693,19 +768,23 @@ Disturbance, force, motion, weather, water, plants, animals, currents, decay, re
 
 Dreams, emotional imprint, waking residue, memory, symbol, fiction-body overlap, and return to grounded reality.
 
-### 3. Human scale
+### 3. Cultural / philosophical scale
+
+Ancient-to-modern comparison, reality claims, self claims, action/consequence claims, evidence discipline, and falsifiability.
+
+### 4. Human scale
 
 Rooms, moods, choices, triggers, interventions, feedback, repair.
 
-### 4. Story scale
+### 5. Story scale
 
 Chapters, artifacts, issues, echoes, reflective ARG participation, perception training.
 
-### 5. Cosmic scale
+### 6. Cosmic scale
 
 Existence, spacetime, expansion, emergence, dynamic dark energy, and the question of whether the first ripple can be mathematically modeled.
 
-### 6. Doorway / reader scale
+### 7. Doorway / reader scale
 
 GitHub entry, first-click clarity, safety-first reading path, and the README as the source node.
 
@@ -714,9 +793,9 @@ GitHub entry, first-click clarity, safety-first reading path, and the README as 
 ## Suggested next steps
 
 - Keep the first-reader path obvious at the top of the README.
-- Link new artifacts back through the Chapter Ripple Map, Natural Ripple Map, and Dream Ripple Map.
+- Link new artifacts back through the Chapter Ripple Map, Natural Ripple Map, Dream Ripple Map, and Cultural Layer.
 - Invite readers to open their own artifact issues or testable questions.
-- Keep the theory layer separated into known model, speculative bridge, and story expression.
+- Keep the theory layer separated into known model, speculative bridge, cultural comparison, and story expression.
 - Continue treating the book as the doorway and the repo as the archive.
 
 ---
@@ -738,6 +817,10 @@ And now, before either question:
 The Dream Layer adds another question:
 
 > What followed you back from the room that was not real?
+
+The Cultural Layer adds another question:
+
+> What older room does this resemble, and what happens if that room disagrees?
 
 ---
 
