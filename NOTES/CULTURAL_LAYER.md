@@ -886,7 +886,23 @@ They are starting anchors.
 
 ---
 
-## 24. Boundary statement
+## 24. Obsidian Links
+
+- [[THEORY_LAYER]] — separates known model, speculation, story expression, and safety boundaries
+- [[DREAM_LAYER]] — connects simulated rooms, waking consequence, and meaning across cultures
+- [[SUSHUPTI_BRIDGE]] — sleep-state bridge for deep unconsciousness and the not-dreaming layer
+- [[NATURAL_LAYER]] — keeps consequence grounded outside human interpretation
+- [[GEOMETRY_AS_CONSEQUENCE]] — shape, feedback, repeated form, and consequence made visible
+- [[MENTAL_HEALTH_DISCLAIMER]] — safety handrail for pattern-based reading
+- [[BOUNDARIES]] — consent, participation, and reality boundary layer
+- [[DREAM_RIPPLE_MAP]] — dream map for emotional residue and waking behavior
+- [[NATURAL_RIPPLE_MAP]] — natural map for non-human systems and consequence
+- [[CHAPTER_RIPPLE_MAP]] — canonical story/theory map
+- [[ARTIFACT_021_THE_IGNORED_LAYER]] — warning layer about misreading patterns and turning theory into a cage
+
+---
+
+## 25. Boundary statement
 
 The Cultural Layer is not here to make the theory sound ancient.
 
