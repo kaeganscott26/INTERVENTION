@@ -238,6 +238,7 @@ choose next ripple
 - [[DREAM_RIPPLE_MAP]] — dream section map
 - [[ARTIFACT_022_BAD_DREAM_MOMMY_DAD_MIMIC]] — creepy fiction artifact
 - [[THEORY_LAYER]] — keeps dream symbolism separated from proof
+- [[CULTURAL_LAYER]] — compares dream, reality, and meaning across older frameworks without forcing agreement
 - [[MENTAL_HEALTH_DISCLAIMER]] — safety handrail
 - [[BOUNDARIES]] — participation guardrail
 - [[Chapter 08]] — father / child / inherited memory echoes
