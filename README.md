@@ -78,6 +78,8 @@ The README is the source node. The branch links begin here:
 - [Natural Ripple Map](INTERVENTION%20ARG/NATURAL_RIPPLE_MAP.md)
 - [Theory Layer Note](NOTES/THEORY_LAYER.md)
 - [Natural Layer Note](NOTES/NATURAL_LAYER.md)
+- [Dream Layer Note](NOTES/DREAM_LAYER.md)
+- [Cultural Layer Note](NOTES/CULTURAL_LAYER.md)
 - [Geometry as Consequence](NOTES/GEOMETRY_AS_CONSEQUENCE.md)
 - [Official Artifact Layer](INTERVENTION%20ARG/ARTIFACTS/)
 - [System Status](INTERVENTION%20ARG/SYSTEM_STATUS.md)
@@ -87,7 +89,7 @@ The README is the source node. The branch links begin here:
 - [Community Echoes](COMMUNITY/)
 - [Review Log / Changelog](CHANGELOG.md)
 
-In Obsidian, this makes the README function as the doorway/singularity node: story, theory, safety, natural consequence, geometry, artifacts, and community all branch outward from here.
+In Obsidian, this makes the README function as the doorway/singularity node: story, theory, safety, natural consequence, dream consequence, cultural pressure-testing, geometry, artifacts, and community all branch outward from here.
 
 ---
 
@@ -251,6 +253,47 @@ Nature does not need intention to create consequence.
 The ripple exists before the story.
 
 For the full physical/ecological map, read the [Natural Ripple Map](INTERVENTION%20ARG/NATURAL_RIPPLE_MAP.md) and the [Natural Layer Note](NOTES/NATURAL_LAYER.md).
+
+### The dream layer
+
+Dreams are not base reality.
+
+Dreams are not commands.
+
+Dreams are not proof.
+
+But dreams can still create real waking consequences.
+
+A dream can be unreal as an event and real as an effect:
+
+```text
+dream event: unreal in base reality
+emotional imprint: real in the nervous system
+waking behavior: real in the room
+ripple: real in consequence
+```
+
+For the full simulated-room map, read the [Dream Layer Note](NOTES/DREAM_LAYER.md).
+
+### The cultural layer
+
+Ripple Theory is allowed to enter older rooms.
+
+It is not allowed to steal the furniture.
+
+The Cultural Layer compares Ripple Theory with ancient and modern frameworks only when the comparison can survive pressure:
+
+```text
+support → challenge → contradiction → revision
+```
+
+If a cultural idea supports Ripple Theory, it is documented.
+
+If it complicates Ripple Theory, it is documented.
+
+If it breaks Ripple Theory, it is documented.
+
+For the full cross-cultural pressure test, read the [Cultural Layer Note](NOTES/CULTURAL_LAYER.md).
 
 ### The cosmic hook
 
@@ -424,6 +467,8 @@ Before participating, read:
 - [Theory Layer Note](NOTES/THEORY_LAYER.md)
 - [Natural Ripple Map](INTERVENTION%20ARG/NATURAL_RIPPLE_MAP.md)
 - [Natural Layer Note](NOTES/NATURAL_LAYER.md)
+- [Dream Layer Note](NOTES/DREAM_LAYER.md)
+- [Cultural Layer Note](NOTES/CULTURAL_LAYER.md)
 - [Geometry as Consequence](NOTES/GEOMETRY_AS_CONSEQUENCE.md)
 - [Chapter Ripple Map](INTERVENTION%20ARG/CHAPTER_RIPPLE_MAP.md)
 
