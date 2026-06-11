@@ -55,6 +55,14 @@ Artifacts should feel like something found, not something advertised.
 
 ---
 
+## 🧭 Current Theory Artifacts
+
+- [[ARTIFACT_023_THE_BAD_DREAM_MOMMY]] — dream render / nightmare residue
+- [[ARTIFACT_024_THE_BLACK_FRAME]] — unrendered sleep interval / Black Frame
+- [[SUSHUPTI_BRIDGE]] — suṣupti, delta-state language, and the direct theory bridge
+
+---
+
 ## ⚠️ Artifact Rules
 
 Do not include private information.
