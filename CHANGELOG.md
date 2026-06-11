@@ -15,6 +15,221 @@ It may reflect learning, not certainty.
 
 ---
 
+## [2026-06-10] — 🚪 README first-reader path added
+
+- **Scale:** Reader / Entry UX
+- **Type:** Accessibility Update
+- **Layer:** Doorway / First Contact / Recovery-Safe Entry
+- **Primary artifact:** README
+
+### Status
+
+The front door has been made clearer for people who are not used to GitHub.
+
+A real-world reader asked the most important UX question:
+
+> Where do I click? What do I click?
+
+That question exposed the next needed layer.
+
+The repo may be structurally clear to the curator, but a reader entering from Facebook, screenshots, or a shared link may see GitHub as a confusing machine room.
+
+---
+
+### What changed
+
+The README now includes a new section near the top:
+
+```text
+START HERE IF GITHUB LOOKS CONFUSING
+```
+
+It explains that `INTERVENTION` is not a coding project readers need to understand before entering.
+
+It tells first-time readers:
+
+```text
+ignore the code-looking parts
+click the blue links like chapters in an online book
+```
+
+It also gives a simple recommended first path:
+
+```text
+1. Mental Health Disclaimer
+2. How To Play
+3. Canonical Order
+4. Chapter 01
+5. Chapter Ripple Map
+```
+
+A recovery-sensitive line was also added:
+
+> If you are here because someone sent you this while you are struggling, start with the disclaimer and move slowly.
+
+---
+
+### What concept this strengthens
+
+This strengthens the doorway layer.
+
+The project cannot only be deep.
+
+It also has to be enterable.
+
+A reflective Alternate Reality Game built around perception and choice needs a safe first move for readers who do not know GitHub, Obsidian, repos, issues, or markdown.
+
+### Key learning point
+
+> A doorway is only a doorway if the reader knows where to step.
+
+### Player prompt
+
+> Before you follow the map, did you read the handrail?
+
+---
+
+## [2026-06-10] — 🌿 Natural layer and map-under-the-map added
+
+- **Scale:** Physical / Ecological
+- **Type:** Layer Expansion
+- **Layer:** Nature / Weather / Plants / Animals / Ocean / Physical Consequence
+- **Primary artifacts:** `NOTES/NATURAL_LAYER.md`, `INTERVENTION ARG/NATURAL_RIPPLE_MAP.md`, README, `CHAPTER_RIPPLE_MAP.md`
+
+### Status
+
+Ripple Theory now has a dedicated natural layer outside the psychological and perception layers.
+
+This prevents the theory from collapsing all consequence into human meaning.
+
+The project now makes a clearer distinction:
+
+```text
+Human layer:
+event → perception → choice → consequence → story
+
+Natural layer:
+disturbance → system response → propagation → feedback → new equilibrium
+```
+
+---
+
+### What changed
+
+Two major files were added or connected:
+
+```text
+NOTES/NATURAL_LAYER.md
+INTERVENTION ARG/NATURAL_RIPPLE_MAP.md
+```
+
+The natural layer explains Ripple Theory through:
+
+- plants,
+- animals,
+- sea currents,
+- weather,
+- fire,
+- decay,
+- recovery,
+- and physical reality outside perception.
+
+The natural ripple map creates a separate graph cluster:
+
+```text
+[[NATURAL_RIPPLE_MAP]]
+[[NATURAL_LAYER]]
+[[GEOMETRY_AS_CONSEQUENCE]]
+[[THEORY_LAYER]]
+[[Chapter 01]]
+[[Chapter 14]]
+[[Chapter 15]]
+[[Chapter 17]]
+```
+
+The README now includes a natural layer section explaining:
+
+> The ripple exists before the story.
+
+---
+
+### What concept this strengthens
+
+This strengthens the non-human scale of Ripple Theory.
+
+Consequence does not begin with interpretation.
+
+A rockslide does not need a witness.
+
+A river does not need a theory.
+
+A plant does not need language.
+
+Weather does not need meaning.
+
+Physical systems ripple whether anyone notices or not.
+
+### Key learning point
+
+> Human perception is not the origin of consequence. It is one late branch of consequence becoming aware of itself.
+
+### Player prompt
+
+> What system was already rippling before you turned it into a story?
+
+---
+
+## [2026-06-10] — 🧭 Reflective ARG definition clarified
+
+- **Scale:** Story / Participation
+- **Type:** Definition Update
+- **Layer:** ARG Identity / Safety / Reader Expectation
+- **Primary artifact:** README
+
+### Status
+
+`INTERVENTION` now defines itself more clearly as a reflective Alternate Reality Game.
+
+It is not a puzzle-hunt ARG.
+
+It is not an augmented reality game.
+
+It is an Alternate Reality Game where the alternate branch is created through perception, choice, and consequence.
+
+---
+
+### What changed
+
+The README now opens with:
+
+> INTERVENTION is an Alternate Reality Game where the alternate reality is created through perception and choice. The reader does not solve puzzles to unlock fiction. They read fiction to recognize real intervention points in their own life.
+
+It also adds the core definition:
+
+> The game is not to escape reality. The game is to notice where reality branches.
+
+---
+
+### What concept this strengthens
+
+This strengthens reader expectation.
+
+Readers should not expect payphones, ciphers, hidden coordinates, or puzzle unlocks.
+
+The mechanic is fork recognition.
+
+The reader reads fiction, notices consequence, and then returns to life with a sharper sense of where choice can branch reality.
+
+### Key learning point
+
+> The alternate reality is not fake. It is the alternate branch created when awareness changes behavior.
+
+### Player prompt
+
+> Where did your day branch because you noticed the fork?
+
+---
+
 ## [2026-06-09] — 🌀 Ripple Theory scales to the cosmic
 
 - **Scale:** Cosmic
@@ -399,25 +614,34 @@ Sometimes the fork is simply the moment when a repeated pattern is offered again
 
 ## Current learning summary
 
-Ripple Theory now has three active scales:
+Ripple Theory now has five active scales:
 
-### 1. Human scale
+### 1. Natural / physical scale
+
+Disturbance, force, motion, weather, water, plants, animals, currents, decay, recovery.
+
+### 2. Human scale
 
 Rooms, moods, choices, triggers, interventions, feedback, repair.
 
-### 2. Story scale
+### 3. Story scale
 
-Chapters, artifacts, issues, echoes, ARG participation, perception training.
+Chapters, artifacts, issues, echoes, reflective ARG participation, perception training.
 
-### 3. Cosmic scale
+### 4. Cosmic scale
 
 Existence, spacetime, expansion, emergence, dynamic dark energy, and the question of whether the first ripple can be mathematically modeled.
+
+### 5. Doorway / reader scale
+
+GitHub entry, first-click clarity, safety-first reading path, and the README as the source node.
 
 ---
 
 ## Suggested next steps
 
-- Link Issue #8, Issue #9, and Issue #10 from the README as sample artifacts.
+- Keep the first-reader path obvious at the top of the README.
+- Link new artifacts back through the Chapter Ripple Map and Natural Ripple Map.
 - Invite readers to open their own artifact issues or testable questions.
 - Keep the theory layer separated into known model, speculative bridge, and story expression.
 - Continue treating the book as the doorway and the repo as the archive.
@@ -426,7 +650,6 @@ Existence, spacetime, expansion, emergence, dynamic dark energy, and the questio
 
 ## Closing note
 
-
 The project is no longer only asking:
 
 > What ripple are you creating?
@@ -434,6 +657,10 @@ The project is no longer only asking:
 It is also asking:
 
 > What made ripples possible in the first place?
+
+And now, before either question:
+
+> Where does the reader safely enter?
 
 ---
 
