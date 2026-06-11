@@ -31,7 +31,7 @@ git push origin main
 
 ## Ordered Expansion
 
-[[README]] → [[Prologue]] → [[Chapter 01]] → [[Chapter 02]] → [[Chapter 03]] → [[Chapter 04]] → [[Chapter 05]] → [[Chapter 06]] → [[Chapter 07]] → [[Chapter 08]] → [[Chapter 09]] → [[Chapter 10]] → [[Chapter 11]] → [[Chapter 12]] → [[Chapter 13]] → [[Chapter 14]] → [[Chapter 15]] → [[Chapter 16]] → [[Chapter 17]] → [[Chapter 01]]
+[[README]] → [[PROLOGUE]] → [[Chapter 01]] → [[Chapter 02]] → [[Chapter 03]] → [[Chapter 04]] → [[Chapter 05]] → [[Chapter 06]] → [[Chapter 07]] → [[Chapter 08]] → [[Chapter 09]] → [[Chapter 10]] → [[Chapter 11]] → [[Chapter 12]] → [[Chapter 13]] → [[Chapter 14]] → [[Chapter 15]] → [[Chapter 16]] → [[Chapter 17]] → [[Chapter 01]]
 
 This is not a flat loop.
 
@@ -136,7 +136,7 @@ Dreams are where fiction briefly wears the body of reality.
 
 ## Chapter Functions
 
-### [[Prologue]]
+### [[PROLOGUE]]
 
 - Previous room: [[README]]
 - Next room: [[Chapter 01]]
@@ -144,7 +144,7 @@ Dreams are where fiction briefly wears the body of reality.
 
 ### [[Chapter 01]] — The First Ripple
 
-- Previous room: [[Prologue]]
+- Previous room: [[PROLOGUE]]
 - Next room: [[Chapter 02]]
 - Echoes: [[ARTIFACT_017_CURATOR'S_LAYER]], [[ARTIFACT_020_THE SPLIT LAYER]], [[THEORY_LAYER]], [[NATURAL_RIPPLE_MAP]]
 
