@@ -15,6 +15,12 @@ The game is not to escape reality.
 
 The game is to notice where reality branches.
 
+Sometimes the doorway is a book.
+
+Sometimes the doorway is a room.
+
+Sometimes the doorway is a rabbit hole.
+
 Reality remains reality.
 
 ---
@@ -47,6 +53,7 @@ It is language for noticing consequence.
 - [Mental Health Disclaimer](INTERVENTION%20ARG/MENTAL_HEALTH_DISCLAIMER.md)
 - [Boundaries & Consent](INTERVENTION%20ARG/BOUNDARIES.md)
 - [Community Ripple Guide](INTERVENTION%20ARG/COMMUNITY_RIPPLES.md)
+- [Official Artifact Layer](INTERVENTION%20ARG/ARTIFACTS/)
 - [Review Log / Changelog](CHANGELOG.md)
 
 ---
@@ -150,6 +157,7 @@ The Layer Index also maps chapters to their corresponding layers.
 - [Natural Ripple Map](INTERVENTION%20ARG/NATURAL_RIPPLE_MAP.md)
 - [Dream Ripple Map](INTERVENTION%20ARG/DREAM_RIPPLE_MAP.md)
 - [Official Artifact Layer](INTERVENTION%20ARG/ARTIFACTS/)
+- [Artifact 025 — The Rabbit Hole](INTERVENTION%20ARG/ARTIFACTS/ARTIFACT_025_THE_RABBIT_HOLE.md)
 - [Community Echoes](COMMUNITY/)
 - [System Status](INTERVENTION%20ARG/SYSTEM_STATUS.md)
 
