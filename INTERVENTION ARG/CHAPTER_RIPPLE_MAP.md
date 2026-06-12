@@ -1,37 +1,22 @@
 # CHAPTER RIPPLE MAP
 
-_Status: Graph Scaffold | Obsidian Links Active_
+_Status: Graph Scaffold | Obsidian Links Active | Layer Index Connected_
 
-This map exists to make the repo graph visible before the chapter files are patched locally.
+This map makes the repo graph visible.
 
-Obsidian does **not** connect `[{Chapter 01}]` in graph view.
+The chapters create the emotional route.
 
-Use wikilinks:
+The layers explain the pressure systems underneath the route.
 
-```text
-[[Chapter 01]]
-```
+The artifacts and community echoes show how the route returns to the reader's room.
 
-The chapter link builder lives here:
-
-```text
-scripts/add_obsidian_ripple_links.py
-```
-
-Run it from the repo root:
-
-```bash
-python3 scripts/add_obsidian_ripple_links.py
-git add "INTERVENTION ARG" scripts/add_obsidian_ripple_links.py
-git commit -m "docs: connect chapters for Obsidian graph"
-git push origin main
-```
+Use [[LAYER_INDEX]] as the main guide for layer reading.
 
 ---
 
 ## Ordered Expansion
 
-[[README]] → [[PROLOGUE]] → [[Chapter 01]] → [[Chapter 02]] → [[Chapter 03]] → [[Chapter 04]] → [[Chapter 05]] → [[Chapter 06]] → [[Chapter 07]] → [[Chapter 08]] → [[Chapter 09]] → [[Chapter 10]] → [[Chapter 11]] → [[Chapter 12]] → [[Chapter 13]] → [[Chapter 14]] → [[Chapter 15]] → [[Chapter 16]] → [[Chapter 17]] → [[Chapter 01]]
+[[README]] → [[ORDER]] → [[PROLOGUE]] → [[Chapter 01]] → [[Chapter 02]] → [[Chapter 03]] → [[Chapter 04]] → [[Chapter 05]] → [[Chapter 06]] → [[Chapter 07]] → [[Chapter 08]] → [[Chapter 09]] → [[Chapter 10]] → [[Chapter 11]] → [[Chapter 12]] → [[Chapter 13]] → [[Chapter 14]] → [[Chapter 15]] → [[Chapter 16]] → [[Chapter 17]] → [[EPILOGUE]] → [[LAYER_INDEX]] → [[README]]
 
 This is not a flat loop.
 
@@ -43,71 +28,61 @@ A torus circulates.
 
 ---
 
-## Map Inside the Map
+## Reader Hubs
 
-The natural layer has its own map outside of the psychological/perception layer:
+- [[README]] — doorway
+- [[ORDER]] — canonical reading order
+- [[HOW_TO_PLAY]] — how to enter the room
+- [[MENTAL_HEALTH_DISCLAIMER]] — safety frame
+- [[BOUNDARIES]] — consent, privacy, and participation limits
+- [[CHAPTER_RIPPLE_MAP]] — story graph
+- [[LAYER_INDEX]] — theory layer guide
+- [[CHANGELOG]] — maintenance record
+- [[COMMUNITY_RIPPLES]] — live reader echo guide
+- [[SYSTEM_STATUS]] — repo status
+
+---
+
+## Layer Currents
+
+### Core Framework
+
+- [[THEORY_LAYER]] — the claim, limits, and pressure tests
+- [[GEOMETRY_AS_CONSEQUENCE]] — visible shape left by relation
+- [[SUSHUPTI_BRIDGE]] — consciousness bridge / research territory
+
+### Physical and Living Systems
 
 - [[NATURAL_RIPPLE_MAP]] — physical/ecological consequence map
-- [[NATURAL_LAYER]] — full natural layer note
+- [[NATURAL_LAYER]] — physical consequence before human meaning
+- [[WEATHER_LAYER]] — atmosphere changing the human room
+- [[BIOLOGICAL_LAYER]] — evolution, adaptation, inheritance, and living systems
+- [[ANTHROPOCENE_LAYER]] — human impact on Earth systems
 
-The dream layer now has its own guided section outside the chapter path:
+### Observer and Inner Reality
 
-- [[DREAM_RIPPLE_MAP]] — dream consequence / simulated-room map
-- [[DREAM_LAYER]] — full dream layer note
-- [[ARTIFACT_022_BAD_DREAM_MOMMY_DAD_MIMIC]] — fiction artifact / dream current
+- [[CLINICAL_REALITY_LAYER]] — brain, body, disability, psychiatric guardrails, memory, and access
+- [[DREAM_RIPPLE_MAP]] — dream consequence map
+- [[DREAM_LAYER]] — simulated rooms and waking residue
+- [[UNEXPLAINED_LAYER]] — unknown experiences interpreted safely
 
-This is the layer where internal simulation can still create waking consequence.
+### Shared Reality Systems
 
-```text
-dream → emotional imprint → waking interpretation → behavior shift → ripple
-```
-
----
-
-## Core Stabilizers
-
-- [[ORDER]]
-- [[HOW_TO_PLAY]]
-- [[MENTAL_HEALTH_DISCLAIMER]]
-- [[BOUNDARIES]]
-- [[THEORY_LAYER]]
-- [[GEOMETRY_AS_CONSEQUENCE]]
-- [[NATURAL_RIPPLE_MAP]]
-- [[NATURAL_LAYER]]
-- [[DREAM_RIPPLE_MAP]]
-- [[DREAM_LAYER]]
-- [[CHANGELOG]]
-- [[COMMUNITY_RIPPLES]]
-- [[SYSTEM_STATUS]]
-
----
-
-## Natural Currents
-
-These links belong to the physical/ecological layer, not the psychological/perception layer.
-
-- [[NATURAL_RIPPLE_MAP]] — map inside the map
-- [[NATURAL_LAYER]] — plants / animals / weather / ocean currents / physical consequence
-- [[GEOMETRY_AS_CONSEQUENCE]] — repeated shape / toroidal flow / consequence made visible
-- [[Chapter 01]] — first ripple / early architecture
-- [[Chapter 14]] — cosmic scale / old light / expansion
-- [[Chapter 15]] — boulder / physical consequence / weight
-
-```text
-physical disturbance → force → motion → changed conditions
-changed conditions → organism response → habitat shift → feedback
-heat → pressure → current → weather → ecosystem response
-```
+- [[CULTURAL_LAYER]] — inherited meaning, myth, ritual, and civilization-scale framing
+- [[POWER_GOVERNANCE_LAYER]] — law, state, authority, regime, and institutional consequence
+- [[POLITICAL_REALITY_LAYER]] — perceived choice, parties, labels, and public identity
+- [[MEDIA_COMMUNICATION_LAYER]] — movies, TV, news, social media, messages, and mediated reality
+- [[SOFTWARE_SYSTEMS_LAYER]] — code, systems, objects, AIFRED, Kaegan's game, and executable consequence
 
 ---
 
 ## Dream Currents
 
-These links belong to the Dream Layer: simulated rooms, waking residue, memory, emotion, horror-symbols, and the return to grounded reality.
+The Dream Layer is a simulated-room current, not proof of supernatural instruction.
 
 - [[DREAM_RIPPLE_MAP]] — dream section / player path
 - [[DREAM_LAYER]] — dreams and waking consequence
-- [[ARTIFACT_022_BAD_DREAM_MOMMY_DAD_MIMIC]] — bad_dream_mommy / Dad_mimic artifact
+- [[ARTIFACT_023_THE_BAD_DREAM_MOMMY]] — bad dream artifact
 - [[MENTAL_HEALTH_DISCLAIMER]] — first guardrail
 - [[BOUNDARIES]] — safety and consent
 - [[THEORY_LAYER]] — story is not proof
@@ -126,10 +101,15 @@ Dreams are where fiction briefly wears the body of reality.
 
 ## Artifact Currents
 
-- [[ARTIFACT_017_CURATOR'S_LAYER]] — origin / curator / repo as mirror
-- [[ARTIFACT_020_THE SPLIT LAYER]] — branching lives / family consequence
+Artifacts are not automatically canon.
+
+They are live echoes, pressure points, and documented ripples.
+
+- [[ARTIFACT_017_CURATOR'S_LAYER]] — curator / repo as mirror
+- [[ARTIFACT_020_THE_SPLIT_LAYER]] — branching lives / family consequence
 - [[ARTIFACT_021_THE_IGNORED_LAYER]] — warning / handrail / ignored disclaimer
-- [[ARTIFACT_022_BAD_DREAM_MOMMY_DAD_MIMIC]] — dream artifact / horror current
+- [[ARTIFACT_023_THE_BAD_DREAM_MOMMY]] — dream artifact / horror current
+- [[ARTIFACT_024_THE_BLACK_FRAME]] — image / frame / media current
 - [[chapter_07_read_aloud_failure]] — failed audio artifact / Chapter 07 echo
 
 ---
@@ -140,110 +120,135 @@ Dreams are where fiction briefly wears the body of reality.
 
 - Previous room: [[README]]
 - Next room: [[Chapter 01]]
-- Echoes: [[ARTIFACT_017_CURATOR'S_LAYER]], [[THEORY_LAYER]]
+- Layer links: [[HOW_TO_PLAY]], [[THEORY_LAYER]], [[BOUNDARIES]]
+- Echoes: [[ARTIFACT_017_CURATOR'S_LAYER]]
 
 ### [[Chapter 01]] — The First Ripple
 
 - Previous room: [[PROLOGUE]]
 - Next room: [[Chapter 02]]
-- Echoes: [[ARTIFACT_017_CURATOR'S_LAYER]], [[ARTIFACT_020_THE SPLIT LAYER]], [[THEORY_LAYER]], [[NATURAL_RIPPLE_MAP]]
+- Layer links: [[CULTURAL_LAYER]], [[POWER_GOVERNANCE_LAYER]], [[MEDIA_COMMUNICATION_LAYER]], [[CLINICAL_REALITY_LAYER]]
+- Echoes: [[ARTIFACT_017_CURATOR'S_LAYER]], [[ARTIFACT_020_THE_SPLIT_LAYER]]
 
 ### [[Chapter 02]] — Trigger
 
 - Previous room: [[Chapter 01]]
 - Next room: [[Chapter 03]]
-- Echoes: [[ARTIFACT_021_THE_IGNORED_LAYER]], [[MENTAL_HEALTH_DISCLAIMER]], [[BOUNDARIES]]
+- Layer links: [[CLINICAL_REALITY_LAYER]], [[MENTAL_HEALTH_DISCLAIMER]], [[BOUNDARIES]]
+- Echoes: [[ARTIFACT_021_THE_IGNORED_LAYER]]
 
 ### [[Chapter 03]] — The Room
 
 - Previous room: [[Chapter 02]]
 - Next room: [[Chapter 04]]
-- Echoes: [[THEORY_LAYER]], [[ARTIFACT_020_THE SPLIT LAYER]]
+- Layer links: [[THEORY_LAYER]], [[GEOMETRY_AS_CONSEQUENCE]], [[CLINICAL_REALITY_LAYER]]
+- Echoes: [[ARTIFACT_020_THE_SPLIT_LAYER]]
 
 ### [[Chapter 04]] — The Missed Layer
 
 - Previous room: [[Chapter 03]]
 - Next room: [[Chapter 05]]
-- Echoes: [[ARTIFACT_017_CURATOR'S_LAYER]], [[ARTIFACT_020_THE SPLIT LAYER]]
+- Layer links: [[THEORY_LAYER]], [[UNEXPLAINED_LAYER]], [[BOUNDARIES]]
+- Echoes: [[ARTIFACT_017_CURATOR'S_LAYER]], [[ARTIFACT_020_THE_SPLIT_LAYER]]
 
 ### [[Chapter 05]] — Shared Reality
 
 - Previous room: [[Chapter 04]]
 - Next room: [[Chapter 06]]
-- Echoes: [[COMMUNITY_RIPPLES]], [[THEORY_LAYER]]
+- Layer links: [[MEDIA_COMMUNICATION_LAYER]], [[CULTURAL_LAYER]], [[COMMUNITY_RIPPLES]]
+- Echoes: [[THEORY_LAYER]]
 
 ### [[Chapter 06]] — The False World
 
 - Previous room: [[Chapter 05]]
 - Next room: [[Chapter 07]]
-- Echoes: [[ARTIFACT_021_THE_IGNORED_LAYER]], [[MENTAL_HEALTH_DISCLAIMER]], [[BOUNDARIES]]
+- Layer links: [[UNEXPLAINED_LAYER]], [[CLINICAL_REALITY_LAYER]], [[BOUNDARIES]]
+- Echoes: [[ARTIFACT_021_THE_IGNORED_LAYER]]
 
 ### [[Chapter 07]] — Observer
 
 - Previous room: [[Chapter 06]]
 - Next room: [[Chapter 08]]
-- Echoes: [[chapter_07_read_aloud_failure]], [[THEORY_LAYER]]
+- Layer links: [[THEORY_LAYER]], [[GEOMETRY_AS_CONSEQUENCE]], [[MEDIA_COMMUNICATION_LAYER]]
+- Echoes: [[chapter_07_read_aloud_failure]]
 
 ### [[Chapter 08]] — 0826
 
 - Previous room: [[Chapter 07]]
 - Next room: [[Chapter 09]]
-- Echoes: [[ARTIFACT_017_CURATOR'S_LAYER]], [[ARTIFACT_020_THE SPLIT LAYER]], [[DREAM_RIPPLE_MAP]]
+- Layer links: [[DREAM_LAYER]], [[CLINICAL_REALITY_LAYER]], [[CULTURAL_LAYER]]
+- Echoes: [[ARTIFACT_017_CURATOR'S_LAYER]], [[ARTIFACT_020_THE_SPLIT_LAYER]], [[DREAM_RIPPLE_MAP]]
 
 ### [[Chapter 09]] — The Kitchen
 
 - Previous room: [[Chapter 08]]
 - Next room: [[Chapter 10]]
-- Echoes: [[ARTIFACT_020_THE SPLIT LAYER]], [[COMMUNITY_RIPPLES]]
+- Layer links: [[SOFTWARE_SYSTEMS_LAYER]], [[MEDIA_COMMUNICATION_LAYER]], [[COMMUNITY_RIPPLES]]
+- Echoes: [[ARTIFACT_020_THE_SPLIT_LAYER]]
 
 ### [[Chapter 10]] — The Signal
 
 - Previous room: [[Chapter 09]]
 - Next room: [[Chapter 11]]
-- Echoes: [[ARTIFACT_017_CURATOR'S_LAYER]], [[GEOMETRY_AS_CONSEQUENCE]]
+- Layer links: [[GEOMETRY_AS_CONSEQUENCE]], [[SOFTWARE_SYSTEMS_LAYER]], [[THEORY_LAYER]]
+- Echoes: [[ARTIFACT_017_CURATOR'S_LAYER]]
 
 ### [[Chapter 11]] — The Loop
 
 - Previous room: [[Chapter 10]]
 - Next room: [[Chapter 12]]
-- Echoes: [[ARTIFACT_020_THE SPLIT LAYER]], [[THEORY_LAYER]]
+- Layer links: [[CLINICAL_REALITY_LAYER]], [[THEORY_LAYER]], [[BOUNDARIES]]
+- Echoes: [[ARTIFACT_020_THE_SPLIT_LAYER]]
 
 ### [[Chapter 12]] — The Door
 
 - Previous room: [[Chapter 11]]
 - Next room: [[Chapter 13]]
-- Echoes: [[GEOMETRY_AS_CONSEQUENCE]], [[ARTIFACT_017_CURATOR'S_LAYER]]
+- Layer links: [[GEOMETRY_AS_CONSEQUENCE]], [[UNEXPLAINED_LAYER]], [[THEORY_LAYER]]
+- Echoes: [[ARTIFACT_017_CURATOR'S_LAYER]]
 
 ### [[Chapter 13]] — The Echo
 
 - Previous room: [[Chapter 12]]
 - Next room: [[Chapter 14]]
-- Echoes: [[COMMUNITY_RIPPLES]], [[CHANGELOG]]
+- Layer links: [[COMMUNITY_RIPPLES]], [[MEDIA_COMMUNICATION_LAYER]], [[CULTURAL_LAYER]]
+- Echoes: [[CHANGELOG]]
 
 ### [[Chapter 14]] — The Cosmic Room
 
 - Previous room: [[Chapter 13]]
 - Next room: [[Chapter 15]]
-- Echoes: [[GEOMETRY_AS_CONSEQUENCE]], [[NATURAL_RIPPLE_MAP]], [[THEORY_LAYER]], [[CHANGELOG]]
+- Layer links: [[NATURAL_LAYER]], [[GEOMETRY_AS_CONSEQUENCE]], [[THEORY_LAYER]]
+- Echoes: [[NATURAL_RIPPLE_MAP]], [[CHANGELOG]]
 
 ### [[Chapter 15]] — Boulder
 
 - Previous room: [[Chapter 14]]
 - Next room: [[Chapter 16]]
-- Echoes: [[GEOMETRY_AS_CONSEQUENCE]], [[NATURAL_RIPPLE_MAP]], [[ARTIFACT_021_THE_IGNORED_LAYER]]
+- Layer links: [[NATURAL_LAYER]], [[WEATHER_LAYER]], [[ANTHROPOCENE_LAYER]], [[GEOMETRY_AS_CONSEQUENCE]]
+- Echoes: [[ARTIFACT_021_THE_IGNORED_LAYER]]
 
 ### [[Chapter 16]] — The Morning After the Signal
 
 - Previous room: [[Chapter 15]]
 - Next room: [[Chapter 17]]
+- Layer links: [[MEDIA_COMMUNICATION_LAYER]], [[DREAM_LAYER]], [[CLINICAL_REALITY_LAYER]]
 - Echoes: [[ARTIFACT_017_CURATOR'S_LAYER]], [[ARTIFACT_021_THE_IGNORED_LAYER]], [[DREAM_RIPPLE_MAP]]
 
 ### [[Chapter 17]] — Teodor
 
 - Previous room: [[Chapter 16]]
-- Next room: [[Chapter 01]]
-- Return current: [[Chapter 17]] → [[Chapter 01]] → [[README]]
-- Echoes: [[ARTIFACT_017_CURATOR'S_LAYER]], [[ARTIFACT_020_THE SPLIT LAYER]], [[GEOMETRY_AS_CONSEQUENCE]], [[NATURAL_RIPPLE_MAP]], [[DREAM_RIPPLE_MAP]]
+- Next room: [[EPILOGUE]]
+- Return current: [[Chapter 17]] → [[EPILOGUE]] → [[LAYER_INDEX]] → [[Chapter 01]]
+- Layer links: [[CULTURAL_LAYER]], [[CLINICAL_REALITY_LAYER]], [[POWER_GOVERNANCE_LAYER]], [[THEORY_LAYER]]
+- Echoes: [[ARTIFACT_017_CURATOR'S_LAYER]], [[ARTIFACT_020_THE_SPLIT_LAYER]], [[GEOMETRY_AS_CONSEQUENCE]]
+
+### [[EPILOGUE]]
+
+- Previous room: [[Chapter 17]]
+- Next room: [[LAYER_INDEX]]
+- Return current: [[LAYER_INDEX]] → [[README]] → [[Chapter 01]]
+- Layer links: [[THEORY_LAYER]], [[CHAPTER_RIPPLE_MAP]], [[GEOMETRY_AS_CONSEQUENCE]], [[BOUNDARIES]]
 
 ---
 
@@ -254,14 +259,14 @@ The graph is not decoration.
 The graph is the theory attempting to draw itself.
 
 ```text
-README = source / doorway
-Chapters = outward expansion
-Natural Ripple Map = map under the map
-Dream Ripple Map = simulated-room current
+README = doorway
+ORDER = route
+Chapters = emotional sequence
+Layer Index = theory guide
+Layers = explanatory rooms
 Artifacts = interference pattern
-Theory Layer = stabilizer
 Community = return current
-Chapter 17 → Chapter 01 = re-entry
+Chapter 17 → Epilogue → Layer Index → README = re-entry
 ```
 
 Fine.
