@@ -30,7 +30,7 @@ Recommended first path:
 5. [Open the Layer Index](NOTES/LAYER_INDEX.md)
 6. [Begin Chapter 01](INTERVENTION%20ARG/Chapter%2001.md)
 
-If you are here because someone sent you this while you are struggling, start with the disclaimer and move slowly.
+If you are here because someone sent you this while you are struggling, start with the disclaimer and move on only when you feel comfortable.
 
 This project is not therapy, crisis support, medical advice, religion, prophecy, or a replacement for real-world help.
 
