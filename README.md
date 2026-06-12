@@ -77,6 +77,7 @@ The README is the source node. The branch links begin here:
 - [Theory Layer Note](NOTES/THEORY_LAYER.md)
 - [Natural Layer Note](NOTES/NATURAL_LAYER.md)
 - [Biological Layer Note](NOTES/BIOLOGICAL_LAYER.md)
+- [Anthropocene / Human Impact Layer Note](NOTES/ANTHROPOCENE_LAYER.md)
 - [Weather Layer Note](NOTES/WEATHER_LAYER.md)
 - [Clinical Reality Layer Note](NOTES/CLINICAL_REALITY_LAYER.md)
 - [Power / Governance Layer Note](NOTES/POWER_GOVERNANCE_LAYER.md)
@@ -93,7 +94,7 @@ The README is the source node. The branch links begin here:
 - [Community Echoes](COMMUNITY/)
 - [Review Log / Changelog](CHANGELOG.md)
 
-In Obsidian, this makes the README function as the doorway/singularity node: story, theory, safety, natural consequence, biological consequence, weather consequence, clinical reality, power/governance, political reality, dream consequence, cultural pressure-testing, unexplained experience, geometry, artifacts, and community all branch outward from here.
+In Obsidian, this makes the README function as the doorway/singularity node: story, theory, safety, natural consequence, biological consequence, human impact, weather consequence, clinical reality, power/governance, political reality, dream consequence, cultural pressure-testing, unexplained experience, geometry, artifacts, and community all branch outward from here.
 
 ---
 
@@ -291,6 +292,36 @@ Natural selection explains biological change.
 It does not justify human cruelty.
 
 For the full evolution/adaptation/biological consequence map, read the [Biological Layer Note](NOTES/BIOLOGICAL_LAYER.md).
+
+### The anthropocene / human impact layer
+
+Humans are not outside Earth systems.
+
+Humans are Earth systems acting back on themselves.
+
+Human civilization farms, builds, mines, burns, dams rivers, clears forests, moves species, manufactures materials, extracts energy, throws things away, and creates systems that outlive the intention that created them.
+
+```text
+human need / desire / system
+        ↓
+resource extraction
+        ↓
+production / consumption
+        ↓
+waste / emission / land-use change
+        ↓
+ecosystem response
+        ↓
+climate / species / water / soil feedback
+        ↓
+human consequence
+```
+
+The planet is not background.
+
+It is the room holding every other room.
+
+For the full Earth-system/human-impact map, read the [Anthropocene / Human Impact Layer Note](NOTES/ANTHROPOCENE_LAYER.md).
 
 ### The weather layer
 
@@ -670,6 +701,7 @@ Before participating, read:
 - [Natural Ripple Map](INTERVENTION%20ARG/NATURAL_RIPPLE_MAP.md)
 - [Natural Layer Note](NOTES/NATURAL_LAYER.md)
 - [Biological Layer Note](NOTES/BIOLOGICAL_LAYER.md)
+- [Anthropocene / Human Impact Layer Note](NOTES/ANTHROPOCENE_LAYER.md)
 - [Weather Layer Note](NOTES/WEATHER_LAYER.md)
 - [Clinical Reality Layer Note](NOTES/CLINICAL_REALITY_LAYER.md)
 - [Power / Governance Layer Note](NOTES/POWER_GOVERNANCE_LAYER.md)
