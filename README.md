@@ -13,13 +13,11 @@ INTERVENTION is a reflective Alternate Reality Game.
 The game is not to escape reality.  
 The game is to notice where reality branches.
 
-
 ---
 
 ## START HERE
 
 This is a book, archive, and reflective game stored on GitHub.
-
 
 Recommended first path:
 
@@ -80,6 +78,7 @@ The README is the source node. The branch links begin here:
 - [Natural Layer Note](NOTES/NATURAL_LAYER.md)
 - [Dream Layer Note](NOTES/DREAM_LAYER.md)
 - [Cultural Layer Note](NOTES/CULTURAL_LAYER.md)
+- [Unexplained Layer Note](NOTES/UNEXPLAINED_LAYER.md)
 - [Geometry as Consequence](NOTES/GEOMETRY_AS_CONSEQUENCE.md)
 - [Official Artifact Layer](INTERVENTION%20ARG/ARTIFACTS/)
 - [System Status](INTERVENTION%20ARG/SYSTEM_STATUS.md)
@@ -89,7 +88,7 @@ The README is the source node. The branch links begin here:
 - [Community Echoes](COMMUNITY/)
 - [Review Log / Changelog](CHANGELOG.md)
 
-In Obsidian, this makes the README function as the doorway/singularity node: story, theory, safety, natural consequence, dream consequence, cultural pressure-testing, geometry, artifacts, and community all branch outward from here.
+In Obsidian, this makes the README function as the doorway/singularity node: story, theory, safety, natural consequence, dream consequence, cultural pressure-testing, unexplained experience, geometry, artifacts, and community all branch outward from here.
 
 ---
 
@@ -295,6 +294,34 @@ If it breaks Ripple Theory, it is documented.
 
 For the full cross-cultural pressure test, read the [Cultural Layer Note](NOTES/CULTURAL_LAYER.md).
 
+### The unexplained layer
+
+Some experiences arrive before the observer has a category for them.
+
+A person may call the experience supernatural, spiritual, grief, dream, intuition, coincidence, symbol, or unknown.
+
+Ripple Theory does not have to settle the metaphysics first.
+
+It can study the consequence:
+
+```text
+unexplained experience
+        ↓
+meaning search
+        ↓
+interpretation
+        ↓
+behavior change
+        ↓
+life consequence
+```
+
+The Unexplained Layer does not prove ghosts, gods, prophecies, omens, or hidden messages.
+
+It asks what the experience changed, and whether the interpretation made the person more grounded, connected, responsible, and safe.
+
+For the full supernatural/unexplained pressure test, read the [Unexplained Layer Note](NOTES/UNEXPLAINED_LAYER.md).
+
 ### The cosmic hook
 
 At the human scale, Ripple Theory maps consequence.
@@ -469,6 +496,7 @@ Before participating, read:
 - [Natural Layer Note](NOTES/NATURAL_LAYER.md)
 - [Dream Layer Note](NOTES/DREAM_LAYER.md)
 - [Cultural Layer Note](NOTES/CULTURAL_LAYER.md)
+- [Unexplained Layer Note](NOTES/UNEXPLAINED_LAYER.md)
 - [Geometry as Consequence](NOTES/GEOMETRY_AS_CONSEQUENCE.md)
 - [Chapter Ripple Map](INTERVENTION%20ARG/CHAPTER_RIPPLE_MAP.md)
 
