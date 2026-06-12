@@ -77,6 +77,7 @@ The README is the source node. The branch links begin here:
 - [Theory Layer Note](NOTES/THEORY_LAYER.md)
 - [Natural Layer Note](NOTES/NATURAL_LAYER.md)
 - [Weather Layer Note](NOTES/WEATHER_LAYER.md)
+- [Clinical Reality Layer Note](NOTES/CLINICAL_REALITY_LAYER.md)
 - [Dream Layer Note](NOTES/DREAM_LAYER.md)
 - [Cultural Layer Note](NOTES/CULTURAL_LAYER.md)
 - [Unexplained Layer Note](NOTES/UNEXPLAINED_LAYER.md)
@@ -89,7 +90,7 @@ The README is the source node. The branch links begin here:
 - [Community Echoes](COMMUNITY/)
 - [Review Log / Changelog](CHANGELOG.md)
 
-In Obsidian, this makes the README function as the doorway/singularity node: story, theory, safety, natural consequence, weather consequence, dream consequence, cultural pressure-testing, unexplained experience, geometry, artifacts, and community all branch outward from here.
+In Obsidian, this makes the README function as the doorway/singularity node: story, theory, safety, natural consequence, weather consequence, clinical reality, dream consequence, cultural pressure-testing, unexplained experience, geometry, artifacts, and community all branch outward from here.
 
 ---
 
@@ -293,6 +294,40 @@ Weather does not need meaning to create consequence.
 But humans create meaning from weather because humans live inside consequence.
 
 For the full atmosphere/storm map, read the [Weather Layer Note](NOTES/WEATHER_LAYER.md).
+
+### The clinical reality layer
+
+The observer is not a floating mind.
+
+The observer has a brain.
+
+The observer has a body.
+
+The observer has limits, needs, wiring, history, fatigue, pain, memory, chemistry, and access conditions.
+
+```text
+brain-body state
+        ↓
+perception filter
+        ↓
+possibility field
+        ↓
+meaning assignment
+        ↓
+behavior
+        ↓
+room response
+        ↓
+future perception
+```
+
+A changed reality-map is not a failed person.
+
+The same room is not the same room for every body.
+
+The same event is not processed the same way by every nervous system.
+
+For the full brain/body/disability/psychiatric guardrail map, read the [Clinical Reality Layer Note](NOTES/CLINICAL_REALITY_LAYER.md).
 
 ### The dream layer
 
@@ -536,6 +571,7 @@ Before participating, read:
 - [Natural Ripple Map](INTERVENTION%20ARG/NATURAL_RIPPLE_MAP.md)
 - [Natural Layer Note](NOTES/NATURAL_LAYER.md)
 - [Weather Layer Note](NOTES/WEATHER_LAYER.md)
+- [Clinical Reality Layer Note](NOTES/CLINICAL_REALITY_LAYER.md)
 - [Dream Layer Note](NOTES/DREAM_LAYER.md)
 - [Cultural Layer Note](NOTES/CULTURAL_LAYER.md)
 - [Unexplained Layer Note](NOTES/UNEXPLAINED_LAYER.md)
