@@ -1,558 +1,272 @@
 # CHANGELOG: REVIEW LOG
 
-_Status: Simulation Running | User Agency Active_
+_Status: Maintenance Mode | Reader Route Active | Reality Remains Reality_
 
-This changelog tracks major conceptual updates to `INTERVENTION` in a clear, lesson-style format.
+This changelog tracks major conceptual and structural updates to INTERVENTION.
 
-- What changed?
-- Why does it matter?
-- What concept did it strengthen?
-- What is the next learning step?
+It records what changed, what it strengthened, and what the reader should know before treating the repo as a live artifact.
 
-It is also a found artifact.
+---
 
-It may reflect learning, not certainty.
+## [2026-06-12] — 🧭 Final repo polish and Layer Index added
+
+- **Scale:** Repository / Reader Experience / Obsidian Graph
+- **Type:** Structural polish
+- **Primary artifacts:** `README.md`, `INTERVENTION ARG/ORDER.md`, `INTERVENTION ARG/CHAPTER_RIPPLE_MAP.md`, `NOTES/LAYER_INDEX.md`
+
+### Status
+
+The repo has been reorganized into a clearer reader route.
+
+The story remains complete.
+
+The layers now have a dedicated index.
+
+The README now functions as a clean doorway instead of a long theory dump.
+
+The Chapter Ripple Map now connects the story path, layer path, artifact path, and return current.
+
+### What changed
+
+Added:
+
+```text
+NOTES/LAYER_INDEX.md
+```
+
+Updated:
+
+```text
+README.md
+INTERVENTION ARG/ORDER.md
+INTERVENTION ARG/CHAPTER_RIPPLE_MAP.md
+CHANGELOG.md
+```
+
+The new Layer Index organizes the repo into:
+
+- core framework,
+- physical and living world layers,
+- observer and inner reality layers,
+- shared reality and society layers,
+- system and map layers,
+- chapter-to-layer routing,
+- and the repo loop.
+
+### Concept strengthened
+
+This strengthens the idea that the repo experience should demonstrate the theory.
+
+A reader should be able to move from chapter, to layer, to artifact, to personal reflection, and back to the doorway.
+
+```text
+chapter → layer → map → artifact → reader → real room → chapter
+```
+
+### Key line
+
+> The repo is built to eat its own tail: story becomes map, map becomes layer, layer becomes real-world noticing, noticing returns to story.
+
+---
+
+## [2026-06-12] — 💻 Software / Systems Layer added
+
+- **Scale:** Code / Systems / OOP / Creative Tools
+- **Type:** Layer expansion
+- **Primary artifact:** `NOTES/SOFTWARE_SYSTEMS_LAYER.md`
+
+### Status
+
+Ripple Theory now has a technical layer.
+
+The Software / Systems Layer connects code, classes, objects, validation, bugs, testing, defaults, Git, databases, interfaces, AIFRED, and Kaegan's game to executable consequence.
+
+### Key lines
+
+> Software is consequence made executable.
+
+> Code is a room that runs.
+
+> Bad initialization creates bad ripples. Validation is the intervention point.
+
+> AIFRED is Ripple Theory applied to sound: diagnose the ripple before it reaches the listener.
+
+> Kaegan's game is Ripple Theory applied to play: memory becomes level design, and fear becomes a system the player can move through.
+
+---
+
+## [2026-06-12] — 📺 Media / Communication Layer added
+
+- **Scale:** Media / Movies / TV / Social Platforms / Messaging
+- **Type:** Layer expansion
+- **Primary artifact:** `NOTES/MEDIA_COMMUNICATION_LAYER.md`
+
+### Status
+
+Ripple Theory now has a dedicated media layer.
+
+This layer studies how movies, television, news, internet platforms, social media, text messages, email, group chats, and AI-mediated communication shape perception, morality, identity, memory, and shared reality.
+
+### Key lines
+
+> Media is reality after it has been framed, compressed, repeated, and transmitted.
+
+> Fiction is not base reality, but it can become emotional architecture.
+
+> Media can train the conscience by deciding who the audience is asked to feel for.
+
+---
+
+## [2026-06-12] — 🏛️ Power, politics, human impact, biology, clinical reality, and weather layers expanded
+
+- **Scale:** Society / Earth Systems / Life / Body / Atmosphere
+- **Type:** Multi-layer expansion
+- **Primary artifacts:** `NOTES/POWER_GOVERNANCE_LAYER.md`, `NOTES/POLITICAL_REALITY_LAYER.md`, `NOTES/ANTHROPOCENE_LAYER.md`, `NOTES/BIOLOGICAL_LAYER.md`, `NOTES/CLINICAL_REALITY_LAYER.md`, `NOTES/WEATHER_LAYER.md`
+
+### Status
+
+The framework expanded beyond individual perception into larger rooms:
+
+- power and government,
+- political choice architecture,
+- human impact on Earth systems,
+- biological adaptation,
+- clinical and embodied reality,
+- and weather as a live natural pressure system.
+
+### Concept strengthened
+
+Ripple Theory is no longer only a human-perception framework.
+
+It now maps consequence across physical, biological, social, political, media, software, and internal reality layers.
+
+### Key line
+
+> Everything has consequence, but every layer has limits, evidence needs, and guardrails.
 
 ---
 
 ## [2026-06-11] — 🧭 Cultural Layer linked into the front door
 
 - **Scale:** Cultural / Philosophical / Evidence Discipline
-- **Type:** Layer Integration
-- **Layer:** Ancient-to-modern comparison / Pressure testing / Falsifiability
-- **Primary artifacts:** `NOTES/CULTURAL_LAYER.md`, `NOTES/DREAM_LAYER.md`, README, `NOTES/THEORY_LAYER.md`
+- **Type:** Layer integration
+- **Primary artifacts:** `NOTES/CULTURAL_LAYER.md`, `NOTES/DREAM_LAYER.md`, `README.md`, `NOTES/THEORY_LAYER.md`
 
 ### Status
 
-The Cultural Layer is now connected into the main reader path.
+The Cultural Layer compares Ripple Theory with ancient and modern frameworks only when the comparison can survive pressure.
 
-The README links directly to both the Dream Layer and the Cultural Layer.
+If a cultural idea supports the theory, the support is documented.
 
-The Dream Layer now links back to the Cultural Layer, and the Cultural Layer has a dedicated Obsidian link section connecting it to the theory, dream, sleep, natural, geometry, safety, and ignored-pattern layers.
+If it complicates the theory, the complication is documented.
 
----
+If it breaks the theory, the break is documented.
 
-### What changed
-
-The README front page now includes clickable links for:
-
-```text
-NOTES/DREAM_LAYER.md
-NOTES/CULTURAL_LAYER.md
-```
-
-The README also now contains short readable sections for:
-
-```text
-The dream layer
-The cultural layer
-```
-
-The Cultural Layer now includes an Obsidian link hub:
-
-```text
-[[THEORY_LAYER]]
-[[DREAM_LAYER]]
-[[SUSHUPTI_BRIDGE]]
-[[NATURAL_LAYER]]
-[[GEOMETRY_AS_CONSEQUENCE]]
-[[MENTAL_HEALTH_DISCLAIMER]]
-[[BOUNDARIES]]
-[[DREAM_RIPPLE_MAP]]
-[[NATURAL_RIPPLE_MAP]]
-[[CHAPTER_RIPPLE_MAP]]
-[[ARTIFACT_021_THE_IGNORED_LAYER]]
-```
-
----
-
-### What concept this strengthens
-
-This strengthens the pressure-test rule.
-
-Ripple Theory is not only collecting supporting ideas.
-
-It is now explicitly inviting cultural, philosophical, psychological, spiritual, and historical frameworks to test it.
-
-If a framework supports the theory, the support is documented.
-
-If a framework challenges the theory, the challenge is documented.
-
-If a framework breaks the theory, the break is documented.
-
-### Key learning point
+### Key line
 
 > A theory that cannot be challenged becomes a room with no exits.
-
-### Player prompt
-
-> What older room does this idea resemble, and does that resemblance support the theory, challenge it, or expose a weakness?
 
 ---
 
 ## [2026-06-11] — 💤 Dream Layer added
 
 - **Scale:** Dream / Memory / Waking Consequence
-- **Type:** Layer Expansion
-- **Layer:** Simulated Rooms / Emotional Imprint / Horror Current
-- **Primary artifacts:** `NOTES/DREAM_LAYER.md`, `INTERVENTION ARG/DREAM_RIPPLE_MAP.md`, `ARTIFACT_022_BAD_DREAM_MOMMY_DAD_MIMIC.md`, Issue #12
+- **Type:** Layer expansion
+- **Primary artifacts:** `NOTES/DREAM_LAYER.md`, `INTERVENTION ARG/DREAM_RIPPLE_MAP.md`
 
 ### Status
 
 Ripple Theory now has a dedicated Dream Layer.
 
-This layer explains how dreams can be unreal as base events while still creating real waking effects.
-
 Dreams are not proof.
 
 Dreams are not commands.
 
-Dreams are not instructions from the repo.
+Dreams are not base reality.
 
 But dreams can still affect emotion, memory, attention, decision-making, and behavior.
 
----
-
-### What changed
-
-Three new files were added:
-
-```text
-NOTES/DREAM_LAYER.md
-INTERVENTION ARG/DREAM_RIPPLE_MAP.md
-INTERVENTION ARG/ARTIFACTS/ARTIFACT_022_BAD_DREAM_MOMMY_DAD_MIMIC.md
-```
-
-A new issue was also created:
-
-```text
-Issue #12: Dream Layer: Simulated rooms with waking consequences
-```
-
-The Chapter Ripple Map now includes a Dream Currents section connecting:
-
-```text
-[[DREAM_RIPPLE_MAP]]
-[[DREAM_LAYER]]
-[[ARTIFACT_022_BAD_DREAM_MOMMY_DAD_MIMIC]]
-[[MENTAL_HEALTH_DISCLAIMER]]
-[[BOUNDARIES]]
-[[THEORY_LAYER]]
-[[Chapter 08]]
-[[Chapter 16]]
-[[Chapter 17]]
-```
-
----
-
-### What concept this strengthens
-
-This strengthens the border between fiction and consequence.
-
-A dream may not happen in base reality, but the waking body can still carry its residue.
-
-This creates a new Ripple Theory pattern:
-
-```text
-unconscious material
-        ↓
-simulated room
-        ↓
-emotional imprint
-        ↓
-waking interpretation
-        ↓
-behavior shift
-        ↓
-real-world ripple
-```
-
-The Dream Layer adds the creepy factor to the ARG without asking the reader to believe the fiction is literal.
-
-### Key learning point
+### Key line
 
 > Dreams are where fiction briefly wears the body of reality.
-
-### Player prompt
-
-> What part of the dream ended, and what part followed you into the day?
 
 ---
 
 ## [2026-06-10] — 🚪 README first-reader path added
 
 - **Scale:** Reader / Entry UX
-- **Type:** Accessibility Update
-- **Layer:** Doorway / First Contact / Recovery-Safe Entry
-- **Primary artifact:** README
+- **Type:** Accessibility update
+- **Primary artifact:** `README.md`
 
 ### Status
 
-The front door has been made clearer for people who are not used to GitHub.
-
-A real-world reader asked the most important UX question:
-
-> Where do I click? What do I click?
-
-That question exposed the next needed layer.
-
-The repo may be structurally clear to the curator, but a reader entering from Facebook, screenshots, or a shared link may see GitHub as a confusing machine room.
-
----
-
-### What changed
-
-The README now includes a new section near the top:
-
-```text
-START HERE
-```
-
-It gives a simple recommended first path:
-
-```text
-1. Mental Health Disclaimer
-2. How To Play
-3. Canonical Order
-4. Chapter 01
-5. Chapter Ripple Map
-```
-
-A recovery-sensitive line was also added:
-
-> If you are here because someone sent you this while you are struggling, start with the disclaimer and move on only when you feel comfortable.
-
----
-
-### What concept this strengthens
-
-This strengthens the doorway layer.
+The front door was made clearer for people who are not used to GitHub.
 
 The project cannot only be deep.
 
 It also has to be enterable.
 
-A reflective Alternate Reality Game built around perception and choice needs a safe first move for readers who do not know GitHub, Obsidian, repos, issues, or markdown.
-
-### Key learning point
+### Key line
 
 > A doorway is only a doorway if the reader knows where to step.
-
-### Player prompt
-
-> Before you follow the map, did you read the handrail?
 
 ---
 
 ## [2026-06-10] — 🌿 Natural layer and map-under-the-map added
 
 - **Scale:** Physical / Ecological
-- **Type:** Layer Expansion
-- **Layer:** Nature / Weather / Plants / Animals / Ocean / Physical Consequence
-- **Primary artifacts:** `NOTES/NATURAL_LAYER.md`, `INTERVENTION ARG/NATURAL_RIPPLE_MAP.md`, README, `CHAPTER_RIPPLE_MAP.md`
+- **Type:** Layer expansion
+- **Primary artifacts:** `NOTES/NATURAL_LAYER.md`, `INTERVENTION ARG/NATURAL_RIPPLE_MAP.md`
 
 ### Status
 
-Ripple Theory now has a dedicated natural layer outside the psychological and perception layers.
+Ripple Theory gained a dedicated natural layer outside the psychological and perception layers.
 
 This prevents the theory from collapsing all consequence into human meaning.
 
-The project now makes a clearer distinction:
-
-```text
-Human layer:
-event → perception → choice → consequence → story
-
-Natural layer:
-disturbance → system response → propagation → feedback → new equilibrium
-```
-
----
-
-### What changed
-
-Two major files were added or connected:
-
-```text
-NOTES/NATURAL_LAYER.md
-INTERVENTION ARG/NATURAL_RIPPLE_MAP.md
-```
-
-The natural layer explains Ripple Theory through:
-
-- plants,
-- animals,
-- sea currents,
-- weather,
-- fire,
-- decay,
-- recovery,
-- and physical reality outside perception.
-
-The natural ripple map creates a separate graph cluster.
-
-The README includes a natural layer section explaining:
-
-> The ripple exists before the story.
-
----
-
-### What concept this strengthens
-
-This strengthens the non-human scale of Ripple Theory.
-
-Consequence does not begin with interpretation.
-
-A rockslide does not need a witness.
-
-A river does not need a theory.
-
-A plant does not need language.
-
-Weather does not need meaning.
-
-Physical systems ripple whether anyone notices or not.
-
-### Key learning point
+### Key line
 
 > Human perception is not the origin of consequence. It is one late branch of consequence becoming aware of itself.
-
-### Player prompt
-
-> What system was already rippling before you turned it into a story?
-
----
-
-## [2026-06-10] — 🧭 Reflective ARG definition clarified
-
-- **Scale:** Story / Participation
-- **Type:** Definition Update
-- **Layer:** ARG Identity / Safety / Reader Expectation
-- **Primary artifact:** README
-
-### Status
-
-`INTERVENTION` now defines itself more clearly as a reflective Alternate Reality Game.
-
-It is not a puzzle-hunt ARG.
-
-It is not an augmented reality game.
-
-It is an Alternate Reality Game where the alternate branch is created through perception, choice, and consequence.
-
----
-
-### What changed
-
-The README now opens with:
-
-> INTERVENTION is an Alternate Reality Game where the alternate reality is created through perception and choice. The reader does not solve puzzles to unlock fiction. They read fiction to recognize real intervention points in their own life.
-
-It also adds the core definition:
-
-> The game is not to escape reality. The game is to notice where reality branches.
-
----
-
-### What concept this strengthens
-
-This strengthens reader expectation.
-
-Readers should not expect payphones, ciphers, hidden coordinates, or puzzle unlocks.
-
-The mechanic is fork recognition.
-
-The reader reads fiction, notices consequence, and then returns to life with a sharper sense of where choice can branch reality.
-
-### Key learning point
-
-> The alternate reality is not fake. It is the alternate branch created when awareness changes behavior.
-
-### Player prompt
-
-> Where did your day branch because you noticed the fork?
 
 ---
 
 ## [2026-06-09] — 🌀 Ripple Theory scales to the cosmic
 
 - **Scale:** Cosmic
-- **Type:** Model Expansion
-- **Layer:** Physics / Metaphor Bridge
-- **Primary artifacts:** README, Issue #9, Issue #10
+- **Type:** Model expansion
+- **Primary artifacts:** `README.md`, Issue #9, Issue #10
 
 ### Status
 
-Scaling the framework:
+The project connected the original human-scale version of Ripple Theory to a broader cosmic question:
 
-The project now connects the original human-scale version of Ripple Theory to a broader cosmic question:
+> Existence is the first ripple.
 
-> **Existence is the first ripple.**
+This does not replace physics, prove theology, or claim certainty.
 
-This does not replace the book.
+It gives the book a deeper question to orbit.
 
-It gives the book a deeper operating layer.
-
----
-
-### What changed
-
-The README was updated to include a new Ripple Theory hook:
-
-> **Existence is the first ripple.**
-
-The README now explains that everything after existence — physics, life, thought, choice, grief, love, consequence, intervention, and story — can be viewed as an interference pattern spreading through reality.
-
-This update reframes Ripple Theory as more than a social or psychological framework.
-
-It becomes a consequence-mapping model that can operate across multiple scales:
-
-```text
-UNKNOWN / DEEPER LAYER
-        ↓
-FIRST RIPPLE: EXISTENCE
-        ↓
-SPACETIME / EXPANSION / LIGHT
-        ↓
-MATTER / GRAVITY / STRUCTURE
-        ↓
-LIFE / ADAPTATION / MEMORY
-        ↓
-CONSCIOUSNESS / PERCEPTION / LANGUAGE
-        ↓
-CHOICE / CONSEQUENCE / INTERVENTION
-        ↓
-STORY / MEANING / ARG / ECHO
-```
-
----
-
-### What concept this strengthens
-
-This strengthens the core idea that Ripple Theory is about consequence.
-
-At the human scale:
-
-```text
-choice → consequence → ripple → feedback → next choice
-```
-
-At the cosmic scale:
-
-```text
-unknown/deeper layer → existence → spacetime → matter → life → consciousness → choice
-```
-
-The important move is that the theory does not start by claiming to know the source.
-
-It starts by noticing the consequence.
-
-### Key learning point
+### Key line
 
 > Ripple Theory does not begin by naming the stone. It begins by asking whether the ripple can be noticed.
-
-### Player prompt
-
-> What made this ripple possible, and what would have to change for your model to change?
 
 ---
 
 ## [2026-06-09] — 📐 Mathematical framework added
 
 - **Scale:** Cosmic
-- **Type:** Testable Question
-- **Layer:** Physics-Shaped Speculation
-- **Primary artifacts:** README, Issue #10
+- **Type:** Testable question
+- **Primary artifacts:** `README.md`, Issue #10
 
 ### Status
 
-Moving from metaphor toward structure:
+The project added a physics-shaped framework for asking whether the cosmic version of Ripple Theory can be challenged by observation.
 
-The project now includes a physics-shaped framework for asking whether the cosmic version of Ripple Theory can be tested.
+The framework uses standard cosmology language as a bridge, not as proof.
 
-This is important because a theory becomes stronger when it can risk being wrong.
+### Key line
 
----
-
-### What changed
-
-The README now includes a speculative mathematical framework using standard cosmology language:
-
-```text
-a(t)
-```
-
-The scale factor, representing the relative size of the universe over cosmic time.
-
-```text
-H(t) = (1 / a) * (da / dt)
-```
-
-The Hubble parameter, representing the expansion rate.
-
-```text
-phi(t)
-```
-
-A speculative deeper causal or time-like field.
-
-```text
-H(t)^2 = (8 * pi * G / 3) * (rho_m + rho_r + rho_phi(t))
-```
-
-A first-pass equation shape showing how a speculative dynamic field might contribute to cosmic expansion.
-
----
-
-### Testable hook
-
-The framework identifies dynamic dark energy as the most obvious measurable hook.
-
-If dark energy behaves like a perfect cosmological constant:
-
-```text
-w = -1
-```
-
-If the deeper layer is dynamic, the model may expect dark energy behavior to change over cosmic history:
-
-```text
-w(z) != -1
-```
-
-A common parameterization is included:
-
-```text
-w(z) = w0 + wa * z / (1 + z)
-```
-
-This gives the speculation a place where observation could challenge it.
-
----
-
-### What concept this strengthens
-
-This strengthens falsifiability.
-
-The model is not protected from being wrong.
-
-If future observations keep tightening around:
-
-```text
-w = -1
-wa = 0
-```
-
-then this version of the dynamic-ripple model loses support.
-
-### Key learning point
-
-> Math is not being used here to prove a conclusion.
-> Math is being used to make the question testable.
-
-### Player prompt
-
-> What would the universe need to do for you to change your model?
+> Math is not being used here to prove a conclusion. Math is being used to make the question testable.
 
 ---
 
@@ -560,26 +274,11 @@ then this version of the dynamic-ripple model loses support.
 
 - **Scale:** Human / Story / Cosmic
 - **Type:** Guardrail
-- **Layer:** Ethics / Clarity / Participation
 - **Primary artifact:** `NOTES/THEORY_LAYER.md`
 
 ### Status
 
-Important structural guardrail added:
-
-The project now has a dedicated note separating known science, speculative bridge-building, and ARG/story expression.
-
----
-
-### What changed
-
-A new file was added:
-
-```text
-NOTES/THEORY_LAYER.md
-```
-
-It separates the framework into:
+The project gained a dedicated note separating:
 
 ```text
 KNOWN MODEL
@@ -587,242 +286,54 @@ SPECULATIVE BRIDGE
 ARG / STORY EXPRESSION
 ```
 
-It also adds a clear boundary statement:
-
-> Story is not proof. Science is not certainty. Belief is not model.
-
----
-
-### What concept this strengthens
-
-This strengthens ethical worldbuilding.
-
-It keeps `INTERVENTION` from collapsing fiction, science, belief, and participation into one unsafe blur.
-
-It lets the project remain strange without becoming irresponsible.
-
-### Key learning point
+### Key line
 
 > The project can blur fiction, reflection, and real-world noticing. It must not blur responsibility.
 
-### Player prompt
+---
 
-> Is this noticing helping you become more grounded, responsible, and connected — or is it making reality feel less stable?
+## Current layer summary
+
+Ripple Theory now has fifteen active layer rooms:
+
+1. [[THEORY_LAYER]]
+2. [[NATURAL_LAYER]]
+3. [[WEATHER_LAYER]]
+4. [[BIOLOGICAL_LAYER]]
+5. [[ANTHROPOCENE_LAYER]]
+6. [[CLINICAL_REALITY_LAYER]]
+7. [[DREAM_LAYER]]
+8. [[UNEXPLAINED_LAYER]]
+9. [[CULTURAL_LAYER]]
+10. [[POWER_GOVERNANCE_LAYER]]
+11. [[POLITICAL_REALITY_LAYER]]
+12. [[MEDIA_COMMUNICATION_LAYER]]
+13. [[SOFTWARE_SYSTEMS_LAYER]]
+14. [[GEOMETRY_AS_CONSEQUENCE]]
+15. [[SUSHUPTI_BRIDGE]]
+
+Use [[LAYER_INDEX]] for the guided route.
 
 ---
 
-## [2026-06-09] — 🗂️ Issue #9 created: Ripple Theory: Existence is the First Ripple
+## Maintenance rule
 
-- **Scale:** Cosmic
-- **Type:** Thesis Artifact
-- **Layer:** Conceptual Framework
-- **Primary artifact:** Issue #9
+The book is complete.
 
-### Status
+The repo remains alive.
 
-Clear conceptual expansion:
+Future changes should mostly be:
 
-Issue #9 defines the cosmic thesis of Ripple Theory without overclaiming.
+- typo fixes,
+- link cleanup,
+- source improvements,
+- artifact additions,
+- community echo curation,
+- and carefully labeled research updates.
 
----
+No new layer should be added unless it reveals a genuinely different kind of room.
 
-### What changed
-
-A new issue was created to explain:
-
-- existence as the first ripple,
-- consequence-mapping across cosmic and human scales,
-- the layer model from unknown/deeper source to story/echo,
-- and the guardrail that the ARG makes Ripple Theory experiential, not proven.
-
----
-
-### What concept this strengthens
-
-This strengthens the difference between:
-
-- proof,
-- metaphor,
-- model,
-- experience,
-- and interpretation.
-
-### Key learning point
-
-The ARG does not prove Ripple Theory.
-
-The ARG lets people experience the kind of noticing Ripple Theory describes.
-
-### Player prompt
-
-> After reading this, notice a possible fork in your day. Did you choose, did you hesitate, did you see the pattern, or did you miss the moment?
-
----
-
-## [2026-06-09] — 🧪 Issue #10 created: Mathematical Framework: The First Ripple and Dynamic Expansion
-
-- **Scale:** Cosmic
-- **Type:** Testable Question
-- **Layer:** Mathematical Framework
-- **Primary artifact:** Issue #10
-
-### Status
-
-Strong move toward a testable structure:
-
-Issue #10 separates the poetic version from the physics-shaped version.
-
----
-
-### What changed
-
-A new issue was created to define:
-
-- `a(t)` as the scale factor,
-- `H(t)` as the expansion rate,
-- `phi(t)` as a speculative causal/time-like field,
-- `rho_phi(t)` as the speculative field energy density,
-- dynamic dark energy as the testing hook,
-- and falsifiability as a required rule.
-
----
-
-### What concept this strengthens
-
-This strengthens the project’s scientific discipline.
-
-It keeps the framework from becoming a closed belief system.
-
-A strong model must be able to say:
-
-> Here is what would weaken this version.
-
-### Key learning point
-
-Math is not being used here to prove a conclusion.
-
-Math is being used to make the question testable.
-
-### Player prompt
-
-> What would count as evidence against this version of the model?
-
----
-
-## [2026-06-09] — 🍴 Issue #8 updated: The Fork at the Bar
-
-- **Scale:** Human
-- **Type:** Intervention Point
-- **Layer:** Lived Pattern / Narrative Echo
-- **Primary artifact:** Issue #8
-
-### Status
-
-Good human-scale anchor:
-
-Issue #8 now frames a regretful decision and the choice not to repeat a loop as an intervention point.
-
----
-
-### What changed
-
-The issue was updated to keep the bar as the hidden fork and Waffle House as the visible outcome.
-
-The issue now emphasizes:
-
-- regret without spectacle,
-- pattern recognition,
-- choosing not to repeat the loop,
-- being available when opportunity appeared,
-- and the difference between the visible event and the earlier fork that made it possible.
-
----
-
-### What concept this strengthens
-
-This strengthens the human-scale version of Ripple Theory.
-
-It shows that an intervention point does not have to look heroic.
-
-Sometimes the fork is simply the moment when a repeated pattern is offered again and refused.
-
-### Key learning point
-
-> The intervention point was not opportunity appearing. The intervention point was being available when opportunity appeared.
-
-### Player prompt
-
-> Where was the real fork: the visible opportunity, or the earlier choice that made you available to notice it?
-
----
-
-## Current learning summary
-
-Ripple Theory now has seven active scales:
-
-### 1. Natural / physical scale
-
-Disturbance, force, motion, weather, water, plants, animals, currents, decay, recovery.
-
-### 2. Dream / simulated-room scale
-
-Dreams, emotional imprint, waking residue, memory, symbol, fiction-body overlap, and return to grounded reality.
-
-### 3. Cultural / philosophical scale
-
-Ancient-to-modern comparison, reality claims, self claims, action/consequence claims, evidence discipline, and falsifiability.
-
-### 4. Human scale
-
-Rooms, moods, choices, triggers, interventions, feedback, repair.
-
-### 5. Story scale
-
-Chapters, artifacts, issues, echoes, reflective ARG participation, perception training.
-
-### 6. Cosmic scale
-
-Existence, spacetime, expansion, emergence, dynamic dark energy, and the question of whether the first ripple can be mathematically modeled.
-
-### 7. Doorway / reader scale
-
-GitHub entry, first-click clarity, safety-first reading path, and the README as the source node.
-
----
-
-## Suggested next steps
-
-- Keep the first-reader path obvious at the top of the README.
-- Link new artifacts back through the Chapter Ripple Map, Natural Ripple Map, Dream Ripple Map, and Cultural Layer.
-- Invite readers to open their own artifact issues or testable questions.
-- Keep the theory layer separated into known model, speculative bridge, cultural comparison, and story expression.
-- Continue treating the book as the doorway and the repo as the archive.
-
----
-
-## Closing note
-
-The project is no longer only asking:
-
-> What ripple are you creating?
-
-It is also asking:
-
-> What made ripples possible in the first place?
-
-And now, before either question:
-
-> Where does the reader safely enter?
-
-The Dream Layer adds another question:
-
-> What followed you back from the room that was not real?
-
-The Cultural Layer adds another question:
-
-> What older room does this resemble, and what happens if that room disagrees?
-
----
+Fine.
 
 <!--
 [ARTIFACT LOG]: Ripple Theory Changelog
