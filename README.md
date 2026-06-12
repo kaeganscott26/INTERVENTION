@@ -80,6 +80,7 @@ The README is the source node. The branch links begin here:
 - [Weather Layer Note](NOTES/WEATHER_LAYER.md)
 - [Clinical Reality Layer Note](NOTES/CLINICAL_REALITY_LAYER.md)
 - [Power / Governance Layer Note](NOTES/POWER_GOVERNANCE_LAYER.md)
+- [Political Reality Layer Note](NOTES/POLITICAL_REALITY_LAYER.md)
 - [Dream Layer Note](NOTES/DREAM_LAYER.md)
 - [Cultural Layer Note](NOTES/CULTURAL_LAYER.md)
 - [Unexplained Layer Note](NOTES/UNEXPLAINED_LAYER.md)
@@ -92,7 +93,7 @@ The README is the source node. The branch links begin here:
 - [Community Echoes](COMMUNITY/)
 - [Review Log / Changelog](CHANGELOG.md)
 
-In Obsidian, this makes the README function as the doorway/singularity node: story, theory, safety, natural consequence, biological consequence, weather consequence, clinical reality, power/governance, dream consequence, cultural pressure-testing, unexplained experience, geometry, artifacts, and community all branch outward from here.
+In Obsidian, this makes the README function as the doorway/singularity node: story, theory, safety, natural consequence, biological consequence, weather consequence, clinical reality, power/governance, political reality, dream consequence, cultural pressure-testing, unexplained experience, geometry, artifacts, and community all branch outward from here.
 
 ---
 
@@ -397,6 +398,36 @@ No political theory outranks human dignity.
 
 For the full government/regime/ideology/power map, read the [Power / Governance Layer Note](NOTES/POWER_GOVERNANCE_LAYER.md).
 
+### The political reality layer
+
+Political systems do not only offer choices.
+
+They teach people what choices feel possible.
+
+Parties, labels, electoral systems, media frames, donor networks, district maps, national myths, identity groups, and algorithms can shape the perceived-choice field before a person ever votes.
+
+```text
+political structure
+        ↓
+party / ideology / media frame
+        ↓
+identity attachment
+        ↓
+perceived choice field
+        ↓
+political behavior
+        ↓
+institutional feedback
+        ↓
+future political reality
+```
+
+The illusion of choice is not the absence of choice.
+
+A constrained choice can still be consequential.
+
+For the full party/ideology/electoral-choice map, read the [Political Reality Layer Note](NOTES/POLITICAL_REALITY_LAYER.md).
+
 ### The dream layer
 
 Dreams are not base reality.
@@ -642,6 +673,7 @@ Before participating, read:
 - [Weather Layer Note](NOTES/WEATHER_LAYER.md)
 - [Clinical Reality Layer Note](NOTES/CLINICAL_REALITY_LAYER.md)
 - [Power / Governance Layer Note](NOTES/POWER_GOVERNANCE_LAYER.md)
+- [Political Reality Layer Note](NOTES/POLITICAL_REALITY_LAYER.md)
 - [Dream Layer Note](NOTES/DREAM_LAYER.md)
 - [Cultural Layer Note](NOTES/CULTURAL_LAYER.md)
 - [Unexplained Layer Note](NOTES/UNEXPLAINED_LAYER.md)
