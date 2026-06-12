@@ -16,6 +16,7 @@ Related layer notes:
 
 - [Geometry as Consequence](GEOMETRY_AS_CONSEQUENCE.md)
 - [Cultural Layer](CULTURAL_LAYER.md)
+- [Unexplained Layer](UNEXPLAINED_LAYER.md)
 
 ---
 
@@ -229,6 +230,10 @@ They are prompts for reflection, not instructions to treat coincidence as comman
 
 > What older human framework does this resemble, and does that resemblance support the theory, challenge it, or expose a weakness?
 
+### Unexplained scale
+
+> What experience exceeded your current map, what category did you give it, and did that interpretation ground you or destabilize you?
+
 ### Safety scale
 
 > Is this noticing helping you become more grounded, responsible, and connected — or is it making reality feel less stable?
@@ -245,7 +250,7 @@ Ripple Theory is allowed to ask large questions.
 
 It is not allowed to become a cage.
 
-The framework must remain open to correction, grounded in safety, and clear about what is known, what is speculative, and what belongs to the story layer.
+The framework must remain open to correction, grounded in safety, and clear about what is known, what is speculative, what is unexplained, and what belongs to the story layer.
 
 > **Do not build cages and call them worlds.**
 
