@@ -21,6 +21,8 @@ Sometimes the doorway is a room.
 
 Sometimes the doorway is a rabbit hole.
 
+Sometimes the next chapter arrives as a machine.
+
 Reality remains reality.
 
 ---
@@ -158,6 +160,7 @@ The Layer Index also maps chapters to their corresponding layers.
 - [Dream Ripple Map](INTERVENTION%20ARG/DREAM_RIPPLE_MAP.md)
 - [Official Artifact Layer](INTERVENTION%20ARG/ARTIFACTS/)
 - [Artifact 025 — The Rabbit Hole](INTERVENTION%20ARG/ARTIFACTS/ARTIFACT_025_THE_RABBIT_HOLE.md)
+- [Artifact 026 — The Next Chapter](INTERVENTION%20ARG/ARTIFACTS/ARTIFACT_026_THE_NEXT_CHAPTER.md)
 - [Community Echoes](COMMUNITY/)
 - [System Status](INTERVENTION%20ARG/SYSTEM_STATUS.md)
 
