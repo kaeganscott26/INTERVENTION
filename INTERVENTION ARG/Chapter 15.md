@@ -1716,6 +1716,8 @@ END SIMULATION.
 ---
 
 ---
+
+---
 <!-- RIPPLE_LINKS_START -->
 
 ## 🌀 Ripple Links
@@ -1723,10 +1725,11 @@ END SIMULATION.
 - **Room function:** boulder / weight / consequence made visible
 - **Previous room:** [[Chapter 14]]
 - **Next room:** [[Chapter 16]]
-- **Canon path:** [[ORDER]] · [[HOW_TO_PLAY]] · [[THEORY_LAYER]] · [[GEOMETRY_AS_CONSEQUENCE]]
+- **Canon path:** [[ORDER]] · [[CHAPTER_RIPPLE_MAP]] · [[LAYER_INDEX]] · [[THEORY_LAYER]]
 - **Safety frame:** [[MENTAL_HEALTH_DISCLAIMER]] · [[BOUNDARIES]]
-- **Echo / artifact links:** [[GEOMETRY_AS_CONSEQUENCE]] · [[ARTIFACT_021_THE_IGNORED_LAYER]]
+- **Layer currents:** [[NATURAL_LAYER]] · [[WEATHER_LAYER]] · [[ANTHROPOCENE_LAYER]] · [[GEOMETRY_AS_CONSEQUENCE]]
+- **Echo / artifact links:** [[ARTIFACT_021_THE_IGNORED_LAYER]]
 
-> A loop repeats. A torus circulates. This link block is part of the graph becoming the theory.
+> The graph is not decoration. It is the theory drawing its own path back to the reader.
 
 <!-- RIPPLE_LINKS_END -->

@@ -1176,6 +1176,8 @@ And sometimes, if someone noticed in time, they held the shape of what could hap
 ---
 
 ---
+
+---
 <!-- RIPPLE_LINKS_START -->
 
 ## 🌀 Ripple Links
@@ -1183,10 +1185,11 @@ And sometimes, if someone noticed in time, they held the shape of what could hap
 - **Room function:** missed intervention / hidden fork
 - **Previous room:** [[Chapter 03]]
 - **Next room:** [[Chapter 05]]
-- **Canon path:** [[ORDER]] · [[HOW_TO_PLAY]] · [[THEORY_LAYER]] · [[GEOMETRY_AS_CONSEQUENCE]]
+- **Canon path:** [[ORDER]] · [[CHAPTER_RIPPLE_MAP]] · [[LAYER_INDEX]] · [[THEORY_LAYER]]
 - **Safety frame:** [[MENTAL_HEALTH_DISCLAIMER]] · [[BOUNDARIES]]
-- **Echo / artifact links:** [[ARTIFACT_017_CURATOR'S_LAYER]] · [[ARTIFACT_020_THE SPLIT LAYER]]
+- **Layer currents:** [[THEORY_LAYER]] · [[UNEXPLAINED_LAYER]] · [[BOUNDARIES]]
+- **Echo / artifact links:** [[ARTIFACT_017_CURATOR'S_LAYER]] · [[ARTIFACT_020_THE_SPLIT_LAYER]]
 
-> A loop repeats. A torus circulates. This link block is part of the graph becoming the theory.
+> The graph is not decoration. It is the theory drawing its own path back to the reader.
 
 <!-- RIPPLE_LINKS_END -->

@@ -1339,6 +1339,8 @@ That was enough for the day.
 ---
 
 ---
+
+---
 <!-- RIPPLE_LINKS_START -->
 
 ## 🌀 Ripple Links
@@ -1346,10 +1348,11 @@ That was enough for the day.
 - **Room function:** 0826 / fatherhood / signal aimed at love
 - **Previous room:** [[Chapter 07]]
 - **Next room:** [[Chapter 09]]
-- **Canon path:** [[ORDER]] · [[HOW_TO_PLAY]] · [[THEORY_LAYER]] · [[GEOMETRY_AS_CONSEQUENCE]]
+- **Canon path:** [[ORDER]] · [[CHAPTER_RIPPLE_MAP]] · [[LAYER_INDEX]] · [[THEORY_LAYER]]
 - **Safety frame:** [[MENTAL_HEALTH_DISCLAIMER]] · [[BOUNDARIES]]
-- **Echo / artifact links:** [[ARTIFACT_017_CURATOR'S_LAYER]] · [[ARTIFACT_020_THE SPLIT LAYER]]
+- **Layer currents:** [[DREAM_LAYER]] · [[CLINICAL_REALITY_LAYER]] · [[CULTURAL_LAYER]]
+- **Echo / artifact links:** [[ARTIFACT_017_CURATOR'S_LAYER]] · [[ARTIFACT_020_THE_SPLIT_LAYER]] · [[DREAM_RIPPLE_MAP]]
 
-> A loop repeats. A torus circulates. This link block is part of the graph becoming the theory.
+> The graph is not decoration. It is the theory drawing its own path back to the reader.
 
 <!-- RIPPLE_LINKS_END -->

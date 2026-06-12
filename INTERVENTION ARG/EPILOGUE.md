@@ -1649,3 +1649,21 @@ An intervention becomes a ripple.
 And the ripple keeps moving.
 
 fine
+
+---
+<!-- RIPPLE_LINKS_START -->
+
+## 🌀 Ripple Links
+
+- **Room function:** final cadence / return to reader control
+- **Previous room:** [[Chapter 17]]
+- **Next room:** [[LAYER_INDEX]]
+- **Canon path:** [[ORDER]] · [[CHAPTER_RIPPLE_MAP]] · [[LAYER_INDEX]] · [[THEORY_LAYER]]
+- **Safety frame:** [[MENTAL_HEALTH_DISCLAIMER]] · [[BOUNDARIES]]
+- **Layer currents:** [[THEORY_LAYER]] · [[CHAPTER_RIPPLE_MAP]] · [[GEOMETRY_AS_CONSEQUENCE]] · [[BOUNDARIES]]
+- **Echo / artifact links:** [[README]] · [[ORDER]]
+- **Return current:** [[EPILOGUE]] → [[LAYER_INDEX]] → [[README]] → [[Chapter 01]]
+
+> The graph is not decoration. It is the theory drawing its own path back to the reader.
+
+<!-- RIPPLE_LINKS_END -->

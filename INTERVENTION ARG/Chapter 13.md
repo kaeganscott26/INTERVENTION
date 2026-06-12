@@ -1508,6 +1508,8 @@ For one room, that was enough.
 ---
 
 ---
+
+---
 <!-- RIPPLE_LINKS_START -->
 
 ## 🌀 Ripple Links
@@ -1515,10 +1517,11 @@ For one room, that was enough.
 - **Room function:** echo / phrase becoming public signal
 - **Previous room:** [[Chapter 12]]
 - **Next room:** [[Chapter 14]]
-- **Canon path:** [[ORDER]] · [[HOW_TO_PLAY]] · [[THEORY_LAYER]] · [[GEOMETRY_AS_CONSEQUENCE]]
+- **Canon path:** [[ORDER]] · [[CHAPTER_RIPPLE_MAP]] · [[LAYER_INDEX]] · [[THEORY_LAYER]]
 - **Safety frame:** [[MENTAL_HEALTH_DISCLAIMER]] · [[BOUNDARIES]]
-- **Echo / artifact links:** [[COMMUNITY_RIPPLES]] · [[CHANGELOG]]
+- **Layer currents:** [[COMMUNITY_RIPPLES]] · [[MEDIA_COMMUNICATION_LAYER]] · [[CULTURAL_LAYER]]
+- **Echo / artifact links:** [[CHANGELOG]]
 
-> A loop repeats. A torus circulates. This link block is part of the graph becoming the theory.
+> The graph is not decoration. It is the theory drawing its own path back to the reader.
 
 <!-- RIPPLE_LINKS_END -->

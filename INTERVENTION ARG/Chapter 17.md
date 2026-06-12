@@ -332,19 +332,21 @@ Fine.
 ---
 
 ---
+
+---
 <!-- RIPPLE_LINKS_START -->
 
 ## 🌀 Ripple Links
 
-- **Room function:** return current / Teodor / re-entry through origin
+- **Room function:** return current / Teodor / inheritance and accountability
 - **Previous room:** [[Chapter 16]]
-- **Next room:** [[Chapter 01]]
-- **Canon path:** [[ORDER]] · [[HOW_TO_PLAY]] · [[THEORY_LAYER]] · [[GEOMETRY_AS_CONSEQUENCE]]
+- **Next room:** [[EPILOGUE]]
+- **Canon path:** [[ORDER]] · [[CHAPTER_RIPPLE_MAP]] · [[LAYER_INDEX]] · [[THEORY_LAYER]]
 - **Safety frame:** [[MENTAL_HEALTH_DISCLAIMER]] · [[BOUNDARIES]]
-- **Echo / artifact links:** [[README]] · [[ARTIFACT_017_CURATOR'S_LAYER]] · [[ARTIFACT_020_THE SPLIT LAYER]] · [[GEOMETRY_AS_CONSEQUENCE]]
-- **Return current:** [[Chapter 17]] → [[EPILOGUE]]->[[README]]->[[PROLOGUE]]->[[Chapter 01]]  
-- 
+- **Layer currents:** [[CULTURAL_LAYER]] · [[CLINICAL_REALITY_LAYER]] · [[POWER_GOVERNANCE_LAYER]] · [[THEORY_LAYER]]
+- **Echo / artifact links:** [[ARTIFACT_017_CURATOR'S_LAYER]] · [[ARTIFACT_020_THE_SPLIT_LAYER]] · [[GEOMETRY_AS_CONSEQUENCE]]
+- **Return current:** [[Chapter 17]] → [[EPILOGUE]] → [[LAYER_INDEX]] → [[README]]
 
-> A loop repeats. A torus circulates. This link block is part of the graph becoming the theory.
+> The graph is not decoration. It is the theory drawing its own path back to the reader.
 
 <!-- RIPPLE_LINKS_END -->

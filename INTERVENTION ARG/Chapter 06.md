@@ -959,6 +959,8 @@ Like a warning still waiting for someone to read it correctly.
 ---
 
 ---
+
+---
 <!-- RIPPLE_LINKS_START -->
 
 ## 🌀 Ripple Links
@@ -966,10 +968,11 @@ Like a warning still waiting for someone to read it correctly.
 - **Room function:** false world / danger of mistaking pattern for command
 - **Previous room:** [[Chapter 05]]
 - **Next room:** [[Chapter 07]]
-- **Canon path:** [[ORDER]] · [[HOW_TO_PLAY]] · [[THEORY_LAYER]] · [[GEOMETRY_AS_CONSEQUENCE]]
+- **Canon path:** [[ORDER]] · [[CHAPTER_RIPPLE_MAP]] · [[LAYER_INDEX]] · [[THEORY_LAYER]]
 - **Safety frame:** [[MENTAL_HEALTH_DISCLAIMER]] · [[BOUNDARIES]]
-- **Echo / artifact links:** [[ARTIFACT_021_THE_IGNORED_LAYER]] · [[MENTAL_HEALTH_DISCLAIMER]] · [[BOUNDARIES]]
+- **Layer currents:** [[UNEXPLAINED_LAYER]] · [[CLINICAL_REALITY_LAYER]] · [[BOUNDARIES]]
+- **Echo / artifact links:** [[ARTIFACT_021_THE_IGNORED_LAYER]]
 
-> A loop repeats. A torus circulates. This link block is part of the graph becoming the theory.
+> The graph is not decoration. It is the theory drawing its own path back to the reader.
 
 <!-- RIPPLE_LINKS_END -->

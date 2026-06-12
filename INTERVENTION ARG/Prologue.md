@@ -229,6 +229,8 @@ What you do after you close it is where the game begins.
 ---
 
 ---
+
+---
 <!-- RIPPLE_LINKS_START -->
 
 ## 🌀 Ripple Links
@@ -236,10 +238,11 @@ What you do after you close it is where the game begins.
 - **Room function:** doorway before the first room
 - **Previous room:** [[README]]
 - **Next room:** [[Chapter 01]]
-- **Canon path:** [[ORDER]] · [[HOW_TO_PLAY]] · [[THEORY_LAYER]] · [[GEOMETRY_AS_CONSEQUENCE]]
+- **Canon path:** [[ORDER]] · [[CHAPTER_RIPPLE_MAP]] · [[LAYER_INDEX]] · [[THEORY_LAYER]]
 - **Safety frame:** [[MENTAL_HEALTH_DISCLAIMER]] · [[BOUNDARIES]]
-- **Echo / artifact links:** [[ARTIFACT_017_CURATOR'S_LAYER]] · [[THEORY_LAYER]]
+- **Layer currents:** [[HOW_TO_PLAY]] · [[THEORY_LAYER]] · [[BOUNDARIES]]
+- **Echo / artifact links:** [[ARTIFACT_017_CURATOR'S_LAYER]]
 
-> A loop repeats. A torus circulates. This link block is part of the graph becoming the theory.
+> The graph is not decoration. It is the theory drawing its own path back to the reader.
 
 <!-- RIPPLE_LINKS_END -->

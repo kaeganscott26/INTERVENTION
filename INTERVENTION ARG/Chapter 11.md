@@ -1930,6 +1930,8 @@ And this time, for one small morning, the output changed.
 ---
 
 ---
+
+---
 <!-- RIPPLE_LINKS_START -->
 
 ## 🌀 Ripple Links
@@ -1937,10 +1939,11 @@ And this time, for one small morning, the output changed.
 - **Room function:** loop / repeated pattern / intervention before repetition
 - **Previous room:** [[Chapter 10]]
 - **Next room:** [[Chapter 12]]
-- **Canon path:** [[ORDER]] · [[HOW_TO_PLAY]] · [[THEORY_LAYER]] · [[GEOMETRY_AS_CONSEQUENCE]]
+- **Canon path:** [[ORDER]] · [[CHAPTER_RIPPLE_MAP]] · [[LAYER_INDEX]] · [[THEORY_LAYER]]
 - **Safety frame:** [[MENTAL_HEALTH_DISCLAIMER]] · [[BOUNDARIES]]
-- **Echo / artifact links:** [[ARTIFACT_020_THE SPLIT LAYER]] · [[THEORY_LAYER]]
+- **Layer currents:** [[CLINICAL_REALITY_LAYER]] · [[THEORY_LAYER]] · [[BOUNDARIES]]
+- **Echo / artifact links:** [[ARTIFACT_020_THE_SPLIT_LAYER]]
 
-> A loop repeats. A torus circulates. This link block is part of the graph becoming the theory.
+> The graph is not decoration. It is the theory drawing its own path back to the reader.
 
 <!-- RIPPLE_LINKS_END -->

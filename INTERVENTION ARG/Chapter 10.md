@@ -1648,6 +1648,8 @@ Still, somewhere in the dark, someone looked up.
 ---
 
 ---
+
+---
 <!-- RIPPLE_LINKS_START -->
 
 ## 🌀 Ripple Links
@@ -1655,10 +1657,11 @@ Still, somewhere in the dark, someone looked up.
 - **Room function:** signal / music / uploaded consequence
 - **Previous room:** [[Chapter 09]]
 - **Next room:** [[Chapter 11]]
-- **Canon path:** [[ORDER]] · [[HOW_TO_PLAY]] · [[THEORY_LAYER]] · [[GEOMETRY_AS_CONSEQUENCE]]
+- **Canon path:** [[ORDER]] · [[CHAPTER_RIPPLE_MAP]] · [[LAYER_INDEX]] · [[THEORY_LAYER]]
 - **Safety frame:** [[MENTAL_HEALTH_DISCLAIMER]] · [[BOUNDARIES]]
-- **Echo / artifact links:** [[ARTIFACT_017_CURATOR'S_LAYER]] · [[GEOMETRY_AS_CONSEQUENCE]]
+- **Layer currents:** [[GEOMETRY_AS_CONSEQUENCE]] · [[SOFTWARE_SYSTEMS_LAYER]] · [[THEORY_LAYER]]
+- **Echo / artifact links:** [[ARTIFACT_017_CURATOR'S_LAYER]]
 
-> A loop repeats. A torus circulates. This link block is part of the graph becoming the theory.
+> The graph is not decoration. It is the theory drawing its own path back to the reader.
 
 <!-- RIPPLE_LINKS_END -->
