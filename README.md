@@ -83,6 +83,7 @@ The README is the source node. The branch links begin here:
 - [Power / Governance Layer Note](NOTES/POWER_GOVERNANCE_LAYER.md)
 - [Political Reality Layer Note](NOTES/POLITICAL_REALITY_LAYER.md)
 - [Media / Communication Layer Note](NOTES/MEDIA_COMMUNICATION_LAYER.md)
+- [Software / Systems Layer Note](NOTES/SOFTWARE_SYSTEMS_LAYER.md)
 - [Dream Layer Note](NOTES/DREAM_LAYER.md)
 - [Cultural Layer Note](NOTES/CULTURAL_LAYER.md)
 - [Unexplained Layer Note](NOTES/UNEXPLAINED_LAYER.md)
@@ -95,7 +96,7 @@ The README is the source node. The branch links begin here:
 - [Community Echoes](COMMUNITY/)
 - [Review Log / Changelog](CHANGELOG.md)
 
-In Obsidian, this makes the README function as the doorway/singularity node: story, theory, safety, natural consequence, biological consequence, human impact, weather consequence, clinical reality, power/governance, political reality, media/communication, dream consequence, cultural pressure-testing, unexplained experience, geometry, artifacts, and community all branch outward from here.
+In Obsidian, this makes the README function as the doorway/singularity node: story, theory, safety, natural consequence, biological consequence, human impact, weather consequence, clinical reality, power/governance, political reality, media/communication, software/systems, dream consequence, cultural pressure-testing, unexplained experience, geometry, artifacts, and community all branch outward from here.
 
 ---
 
@@ -496,6 +497,42 @@ Media can train the conscience by deciding who the audience is asked to feel for
 
 For the full media/movies/TV/social/communication map, read the [Media / Communication Layer Note](NOTES/MEDIA_COMMUNICATION_LAYER.md).
 
+### The software / systems layer
+
+Software is consequence made executable.
+
+Code is a room that runs.
+
+Software turns inputs, validation, state, defaults, bugs, interfaces, logs, testing, Git history, databases, games, plugins, and user behavior into executable consequence.
+
+```text
+input
+  ↓
+validation
+  ↓
+state
+  ↓
+behavior
+  ↓
+output
+  ↓
+feedback
+  ↓
+future state
+```
+
+A constructor is an intervention point.
+
+Defaults are silent decisions.
+
+A bug is a ripple nobody meant to ship.
+
+AIFRED becomes Ripple Theory applied to sound: diagnose the ripple before it reaches the listener.
+
+Kaegan's game becomes Ripple Theory applied to play: memory becomes level design, and fear becomes a system the player can move through.
+
+For the full code/software/systems map, read the [Software / Systems Layer Note](NOTES/SOFTWARE_SYSTEMS_LAYER.md).
+
 ### The dream layer
 
 Dreams are not base reality.
@@ -744,6 +781,7 @@ Before participating, read:
 - [Power / Governance Layer Note](NOTES/POWER_GOVERNANCE_LAYER.md)
 - [Political Reality Layer Note](NOTES/POLITICAL_REALITY_LAYER.md)
 - [Media / Communication Layer Note](NOTES/MEDIA_COMMUNICATION_LAYER.md)
+- [Software / Systems Layer Note](NOTES/SOFTWARE_SYSTEMS_LAYER.md)
 - [Dream Layer Note](NOTES/DREAM_LAYER.md)
 - [Cultural Layer Note](NOTES/CULTURAL_LAYER.md)
 - [Unexplained Layer Note](NOTES/UNEXPLAINED_LAYER.md)
