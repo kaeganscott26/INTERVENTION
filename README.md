@@ -79,6 +79,7 @@ The README is the source node. The branch links begin here:
 - [Biological Layer Note](NOTES/BIOLOGICAL_LAYER.md)
 - [Weather Layer Note](NOTES/WEATHER_LAYER.md)
 - [Clinical Reality Layer Note](NOTES/CLINICAL_REALITY_LAYER.md)
+- [Power / Governance Layer Note](NOTES/POWER_GOVERNANCE_LAYER.md)
 - [Dream Layer Note](NOTES/DREAM_LAYER.md)
 - [Cultural Layer Note](NOTES/CULTURAL_LAYER.md)
 - [Unexplained Layer Note](NOTES/UNEXPLAINED_LAYER.md)
@@ -91,7 +92,7 @@ The README is the source node. The branch links begin here:
 - [Community Echoes](COMMUNITY/)
 - [Review Log / Changelog](CHANGELOG.md)
 
-In Obsidian, this makes the README function as the doorway/singularity node: story, theory, safety, natural consequence, biological consequence, weather consequence, clinical reality, dream consequence, cultural pressure-testing, unexplained experience, geometry, artifacts, and community all branch outward from here.
+In Obsidian, this makes the README function as the doorway/singularity node: story, theory, safety, natural consequence, biological consequence, weather consequence, clinical reality, power/governance, dream consequence, cultural pressure-testing, unexplained experience, geometry, artifacts, and community all branch outward from here.
 
 ---
 
@@ -364,6 +365,38 @@ The same event is not processed the same way by every nervous system.
 
 For the full brain/body/disability/psychiatric guardrail map, read the [Clinical Reality Layer Note](NOTES/CLINICAL_REALITY_LAYER.md).
 
+### The power / governance layer
+
+Power builds rooms other people have to live inside.
+
+Government is the architecture of consequence.
+
+Law is a ripple with enforcement attached.
+
+Political systems shape who is protected, who is watched, who is punished, who is believed, who can speak, who can move, who can inherit, who is called citizen, and who is called enemy.
+
+```text
+authority
+        ↓
+law / ideology / force
+        ↓
+institution
+        ↓
+daily behavior
+        ↓
+fear / loyalty / resistance / adaptation
+        ↓
+shared reality
+        ↓
+future political room
+```
+
+Explaining a regime is not defending it.
+
+No political theory outranks human dignity.
+
+For the full government/regime/ideology/power map, read the [Power / Governance Layer Note](NOTES/POWER_GOVERNANCE_LAYER.md).
+
 ### The dream layer
 
 Dreams are not base reality.
@@ -608,6 +641,7 @@ Before participating, read:
 - [Biological Layer Note](NOTES/BIOLOGICAL_LAYER.md)
 - [Weather Layer Note](NOTES/WEATHER_LAYER.md)
 - [Clinical Reality Layer Note](NOTES/CLINICAL_REALITY_LAYER.md)
+- [Power / Governance Layer Note](NOTES/POWER_GOVERNANCE_LAYER.md)
 - [Dream Layer Note](NOTES/DREAM_LAYER.md)
 - [Cultural Layer Note](NOTES/CULTURAL_LAYER.md)
 - [Unexplained Layer Note](NOTES/UNEXPLAINED_LAYER.md)
