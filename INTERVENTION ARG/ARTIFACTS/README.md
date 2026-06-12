@@ -62,6 +62,7 @@ Artifacts should feel like something found, not something advertised.
 - [[ARTIFACT_025_THE_RABBIT_HOLE]] — addiction current / split-self symbol / Teodor return
 - [[ARTIFACT_026_THE_NEXT_CHAPTER]] — scholarship laptop / origin object / future compiler
 - [[ARTIFACT_027_THE_BAR_DREAM]] — workplace pressure dream / false-blame loop / boundary anger
+- [[ARTIFACT_028_THE_GHOST_FROM_2007]] — backyard memory / witnessed grief / unexplained comedy
 - [[SUSHUPTI_BRIDGE]] — suṣupti, delta-state language, and the direct theory bridge
 
 ---
