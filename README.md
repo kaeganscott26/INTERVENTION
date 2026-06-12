@@ -76,6 +76,7 @@ The README is the source node. The branch links begin here:
 - [Natural Ripple Map](INTERVENTION%20ARG/NATURAL_RIPPLE_MAP.md)
 - [Theory Layer Note](NOTES/THEORY_LAYER.md)
 - [Natural Layer Note](NOTES/NATURAL_LAYER.md)
+- [Biological Layer Note](NOTES/BIOLOGICAL_LAYER.md)
 - [Weather Layer Note](NOTES/WEATHER_LAYER.md)
 - [Clinical Reality Layer Note](NOTES/CLINICAL_REALITY_LAYER.md)
 - [Dream Layer Note](NOTES/DREAM_LAYER.md)
@@ -90,7 +91,7 @@ The README is the source node. The branch links begin here:
 - [Community Echoes](COMMUNITY/)
 - [Review Log / Changelog](CHANGELOG.md)
 
-In Obsidian, this makes the README function as the doorway/singularity node: story, theory, safety, natural consequence, weather consequence, clinical reality, dream consequence, cultural pressure-testing, unexplained experience, geometry, artifacts, and community all branch outward from here.
+In Obsidian, this makes the README function as the doorway/singularity node: story, theory, safety, natural consequence, biological consequence, weather consequence, clinical reality, dream consequence, cultural pressure-testing, unexplained experience, geometry, artifacts, and community all branch outward from here.
 
 ---
 
@@ -254,6 +255,40 @@ Nature does not need intention to create consequence.
 The ripple exists before the story.
 
 For the full physical/ecological map, read the [Natural Ripple Map](INTERVENTION%20ARG/NATURAL_RIPPLE_MAP.md) and the [Natural Layer Note](NOTES/NATURAL_LAYER.md).
+
+### The biological layer
+
+Life does not need a narrator.
+
+Life does not need a theory.
+
+Life changes through variation, inheritance, selection, adaptation, reproduction, extinction, cooperation, competition, symbiosis, mutation, environment, and time before any human turns it into meaning.
+
+```text
+variation
+        ↓
+environmental pressure
+        ↓
+survival / reproduction difference
+        ↓
+inheritance
+        ↓
+population change
+        ↓
+new ecological room
+```
+
+Evolution is Ripple Theory across generations.
+
+Life is not a staircase.
+
+Life is a branching river.
+
+Natural selection explains biological change.
+
+It does not justify human cruelty.
+
+For the full evolution/adaptation/biological consequence map, read the [Biological Layer Note](NOTES/BIOLOGICAL_LAYER.md).
 
 ### The weather layer
 
@@ -570,6 +605,7 @@ Before participating, read:
 - [Theory Layer Note](NOTES/THEORY_LAYER.md)
 - [Natural Ripple Map](INTERVENTION%20ARG/NATURAL_RIPPLE_MAP.md)
 - [Natural Layer Note](NOTES/NATURAL_LAYER.md)
+- [Biological Layer Note](NOTES/BIOLOGICAL_LAYER.md)
 - [Weather Layer Note](NOTES/WEATHER_LAYER.md)
 - [Clinical Reality Layer Note](NOTES/CLINICAL_REALITY_LAYER.md)
 - [Dream Layer Note](NOTES/DREAM_LAYER.md)
