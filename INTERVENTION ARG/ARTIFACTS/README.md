@@ -87,7 +87,7 @@ No ripple excuses harm.
 
 ---
 
-## 📝 Suggested Official Artifact Format
+## 📝  Official Artifact Format
 
 ```text
 ARTIFACT: [short title]
