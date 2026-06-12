@@ -82,6 +82,7 @@ The README is the source node. The branch links begin here:
 - [Clinical Reality Layer Note](NOTES/CLINICAL_REALITY_LAYER.md)
 - [Power / Governance Layer Note](NOTES/POWER_GOVERNANCE_LAYER.md)
 - [Political Reality Layer Note](NOTES/POLITICAL_REALITY_LAYER.md)
+- [Media / Communication Layer Note](NOTES/MEDIA_COMMUNICATION_LAYER.md)
 - [Dream Layer Note](NOTES/DREAM_LAYER.md)
 - [Cultural Layer Note](NOTES/CULTURAL_LAYER.md)
 - [Unexplained Layer Note](NOTES/UNEXPLAINED_LAYER.md)
@@ -94,7 +95,7 @@ The README is the source node. The branch links begin here:
 - [Community Echoes](COMMUNITY/)
 - [Review Log / Changelog](CHANGELOG.md)
 
-In Obsidian, this makes the README function as the doorway/singularity node: story, theory, safety, natural consequence, biological consequence, human impact, weather consequence, clinical reality, power/governance, political reality, dream consequence, cultural pressure-testing, unexplained experience, geometry, artifacts, and community all branch outward from here.
+In Obsidian, this makes the README function as the doorway/singularity node: story, theory, safety, natural consequence, biological consequence, human impact, weather consequence, clinical reality, power/governance, political reality, media/communication, dream consequence, cultural pressure-testing, unexplained experience, geometry, artifacts, and community all branch outward from here.
 
 ---
 
@@ -459,6 +460,42 @@ A constrained choice can still be consequential.
 
 For the full party/ideology/electoral-choice map, read the [Political Reality Layer Note](NOTES/POLITICAL_REALITY_LAYER.md).
 
+### The media / communication layer
+
+Media is reality after it has been framed, compressed, repeated, and transmitted.
+
+Movies, television, news, internet platforms, social media, messaging apps, email, memes, video, livestreams, podcasts, comment sections, group chats, and AI-mediated communication can shape perception, identity, emotion, morality, memory, behavior, and shared reality.
+
+```text
+event
+  ↓
+selection
+  ↓
+frame
+  ↓
+format
+  ↓
+distribution
+  ↓
+observer interpretation
+  ↓
+emotional charge
+  ↓
+moral reading
+  ↓
+behavior
+  ↓
+shared reality feedback
+```
+
+Fiction is not base reality, but it can become emotional architecture.
+
+Movies and TV can make life feel simpler than it is, then make the viewer feel like failure for living inside complexity.
+
+Media can train the conscience by deciding who the audience is asked to feel for.
+
+For the full media/movies/TV/social/communication map, read the [Media / Communication Layer Note](NOTES/MEDIA_COMMUNICATION_LAYER.md).
+
 ### The dream layer
 
 Dreams are not base reality.
@@ -706,6 +743,7 @@ Before participating, read:
 - [Clinical Reality Layer Note](NOTES/CLINICAL_REALITY_LAYER.md)
 - [Power / Governance Layer Note](NOTES/POWER_GOVERNANCE_LAYER.md)
 - [Political Reality Layer Note](NOTES/POLITICAL_REALITY_LAYER.md)
+- [Media / Communication Layer Note](NOTES/MEDIA_COMMUNICATION_LAYER.md)
 - [Dream Layer Note](NOTES/DREAM_LAYER.md)
 - [Cultural Layer Note](NOTES/CULTURAL_LAYER.md)
 - [Unexplained Layer Note](NOTES/UNEXPLAINED_LAYER.md)
