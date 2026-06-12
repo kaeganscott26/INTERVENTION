@@ -1,6 +1,6 @@
 # ARTIFACT_027_THE_BAR_DREAM
 
-_Status: Dream Layer Artifact | Work-Pressure Current | False-Blame Loop | Reality Remains Reality_
+_Status: Dream Layer Artifact | Work-Pressure Current | Hierarchy Anxiety | False-Blame Loop | Reality Remains Reality_
 
 ```text
 I was at Buffalo.
@@ -51,11 +51,13 @@ This dream uses a real workplace room to render a familiar pattern:
 ```text
 authority decision
   ↓
+higher-status room opens
+  ↓
 wrong people placed in wrong role
   ↓
 missing training / missing context
   ↓
-customer pressure
+public performance test
   ↓
 failure point
   ↓
@@ -66,19 +68,31 @@ worker refuses false blame
 
 The dream is not about bartending only.
 
-It is about being handed a room that was not built for you, being expected to perform like you already understand it, then being blamed when the setup fails.
+It is about being handed a room that feels like a chance to move up in the hierarchy, while also being expected to perform inside that room without the training, context, or structure needed to succeed.
+
+That is the emotional trap.
+
+The room looks like opportunity.
+
+The setup behaves like sabotage.
+
+The mistake feels like personal failure.
+
+The waking moment reveals it was simulated.
 
 ---
 
 ## 🧭 Ripple Reading
 
-The strongest current in the dream is false responsibility.
+The strongest current in the dream is false responsibility attached to a status test.
 
 The system creates the bad setup.
 
 The worker inherits the consequence.
 
 The customer applies pressure.
+
+The public mistake creates shame.
 
 Management returns to assign blame.
 
@@ -95,11 +109,13 @@ The failure did not begin with the worker.
 The failure began with the architecture.
 
 ```text
-bad setup
+possible advancement
   ↓
-unfair expectation
+missing preparation
   ↓
-public mistake
+public test
+  ↓
+mistake
   ↓
 shame pressure
   ↓
@@ -107,6 +123,18 @@ false blame offered
   ↓
 boundary response
 ```
+
+This is not only fear of failure.
+
+It is fear of being invited into a higher room before being properly equipped, then having the lack of support used as evidence that the worker did not belong there.
+
+The dream asks:
+
+> What if I get the shot and blow it?
+
+The waking answer is:
+
+> A failed setup is not the same thing as a failed self.
 
 ---
 
@@ -136,6 +164,46 @@ The dream says:
 
 ---
 
+## 🧠 Clinical Reality Echo
+
+This artifact also belongs near [[CLINICAL_REALITY_LAYER]].
+
+The emotional residue is not only anger.
+
+It is hierarchy anxiety.
+
+It is the fear of being seen failing in public.
+
+It is the fear of being promoted into a room before readiness catches up.
+
+It is the fear that one visible mistake will be treated as proof of identity.
+
+```text
+opportunity
+  ↓
+status pressure
+  ↓
+missing preparation
+  ↓
+public mistake
+  ↓
+shame flash
+  ↓
+self-protection
+  ↓
+waking insight
+```
+
+The useful insight is not:
+
+> Never accept a bigger room.
+
+The useful insight is:
+
+> A bigger room requires support, training, and clear expectations.
+
+---
+
 ## ⚠️ Guardrail First
 
 This dream does not prove anything about the actual workplace.
@@ -150,7 +218,11 @@ The waking consequence is the insight:
 
 > The dreamer recognized a false-blame loop and did not internalize it.
 
-That insight can be useful without treating the dream as literal.
+And also:
+
+> The dreamer recognized the fear of being given a shot and blowing it.
+
+Both insights can be useful without treating the dream as literal.
 
 Reality remains reality.
 
@@ -170,6 +242,7 @@ Reality remains reality.
 - [[MENTAL_HEALTH_DISCLAIMER]] — safety handrail
 - [[ARTIFACT_023_THE_BAD_DREAM_MOMMY]] — dream artifact / waking residue
 - [[ARTIFACT_025_THE_RABBIT_HOLE]] — escape pattern / addiction current / split-self symbol
+- [[ARTIFACT_026_THE_NEXT_CHAPTER]] — next chapter / tool / future compiler
 - [[LAYER_INDEX]] — reader route through the full framework
 
 ---
@@ -177,6 +250,10 @@ Reality remains reality.
 ## 🧭 Key Lines
 
 > A dream can be unreal as an event and real as an emotional imprint.
+
+> The room looks like opportunity. The setup behaves like sabotage.
+
+> A failed setup is not the same thing as a failed self.
 
 > The failure did not begin with the worker. The failure began with the architecture.
 
@@ -188,7 +265,7 @@ Fine.
 
 <!--
 [ARTIFACT LOG]: ARTIFACT_027_THE_BAR_DREAM
-Added as a Dream Layer artifact after a work-pressure dream about role confusion, false blame, and boundary anger.
+Updated as a Dream Layer artifact after a work-pressure dream about role confusion, hierarchy anxiety, false blame, and boundary anger.
 This archive may reflect learning, not certainty.
 System will accept corrections from trusted observers.
 -->
