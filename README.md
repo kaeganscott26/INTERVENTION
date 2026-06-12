@@ -76,6 +76,7 @@ The README is the source node. The branch links begin here:
 - [Natural Ripple Map](INTERVENTION%20ARG/NATURAL_RIPPLE_MAP.md)
 - [Theory Layer Note](NOTES/THEORY_LAYER.md)
 - [Natural Layer Note](NOTES/NATURAL_LAYER.md)
+- [Weather Layer Note](NOTES/WEATHER_LAYER.md)
 - [Dream Layer Note](NOTES/DREAM_LAYER.md)
 - [Cultural Layer Note](NOTES/CULTURAL_LAYER.md)
 - [Unexplained Layer Note](NOTES/UNEXPLAINED_LAYER.md)
@@ -88,7 +89,7 @@ The README is the source node. The branch links begin here:
 - [Community Echoes](COMMUNITY/)
 - [Review Log / Changelog](CHANGELOG.md)
 
-In Obsidian, this makes the README function as the doorway/singularity node: story, theory, safety, natural consequence, dream consequence, cultural pressure-testing, unexplained experience, geometry, artifacts, and community all branch outward from here.
+In Obsidian, this makes the README function as the doorway/singularity node: story, theory, safety, natural consequence, weather consequence, dream consequence, cultural pressure-testing, unexplained experience, geometry, artifacts, and community all branch outward from here.
 
 ---
 
@@ -252,6 +253,46 @@ Nature does not need intention to create consequence.
 The ripple exists before the story.
 
 For the full physical/ecological map, read the [Natural Ripple Map](INTERVENTION%20ARG/NATURAL_RIPPLE_MAP.md) and the [Natural Layer Note](NOTES/NATURAL_LAYER.md).
+
+### The weather layer
+
+Weather is nature changing the human room without asking permission.
+
+Pressure shifts.
+
+Moisture stacks.
+
+Air rises.
+
+Clouds build geometry.
+
+Light changes.
+
+Bodies respond.
+
+People look up.
+
+The room changes before a drop even falls.
+
+```text
+pressure shift
+        ↓
+atmospheric response
+        ↓
+visible sky change
+        ↓
+human attention shift
+        ↓
+behavior change
+        ↓
+room consequence
+```
+
+Weather does not need meaning to create consequence.
+
+But humans create meaning from weather because humans live inside consequence.
+
+For the full atmosphere/storm map, read the [Weather Layer Note](NOTES/WEATHER_LAYER.md).
 
 ### The dream layer
 
@@ -494,6 +535,7 @@ Before participating, read:
 - [Theory Layer Note](NOTES/THEORY_LAYER.md)
 - [Natural Ripple Map](INTERVENTION%20ARG/NATURAL_RIPPLE_MAP.md)
 - [Natural Layer Note](NOTES/NATURAL_LAYER.md)
+- [Weather Layer Note](NOTES/WEATHER_LAYER.md)
 - [Dream Layer Note](NOTES/DREAM_LAYER.md)
 - [Cultural Layer Note](NOTES/CULTURAL_LAYER.md)
 - [Unexplained Layer Note](NOTES/UNEXPLAINED_LAYER.md)
