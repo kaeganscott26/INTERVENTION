@@ -1,210 +1,116 @@
-_Status: Fiction Artifact | Sleep Layer Active_
+# ARTIFACT_024_THE_BLACK_FRAME
 
-This artifact belongs to the Dream Layer, but it does not describe a dream.
-
-It describes the space where the dream does not render.
-
-Reality remains reality.
-
-The body remains in base reality.
-
-The observer is absent.
+_Status: Dream Layer | Sleep Layer | Unrendered Interval | Black Frame | Reality Remains Reality_
 
 ---
 
-## ⚠️ Guardrail
+## 🌑 Field Note
 
-Do not use this artifact to prove that sleep is supernatural.
-
-Do not use this artifact to prove that consciousness leaves the body.
-
-Do not use this artifact as a reason to distrust waking reality.
-
-Do not use this artifact as a substitute for sleep, food, treatment, grounding, medication, therapy, or real-world support.
-
-If this artifact makes reality feel less stable, stop reading.
-
-Return to:
-
-- [[MENTAL_HEALTH_DISCLAIMER]]
-- [[BOUNDARIES]]
-- [[THEORY_LAYER]]
-- [[DREAM_LAYER]]
-
-No metaphor outranks the body.
-
----
-
-# THE BLACK FRAME
-
-There is a part of sleep no one remembers.
-
-Not because it was hidden.
-
-Not because it was taken.
-
-Not because something happened there that the mind refuses to show.
-
-Because nothing was rendered.
-
-No room.
+The Black Frame is the sleep interval that is neither waking nor dreaming.
 
 No hallway.
 
-No parent-shaped figure in the door.
+No symbol.
 
-No voice.
+No nightmare.
 
-No dream physics.
+No observer narration.
 
-No impossible house.
+No room to decode.
 
-No body floating above itself.
+The body remains.
 
-No message.
+The mind does not report back.
 
-No witness.
+Time passes, but the observer is not there to feel it pass.
 
-Just the black frame.
+That absence matters.
 
-The body is still there.
+Not because it proves a hidden world.
 
-The lungs continue.
+Because it marks a boundary in perception.
 
-The heart continues.
+There are moments when reality continues without being rendered into experience.
 
-The room continues.
+The room exists.
 
-The clock continues.
+The body breathes.
 
-Somewhere outside the sleeping body, cars move through intersections. A refrigerator hums. A dog turns in a yard. Someone wakes up for work. Someone sends a message. Someone dies. Someone is born. The world keeps dragging its furniture across the floor.
+The clock moves.
 
-But from inside the observer?
-
-Nothing.
-
-Not darkness.
-
-Darkness is still something being seen.
-
-Not silence.
-
-Silence is still something being heard.
-
-Not peace.
-
-Peace requires a self to feel it.
-
-The black frame is not an experience.
-
-It is the absence of the experiencer.
+The observer returns later and calls the gap sleep.
 
 ---
 
-## FIELD NOTE
+## 🧭 Ripple Theory Connection
 
-Consciousness likes to pretend it is continuous.
+Ripple Theory separates base reality from perceived reality.
 
-It says:
+The Black Frame is one of the clearest everyday examples.
+
+Base reality continues.
+
+Measured time continues.
+
+The body continues.
+
+But perceived reality disappears from the observer's point of view.
 
 ```text
-I went to sleep.
-Then I woke up.
+waking observer
+      ↓
+sleep onset
+      ↓
+black frame
+      ↓
+time passes without report
+      ↓
+observer returns
+      ↓
+memory stitches continuity
 ```
 
-That is the clean version.
+The Black Frame does not mean the world stopped.
 
-The useful version.
+It means the observer stopped rendering the world.
 
-The version that lets a person make coffee and check the time and keep being a person.
-
-But the sleep layer tells the truth differently:
-
-```text
-I existed.
-Then I did not experience existence.
-Then I existed again.
-```
-
-The waking mind stitches the missing section closed.
-
-It calls the seam morning.
+That distinction is central to Ripple Theory.
 
 ---
 
-## SYSTEM NOTE
+## 💤 Sleep Layer Reading
 
-Dreams prove the mind can render reality without the world.
+Dreams are rendered rooms.
 
-The Black Frame proves the self can disappear while the world continues.
+The Black Frame is an unrendered interval.
 
-That does not mean the world stopped.
+A dream can leave emotional residue because something was experienced.
 
-That does not mean the self died.
+The Black Frame leaves a different kind of residue: the strange fact that there was nothing to experience, and yet a person still returns changed by rest, exhaustion, illness, fear, or interruption.
 
-That does not mean anything mystical happened.
+Sleep is not one thing.
 
-It means the observer was offline.
+It is a layered state.
 
-It means time passed without being witnessed from the inside.
+Waking.
 
-It means consciousness does not experience time as one unbroken river.
+Drifting.
 
-It experiences time in rendered segments.
+Dreaming.
 
-Between those segments, there are cuts.
+Deep sleep.
 
-Most cuts are harmless.
+Black Frame.
 
-Most cuts are ordinary.
+Return.
 
-Every night, the system blinks.
-
----
-
-## RIPPLE MECHANIC
-
-The Black Frame does not create a ripple by showing the sleeper something.
-
-It creates a ripple by revealing what the waking self assumes.
-
-```text
-base reality continues
-        ↓
-observer goes absent
-        ↓
-time is not internally measured
-        ↓
-consciousness returns
-        ↓
-continuity is reconstructed
-        ↓
-the day begins as if nothing was missing
-```
-
-A dream leaves emotional weather.
-
-The Black Frame leaves no weather at all.
-
-That is what makes it strange.
-
-A dream can be remembered.
-
-A nightmare can be named.
-
-A symbol can be interpreted.
-
-But the Black Frame cannot be decoded because there is nothing inside it to decode.
-
-It is not a message.
-
-It is a missing witness.
+The return is where the observer stitches the self back into continuity.
 
 ---
 
-## HUMAN ECHO
+## 🕳️ Human Echo
 
-This is why the Black Frame matters outside sleep.
+The Black Frame matters outside sleep too.
 
 Some moments in life look like waking black frames.
 
@@ -234,12 +140,49 @@ Sometimes it is a son asking why the road changed before he was old enough to ch
 
 ---
 
-## EXIT LINE
+## ⚠️ Guardrail
 
-The dream is a room the mind renders.
+Do not use this artifact to claim unconsciousness proves alternate realities.
 
-The Black Frame is the room not rendered at all.
+Do not use this artifact to claim the observer creates base reality.
 
-And still, when consciousness returns, the person calls it one life.
+Do not use this artifact to destabilize sleep, dreams, memory, or identity.
+
+The Black Frame is a perception boundary, not a secret command.
+
+Reality remains reality.
+
+---
+
+## 🔗 Obsidian Links
+
+- [[DREAM_LAYER]] — dreams, sleep, nightmares, and waking residue
+- [[SUSHUPTI_BRIDGE]] — deep sleep bridge and cultural/philosophical comparison
+- [[THEORY_LAYER]] — base reality, observer reality, and proof boundaries
+- [[CLINICAL_REALITY_LAYER]] — sleep, trauma, nervous system, dissociation, and grounding
+- [[ARTIFACT_023_THE_BAD_DREAM_MOMMY]] — nightmare residue and dream-layer fiction
+- [[ARTIFACT_029_THE_TIME_LAYER]] — time, measurement, and perceived duration
+- [[MENTAL_HEALTH_DISCLAIMER]] — safety handrail
+- [[BOUNDARIES]] — no metaphor outranks safety
+- [[LAYER_INDEX]] — reader route through the full framework
+
+---
+
+## 🔥 Key Lines
+
+> **There are moments when reality continues without being rendered into experience.**
+
+> **The Black Frame does not mean the world stopped. It means the observer stopped rendering the world.**
+
+> **The return is where the observer stitches the self back into continuity.**
+
+> **The world does not pause for the missing witness.**
 
 Fine.
+
+<!--
+[ARTIFACT LOG]: ARTIFACT_024_THE_BLACK_FRAME
+Polished during the artifact-format pass with shared structure, Obsidian links, guardrails, and explicit Ripple Theory connection.
+This archive may reflect learning, not certainty.
+System will accept corrections from trusted observers.
+-->
