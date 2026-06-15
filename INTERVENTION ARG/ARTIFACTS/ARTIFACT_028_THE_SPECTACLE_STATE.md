@@ -1,8 +1,11 @@
+
 # ARTIFACT_028_THE_SPECTACLE_STATE
 
 _Status: Government Layer | Media Layer | Algorithm Layer | Perceived Freedom Event | Spectacle State Evidence_
 
 ---
+
+<img width="627" height="553" alt="SPECTACLE_LAYER_PHOTO" src="https://github.com/user-attachments/assets/2a3b264b-9a99-4317-9e0c-af2a89b04590" />
 
 ## The Spectacle State
 
