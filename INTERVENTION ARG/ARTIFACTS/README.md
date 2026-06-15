@@ -89,8 +89,10 @@ Fine.
 ## 🧭 Current Numbered Theory Artifacts
 
 - [[ARTIFACT_019_PSYCHOLOGICAL_LAYER]] — psychological loops, interruption, observer pattern, and safety guardrails
+- [[ARTIFACT_020_THE_SPLIT_LAYER]] — split paths, family consequence, divergent rooms, and damage maps
 - [[ARTIFACT_021_THE_IGNORED_LAYER]] — long-form safety artifact about misreading patterns, psychosis risk, and why boundaries are handrails
 - [[ARTIFACT_023_THE_BAD_DREAM_MOMMY]] — long-form Dream Layer artifact about nightmare residue, mimicry, childhood fear, and waking guardrails
+- [[ARTIFACT_024_THE_BLACK_FRAME]] — sleep layer, unrendered interval, black frame, and perception boundary
 - [[ARTIFACT_025_THE_RABBIT_HOLE]] — addiction current, avoidance, split-self symbol, Teodor return
 - [[ARTIFACT_026_THE_NEXT_CHAPTER]] — scholarship laptop, origin object, software doorway, future compiler
 - [[ARTIFACT_027_THE_BAR_DREAM]] — workplace pressure dream, hierarchy anxiety, false-blame loop
@@ -182,5 +184,5 @@ Fine.
 
 <!--
 [ARTIFACT LOG]: ARTIFACTS_README_FORMAT_PASS
-Updated during the full artifact polish pass to define a standard format, current index, retained long-form artifacts, converted field notes, and removed legacy txt fragments.
+Updated during the full artifact polish pass to define a standard format, current index, retained long-form artifacts, converted field notes, restored missing Artifact 020 and polished Artifact 024, and removed legacy txt fragments.
 -->
