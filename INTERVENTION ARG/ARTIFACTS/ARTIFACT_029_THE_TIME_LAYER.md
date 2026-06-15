@@ -1,13 +1,10 @@
 # ARTIFACT_029_THE_TIME_LAYER
 
-ARTIFACT: The Time Layer  
-ROOM: clock / shadow / oscillator / remembered minute  
-LAYER: time / measurement / perception / system  
-STATUS: added / unstable / measurable only through change
+_Status: Time Layer | Measurement Interface | Perceived Time | System Clock | Reality Remains Reality_
 
 ---
 
-## FIELD NOTE
+## ⏳ Field Note
 
 The first mistake was thinking the clock was time.
 
@@ -49,11 +46,17 @@ The clock only made change readable.
 
 ---
 
-## THE SPLIT
+## 🧩 The Three-Way Split
 
-The Time Layer separates into three versions.
+The Time Layer separates into three versions:
 
-### 1. Base Time
+1. Base Time.
+2. Measured Time.
+3. Perceived Time.
+
+---
+
+## 🌌 Base Time
 
 Base Time is the underlying reality of change.
 
@@ -75,7 +78,9 @@ This layer is not human-made.
 
 This layer exists whether anyone names it or not.
 
-### 2. Measured Time
+---
+
+## 🕰️ Measured Time
 
 Measured Time is the human interface.
 
@@ -119,7 +124,9 @@ So is a language.
 
 The construction is useful because it lets separate observers coordinate around the same changing world.
 
-### 3. Perceived Time
+---
+
+## 🧠 Perceived Time
 
 Perceived Time is the version rendered by consciousness.
 
@@ -155,7 +162,7 @@ Neither does waiting for a text that might not come.
 
 ---
 
-## THE SYSTEM CLOCK
+## 💻 The System Clock
 
 Computers do not feel time.
 
@@ -227,7 +234,7 @@ Same attempt to count the distance between what was and what is becoming.
 
 ---
 
-## QUANTUM EDGE
+## ⚛️ Quantum Edge
 
 At the quantum level, time becomes harder to speak about cleanly.
 
@@ -265,7 +272,7 @@ But the thing underneath remains separate from the tools used to describe it.
 
 ---
 
-## RIPPLE THEORY CONNECTION
+## 🧭 Ripple Theory Connection
 
 Ripple Theory does not need to claim that time is imaginary.
 
@@ -307,12 +314,57 @@ The ripple is how long what happened continues to happen inside the system.
 
 ---
 
-## CORE LINE
+## ⚠️ Guardrail
 
-Time becomes measurable only when change becomes repeatable enough to count.
+This artifact does not claim time is fake.
 
-But perceived time begins when change becomes meaningful enough to feel.
+It does not claim science is wrong because perception is strange.
 
-That is the wound in the clock.
+It does not use quantum uncertainty as permission to invent certainty.
 
-That is the Time Layer.
+It separates base reality, measurement, and perception so the theory can stay useful without overclaiming.
+
+Reality remains reality.
+
+---
+
+## 🔗 Obsidian Links
+
+- [[THEORY_LAYER]] — base reality, perceived reality, model, and proof boundaries
+- [[SOFTWARE_SYSTEMS_LAYER]] — clocks, ticks, systems, and executable order
+- [[CLINICAL_REALITY_LAYER]] — trauma time, grief time, nervous-system calendar
+- [[DREAM_LAYER]] — sleep, black frame, dream time, and memory residue
+- [[GEOMETRY_AS_CONSEQUENCE]] — grids, measurement, maps, and structure
+- [[Chapter 07]] — interruption / collapse / altered room-time
+- [[Chapter 13]] — media timing / echo / distributed perception
+- [[Chapter 16]] — grief time / father wound / return current
+- [[ARTIFACT_023_THE_BAD_DREAM_MOMMY]] — childhood time, nightmare residue, and remembered fear
+- [[ARTIFACT_024_THE_BLACK_FRAME]] — unrendered interval / sleep without dream
+- [[LAYER_INDEX]] — reader route through the full framework
+
+---
+
+## 🔥 Key Lines
+
+> **The clock was never time. The clock was a grid.**
+
+> **The clock did not create change. The clock only made change readable.**
+
+> **The grid is not the song. The grid is how the song becomes editable.**
+
+> **The second is not reality. The second is a translation.**
+
+> **The ripple is not only what happened. The ripple is how long what happened continues to happen inside the system.**
+
+> **Time becomes measurable only when change becomes repeatable enough to count.**
+
+> **Perceived time begins when change becomes meaningful enough to feel.**
+
+Fine.
+
+<!--
+[ARTIFACT LOG]: ARTIFACT_029_THE_TIME_LAYER
+Polished during the artifact-format pass with emoji headers, Obsidian links, explicit guardrails, and clearer Ripple Theory connection.
+This archive may reflect learning, not certainty.
+System will accept corrections from trusted observers.
+-->
