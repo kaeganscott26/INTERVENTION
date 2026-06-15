@@ -1,13 +1,10 @@
 # ARTIFACT_028_THE_GHOST_FROM_2007
 
-ARTIFACT: The Ghost From 2007  
-ROOM: backyard / bucket / two-liter bottle / remembered witness  
-LAYER: unexplained / grief / inheritance / comedy  
-STATUS: witnessed / laughing through the wound
+_Status: Unexplained Layer | Grief Current | Memory Witness | Thunderbird Echo | Reality Remains Reality_
 
 ---
 
-## FIELD NOTE
+## 👻 Field Note
 
 The first lie was not even good.
 
@@ -105,7 +102,7 @@ He should not have.
 
 He said, with the full confidence of a boy whose brain had just left the premises:
 
-“We’re testing my water-repelled rocket.”
+> “We’re testing my water-repelled rocket.”
 
 There was a pause.
 
@@ -139,19 +136,19 @@ His expression said several things at once.
 
 It said:
 
-I know exactly what this is.
+> I know exactly what this is.
 
 It said:
 
-That is not a rocket.
+> That is not a rocket.
 
 It said:
 
-You are dumber than a box of rocks.
+> You are dumber than a box of rocks.
 
 It also said:
 
-Proceed, son.
+> Proceed, son.
 
 Not out loud.
 
@@ -164,6 +161,10 @@ Then he went back inside.
 The boys survived.
 
 The rocket program continued briefly and accomplished absolutely nothing useful.
+
+---
+
+## 🚬 Porch Current
 
 A few weeks later, the lie was retired.
 
@@ -209,7 +210,7 @@ He waited until Scott had become furniture with opinions.
 
 Then Terry pointed at the cigarette butts scattered on the ground.
 
-“Pick up your cigarette butts.”
+> “Pick up your cigarette butts.”
 
 Scott heard this as persecution.
 
@@ -219,7 +220,7 @@ Scott heard this as a violation of the ancient teenage right to be left alone af
 
 So Scott answered in the most exhausted, annoyed, loving, seventeen-year-old voice possible:
 
-“OKAY, DAD.”
+> “OKAY, DAD.”
 
 And Terry, having successfully remained Terry, had won.
 
@@ -237,7 +238,11 @@ No hidden agency recovered the bottle.
 
 Just a sick father, a dumb kid, a laughing friend, a backyard, a bad lie, and cigarette butts on the ground.
 
-But years later, the memory returned wrong.
+---
+
+## 🕯️ The Ghost Without The Ghost
+
+Years later, the memory returned wrong.
 
 Not wrong as in false.
 
@@ -249,7 +254,7 @@ It came back through Drew, who remembered too.
 
 It came back after the laughter had already turned into grief and then somehow turned back into laughter again.
 
-That is why it belongs in the unexplained layer.
+That is why it belongs in the Unexplained Layer.
 
 Not because a ghost appeared.
 
@@ -259,9 +264,9 @@ The ghost was already there.
 
 It was in the sentence Scott heard in Terry’s voice after all these years:
 
-Cool rocket, dumbass.
-
-Pick up your cigarette butts.
+> Cool rocket, dumbass.
+>
+> Pick up your cigarette butts.
 
 The room changed after that.
 
@@ -275,4 +280,88 @@ The dead do not always return as shadows.
 
 Sometimes they return as a joke that still knows exactly where to stand.
 
+---
+
+## 🧭 Ripple Theory Connection
+
+This artifact supports Ripple Theory by showing how a memory can become active again when the right witness returns to the room.
+
+The event was ordinary.
+
+The return was not.
+
+```text
+youth memory
+      ↓
+witness resurfaces
+      ↓
+shared laughter returns
+      ↓
+grief changes shape
+      ↓
+father-voice becomes present
+      ↓
+the room changes without proof of a ghost
+```
+
+The theory does not need to claim a supernatural event occurred.
+
+The ripple is already visible.
+
+The dead can remain dead.
+
+The memory can still move.
+
+Reality remains reality.
+
+---
+
+## ⚠️ Guardrail
+
+This artifact does not prove ghosts exist.
+
+It does not prove the dead literally speak through memory.
+
+It does not turn grief into evidence of the paranormal.
+
+It records how memory, witness, humor, grief, and inheritance can make absence feel briefly present.
+
+No metaphor outranks the body.
+
+No unexplained feeling outranks reality.
+
+---
+
+## 🔗 Obsidian Links
+
+- [[UNEXPLAINED_LAYER]] — unexplained experience without unsafe certainty
+- [[CULTURAL_LAYER]] — family memory, humor, ritual, and inheritance
+- [[CLINICAL_REALITY_LAYER]] — grief, memory return, and emotional regulation
+- [[Chapter 16]] — father wound / public grief / emotional signal
+- [[Chapter 17]] — inheritance / return current / fatherhood
+- [[THEORY_LAYER]] — story, proof, metaphor, and responsibility
+- [[BOUNDARIES]] — no metaphor excuses harm
+- [[MENTAL_HEALTH_DISCLAIMER]] — safety handrail
+- [[ARTIFACT_021_THE_IGNORED_LAYER]] — warning against unsafe pattern reading
+- [[LAYER_INDEX]] — reader route through the full framework
+
+---
+
+## 🔥 Key Lines
+
+> **Presence was better than performance.**
+
+> **The dead do not always return as shadows. Sometimes they return as a joke that still knows exactly where to stand.**
+
+> **The event was ordinary. The return was not.**
+
+> **The dead can remain dead. The memory can still move.**
+
 Fine.
+
+<!--
+[ARTIFACT LOG]: ARTIFACT_028_THE_GHOST_FROM_2007
+Polished during the artifact-format pass with emoji headers, Ripple Theory connection, guardrails, and Obsidian links.
+This archive may reflect learning, not certainty.
+System will accept corrections from trusted observers.
+-->
