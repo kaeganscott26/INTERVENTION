@@ -66,7 +66,7 @@ Not evidence for a crime.
 
 Evidence that I had survived one.
 
-The office looked exactly the way memory keeps rooms when it refuses to let them decay. Same desk. Same chair. Same little piles of paper that probably made sense to him and absolutely nobody else. Same smell of dust, coffee, old paper, Stetson from the Sheplers store on Meridian, and a little Drakkar Noir hanging around like it still had something to prove.
+The office looked exactly the way memory keeps rooms when it refuses to let them decay. Same desk. Same chair. Same little piles of paper that probably made sense to him and absolutely nobody else. Same smell of dust, coffee, old paper, Stetson, and a little Drakkar Noir hanging around like it still had something to prove.
 
 That smell hit me first.
 
@@ -604,7 +604,7 @@ But present.
 
 Alive for a minute.
 
-Sitting across from me in an office that smelled like dust, coffee, old paper, Stetson from Sheplers, and Drakkar Noir. Reading my work. Laughing at my jokes. Finding the hidden wires inside the stories. Seeing the structure. Seeing the wreckage. Seeing the man who had built something out of both.
+Sitting across from me in an office that smelled like dust, coffee, old paper, Stetson, and Drakkar Noir. Reading my work. Laughing at my jokes. Finding the hidden wires inside the stories. Seeing the structure. Seeing the wreckage. Seeing the man who had built something out of both.
 
 He closed the laptop halfway, then stopped.
 
@@ -670,7 +670,71 @@ I pulled a chair beside him.
 
 He clicked his tongue.
 
-“Son, I got my hair back reading the first folder. Let’s see if the next one fixes my knees.”
+“Son, I got my hair back reading the first folder. If the next one grows me a left leg, we’re calling this damn thing medical software.”
+
+I folded.
+
+Not laughed.
+
+Folded.
+
+The kind of laugh that leaves your body before you can approve it. The kind that comes out ugly and loud and absolutely disrespectful to the emotional atmosphere.
+
+“Dad.”
+
+“What?”
+
+“You cannot say that.”
+
+“Why not?”
+
+“Because that is insane.”
+
+He looked down toward where his left leg should have been and gave the most casual shrug in history.
+
+“Insane is walking in here with a magic filing cabinet that fixes baldness and then acting like I’m wrong for checking the patch notes.”
+
+I put my hand over my face.
+
+“Oh my God.”
+
+He pointed at the screen.
+
+“Does this thing have an update log?”
+
+“It’s GitHub. Technically, yeah.”
+
+“Then check it.”
+
+“No.”
+
+“Coward.”
+
+“I’m not checking the repo changelog for prosthetic compatibility.”
+
+“Then what are we even doing here?”
+
+I was laughing so hard I couldn’t breathe.
+
+He leaned back, completely pleased with himself.
+
+“Hair patch installed. Left-leg update pending.”
+
+“That is foul.”
+
+“That’s documentation, son.”
+
+I had to sit down beside him because standing was no longer working.
+
+He tapped the laptop.
+
+“Come on. Show me another one.”
+
+“You sure?”
+
+He looked over at me, eyes bright, hair impossible, cologne violent, smile tucked behind the usual dad restraint.
+
+“Son, I got my hair back reading the first folder. Let’s see if chapter two fixes the missing hardware.”
 
 And for a while, that was heaven.
 
@@ -778,10 +842,14 @@ And sometimes, the imagined response of someone who loved you can help you measu
 
 > No, but the repo is loading.
 
+> Hair patch installed. Left-leg update pending.
+
+> Let’s see if chapter two fixes the missing hardware.
+
 > Pretty good for a kid dumber than a box of rocks.
 
 Fine.
 
 <!--
-[ARTIFACT LOG]: Father Layer artifact. Captures witness grief, repo-as-witness object, remembered father voice, humor-as-grief-stabilizer, Stetson/Drakkar sensory memory, baldness inheritance joke, and the shift from rescue grief to witness grief.
+[ARTIFACT LOG]: Father Layer artifact. Captures witness grief, repo-as-witness object, remembered father voice, humor-as-grief-stabilizer, Stetson/Drakkar sensory memory, baldness inheritance joke, prosthetic left-leg humor, and the shift from rescue grief to witness grief.
 -->
