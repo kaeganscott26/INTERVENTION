@@ -119,6 +119,14 @@ Mental health, trauma, disability, chronic pain, neurodivergence, injury, Alzhei
 
 **Core current:** brain-body state → perception filter → possibility field → behavior → room response.
 
+### [[SELF_AWARENESS_LAYER]]
+
+Self-awareness is perception turning inward.
+
+This layer studies the actor/critic split, recursion, memory reclassification, narrative prison, choice architecture, and Zapffe's pressure test of consciousness as burden.
+
+**Core current:** experience → self-observation → self-interpretation → behavior shift → new experience.
+
 ### [[DREAM_LAYER]]
 
 Dreams are not base reality, but they can still create waking consequence.
@@ -219,15 +227,16 @@ Use this order when reading Ripple Theory as a framework rather than a story.
 4. [[BIOLOGICAL_LAYER]] — life adapting across time
 5. [[ANTHROPOCENE_LAYER]] — humans changing Earth systems
 6. [[CLINICAL_REALITY_LAYER]] — brain, body, disability, and perception
-7. [[DREAM_LAYER]] — simulated rooms and waking residue
-8. [[UNEXPLAINED_LAYER]] — unknown experiences and grounded interpretation
-9. [[CULTURAL_LAYER]] — inherited meaning systems
-10. [[POWER_GOVERNANCE_LAYER]] — institutional rooms and authority
-11. [[POLITICAL_REALITY_LAYER]] — perceived choice and public identity
-12. [[MEDIA_COMMUNICATION_LAYER]] — frames, feeds, stories, and messaging
-13. [[SOFTWARE_SYSTEMS_LAYER]] — executable systems and digital consequence
-14. [[GEOMETRY_AS_CONSEQUENCE]] — the shape left by relation
-15. [[SUSHUPTI_BRIDGE]] — consciousness bridge / research territory
+7. [[SELF_AWARENESS_LAYER]] — perception turning inward and consciousness under pressure
+8. [[DREAM_LAYER]] — simulated rooms and waking residue
+9. [[UNEXPLAINED_LAYER]] — unknown experiences and grounded interpretation
+10. [[CULTURAL_LAYER]] — inherited meaning systems
+11. [[POWER_GOVERNANCE_LAYER]] — institutional rooms and authority
+12. [[POLITICAL_REALITY_LAYER]] — perceived choice and public identity
+13. [[MEDIA_COMMUNICATION_LAYER]] — frames, feeds, stories, and messaging
+14. [[SOFTWARE_SYSTEMS_LAYER]] — executable systems and digital consequence
+15. [[GEOMETRY_AS_CONSEQUENCE]] — the shape left by relation
+16. [[SUSHUPTI_BRIDGE]] — consciousness bridge / research territory
 
 ---
 
@@ -238,24 +247,24 @@ This is a reading guide, not a cage.
 A chapter may touch more layers than listed here.
 
 - [[PROLOGUE]] — [[HOW_TO_PLAY]], [[THEORY_LAYER]], [[BOUNDARIES]]
-- [[Chapter 01]] — [[CULTURAL_LAYER]], [[POWER_GOVERNANCE_LAYER]], [[MEDIA_COMMUNICATION_LAYER]], [[CLINICAL_REALITY_LAYER]]
-- [[Chapter 02]] — [[CLINICAL_REALITY_LAYER]], [[MENTAL_HEALTH_DISCLAIMER]], [[BOUNDARIES]]
-- [[Chapter 03]] — [[THEORY_LAYER]], [[GEOMETRY_AS_CONSEQUENCE]], [[CLINICAL_REALITY_LAYER]]
+- [[Chapter 01]] — [[CULTURAL_LAYER]], [[POWER_GOVERNANCE_LAYER]], [[MEDIA_COMMUNICATION_LAYER]], [[CLINICAL_REALITY_LAYER]], [[SELF_AWARENESS_LAYER]]
+- [[Chapter 02]] — [[CLINICAL_REALITY_LAYER]], [[SELF_AWARENESS_LAYER]], [[MENTAL_HEALTH_DISCLAIMER]], [[BOUNDARIES]]
+- [[Chapter 03]] — [[THEORY_LAYER]], [[GEOMETRY_AS_CONSEQUENCE]], [[CLINICAL_REALITY_LAYER]], [[SELF_AWARENESS_LAYER]]
 - [[Chapter 04]] — [[THEORY_LAYER]], [[UNEXPLAINED_LAYER]], [[BOUNDARIES]]
-- [[Chapter 05]] — [[MEDIA_COMMUNICATION_LAYER]], [[CULTURAL_LAYER]], [[COMMUNITY_RIPPLES]]
+- [[Chapter 05]] — [[MEDIA_COMMUNICATION_LAYER]], [[CULTURAL_LAYER]], [[COMMUNITY_RIPPLES]], [[SELF_AWARENESS_LAYER]]
 - [[Chapter 06]] — [[UNEXPLAINED_LAYER]], [[CLINICAL_REALITY_LAYER]], [[ARTIFACT_021_THE_IGNORED_LAYER]]
-- [[Chapter 07]] — [[THEORY_LAYER]], [[GEOMETRY_AS_CONSEQUENCE]], [[MEDIA_COMMUNICATION_LAYER]]
-- [[Chapter 08]] — [[DREAM_LAYER]], [[CLINICAL_REALITY_LAYER]], [[CULTURAL_LAYER]]
+- [[Chapter 07]] — [[THEORY_LAYER]], [[GEOMETRY_AS_CONSEQUENCE]], [[MEDIA_COMMUNICATION_LAYER]], [[SELF_AWARENESS_LAYER]]
+- [[Chapter 08]] — [[DREAM_LAYER]], [[CLINICAL_REALITY_LAYER]], [[CULTURAL_LAYER]], [[SELF_AWARENESS_LAYER]]
 - [[Chapter 09]] — [[SOFTWARE_SYSTEMS_LAYER]], [[MEDIA_COMMUNICATION_LAYER]], [[COMMUNITY_RIPPLES]]
 - [[Chapter 10]] — [[GEOMETRY_AS_CONSEQUENCE]], [[SOFTWARE_SYSTEMS_LAYER]], [[THEORY_LAYER]]
-- [[Chapter 11]] — [[CLINICAL_REALITY_LAYER]], [[THEORY_LAYER]], [[BOUNDARIES]]
+- [[Chapter 11]] — [[CLINICAL_REALITY_LAYER]], [[SELF_AWARENESS_LAYER]], [[THEORY_LAYER]], [[BOUNDARIES]]
 - [[Chapter 12]] — [[GEOMETRY_AS_CONSEQUENCE]], [[UNEXPLAINED_LAYER]], [[THEORY_LAYER]]
-- [[Chapter 13]] — [[COMMUNITY_RIPPLES]], [[MEDIA_COMMUNICATION_LAYER]], [[CULTURAL_LAYER]]
+- [[Chapter 13]] — [[COMMUNITY_RIPPLES]], [[MEDIA_COMMUNICATION_LAYER]], [[CULTURAL_LAYER]], [[SELF_AWARENESS_LAYER]]
 - [[Chapter 14]] — [[NATURAL_LAYER]], [[GEOMETRY_AS_CONSEQUENCE]], [[THEORY_LAYER]]
 - [[Chapter 15]] — [[NATURAL_LAYER]], [[WEATHER_LAYER]], [[ANTHROPOCENE_LAYER]], [[GEOMETRY_AS_CONSEQUENCE]]
-- [[Chapter 16]] — [[MEDIA_COMMUNICATION_LAYER]], [[DREAM_LAYER]], [[CLINICAL_REALITY_LAYER]]
-- [[Chapter 17]] — [[CULTURAL_LAYER]], [[CLINICAL_REALITY_LAYER]], [[POWER_GOVERNANCE_LAYER]], [[THEORY_LAYER]]
-- [[EPILOGUE]] — [[LAYER_INDEX]], [[CHAPTER_RIPPLE_MAP]], [[THEORY_LAYER]], [[BOUNDARIES]]
+- [[Chapter 16]] — [[MEDIA_COMMUNICATION_LAYER]], [[DREAM_LAYER]], [[CLINICAL_REALITY_LAYER]], [[SELF_AWARENESS_LAYER]]
+- [[Chapter 17]] — [[CULTURAL_LAYER]], [[CLINICAL_REALITY_LAYER]], [[POWER_GOVERNANCE_LAYER]], [[SELF_AWARENESS_LAYER]], [[THEORY_LAYER]]
+- [[EPILOGUE]] — [[LAYER_INDEX]], [[CHAPTER_RIPPLE_MAP]], [[SELF_AWARENESS_LAYER]], [[THEORY_LAYER]], [[BOUNDARIES]]
 
 ---
 
@@ -287,7 +296,7 @@ Fine.
 
 <!--
 [ARTIFACT LOG]: Layer Index
-Added as the main reader guide for all Ripple Theory layers and chapter-to-layer routing.
+Updated to include the Self-Awareness Layer as an Observer and Inner Reality layer and route key chapters toward the new pressure-test note.
 This archive may reflect learning, not certainty.
 System will accept corrections from trusted observers.
 -->
