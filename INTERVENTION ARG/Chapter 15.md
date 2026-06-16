@@ -1,3 +1,6 @@
+
+CHAPTER 15
+
 # Boulder
 
 Rowan almost closed the book at 1:17 a.m.
@@ -1717,6 +1720,9 @@ END SIMULATION.
 
 ---
 
+---
+
+<img width="599" height="451" alt="Boulder" src="https://github.com/user-attachments/assets/420aa5e8-084f-4e16-8a7b-93973d9c4635" />
 ---
 <!-- RIPPLE_LINKS_START -->
 
