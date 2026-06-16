@@ -127,6 +127,14 @@ This layer studies the actor/critic split, recursion, memory reclassification, n
 
 **Core current:** experience → self-observation → self-interpretation → behavior shift → new experience.
 
+### [[ATTENTION_COLLAPSE_LAYER]]
+
+Attention is the stamina required to process reality before reacting to it.
+
+This layer studies attention collapse, cognitive load, misinformation, institutional trust, AI outsourcing, consensus reality, and the difference between tools that extend thought and tools that replace the reps that build thought.
+
+**Core current:** shortened attention → shallow processing → weak verification → emotional certainty → reality fracture.
+
 ### [[DREAM_LAYER]]
 
 Dreams are not base reality, but they can still create waking consequence.
@@ -228,15 +236,16 @@ Use this order when reading Ripple Theory as a framework rather than a story.
 5. [[ANTHROPOCENE_LAYER]] — humans changing Earth systems
 6. [[CLINICAL_REALITY_LAYER]] — brain, body, disability, and perception
 7. [[SELF_AWARENESS_LAYER]] — perception turning inward and consciousness under pressure
-8. [[DREAM_LAYER]] — simulated rooms and waking residue
-9. [[UNEXPLAINED_LAYER]] — unknown experiences and grounded interpretation
-10. [[CULTURAL_LAYER]] — inherited meaning systems
-11. [[POWER_GOVERNANCE_LAYER]] — institutional rooms and authority
-12. [[POLITICAL_REALITY_LAYER]] — perceived choice and public identity
-13. [[MEDIA_COMMUNICATION_LAYER]] — frames, feeds, stories, and messaging
-14. [[SOFTWARE_SYSTEMS_LAYER]] — executable systems and digital consequence
-15. [[GEOMETRY_AS_CONSEQUENCE]] — the shape left by relation
-16. [[SUSHUPTI_BRIDGE]] — consciousness bridge / research territory
+8. [[ATTENTION_COLLAPSE_LAYER]] — cognitive stamina, verification, and attention under pressure
+9. [[DREAM_LAYER]] — simulated rooms and waking residue
+10. [[UNEXPLAINED_LAYER]] — unknown experiences and grounded interpretation
+11. [[CULTURAL_LAYER]] — inherited meaning systems
+12. [[POWER_GOVERNANCE_LAYER]] — institutional rooms and authority
+13. [[POLITICAL_REALITY_LAYER]] — perceived choice and public identity
+14. [[MEDIA_COMMUNICATION_LAYER]] — frames, feeds, stories, and messaging
+15. [[SOFTWARE_SYSTEMS_LAYER]] — executable systems and digital consequence
+16. [[GEOMETRY_AS_CONSEQUENCE]] — the shape left by relation
+17. [[SUSHUPTI_BRIDGE]] — consciousness bridge / research territory
 
 ---
 
@@ -247,24 +256,24 @@ This is a reading guide, not a cage.
 A chapter may touch more layers than listed here.
 
 - [[PROLOGUE]] — [[HOW_TO_PLAY]], [[THEORY_LAYER]], [[BOUNDARIES]]
-- [[Chapter 01]] — [[CULTURAL_LAYER]], [[POWER_GOVERNANCE_LAYER]], [[MEDIA_COMMUNICATION_LAYER]], [[CLINICAL_REALITY_LAYER]], [[SELF_AWARENESS_LAYER]]
+- [[Chapter 01]] — [[CULTURAL_LAYER]], [[POWER_GOVERNANCE_LAYER]], [[MEDIA_COMMUNICATION_LAYER]], [[ATTENTION_COLLAPSE_LAYER]], [[CLINICAL_REALITY_LAYER]], [[SELF_AWARENESS_LAYER]]
 - [[Chapter 02]] — [[CLINICAL_REALITY_LAYER]], [[SELF_AWARENESS_LAYER]], [[MENTAL_HEALTH_DISCLAIMER]], [[BOUNDARIES]]
 - [[Chapter 03]] — [[THEORY_LAYER]], [[GEOMETRY_AS_CONSEQUENCE]], [[CLINICAL_REALITY_LAYER]], [[SELF_AWARENESS_LAYER]]
 - [[Chapter 04]] — [[THEORY_LAYER]], [[UNEXPLAINED_LAYER]], [[BOUNDARIES]]
-- [[Chapter 05]] — [[MEDIA_COMMUNICATION_LAYER]], [[CULTURAL_LAYER]], [[COMMUNITY_RIPPLES]], [[SELF_AWARENESS_LAYER]]
+- [[Chapter 05]] — [[MEDIA_COMMUNICATION_LAYER]], [[ATTENTION_COLLAPSE_LAYER]], [[CULTURAL_LAYER]], [[COMMUNITY_RIPPLES]], [[SELF_AWARENESS_LAYER]]
 - [[Chapter 06]] — [[UNEXPLAINED_LAYER]], [[CLINICAL_REALITY_LAYER]], [[ARTIFACT_021_THE_IGNORED_LAYER]]
-- [[Chapter 07]] — [[THEORY_LAYER]], [[GEOMETRY_AS_CONSEQUENCE]], [[MEDIA_COMMUNICATION_LAYER]], [[SELF_AWARENESS_LAYER]]
+- [[Chapter 07]] — [[THEORY_LAYER]], [[GEOMETRY_AS_CONSEQUENCE]], [[MEDIA_COMMUNICATION_LAYER]], [[ATTENTION_COLLAPSE_LAYER]], [[SELF_AWARENESS_LAYER]]
 - [[Chapter 08]] — [[DREAM_LAYER]], [[CLINICAL_REALITY_LAYER]], [[CULTURAL_LAYER]], [[SELF_AWARENESS_LAYER]]
-- [[Chapter 09]] — [[SOFTWARE_SYSTEMS_LAYER]], [[MEDIA_COMMUNICATION_LAYER]], [[COMMUNITY_RIPPLES]]
-- [[Chapter 10]] — [[GEOMETRY_AS_CONSEQUENCE]], [[SOFTWARE_SYSTEMS_LAYER]], [[THEORY_LAYER]]
+- [[Chapter 09]] — [[SOFTWARE_SYSTEMS_LAYER]], [[MEDIA_COMMUNICATION_LAYER]], [[ATTENTION_COLLAPSE_LAYER]], [[COMMUNITY_RIPPLES]]
+- [[Chapter 10]] — [[GEOMETRY_AS_CONSEQUENCE]], [[SOFTWARE_SYSTEMS_LAYER]], [[THEORY_LAYER]], [[ATTENTION_COLLAPSE_LAYER]]
 - [[Chapter 11]] — [[CLINICAL_REALITY_LAYER]], [[SELF_AWARENESS_LAYER]], [[THEORY_LAYER]], [[BOUNDARIES]]
 - [[Chapter 12]] — [[GEOMETRY_AS_CONSEQUENCE]], [[UNEXPLAINED_LAYER]], [[THEORY_LAYER]]
-- [[Chapter 13]] — [[COMMUNITY_RIPPLES]], [[MEDIA_COMMUNICATION_LAYER]], [[CULTURAL_LAYER]], [[SELF_AWARENESS_LAYER]]
+- [[Chapter 13]] — [[COMMUNITY_RIPPLES]], [[MEDIA_COMMUNICATION_LAYER]], [[ATTENTION_COLLAPSE_LAYER]], [[CULTURAL_LAYER]], [[SELF_AWARENESS_LAYER]]
 - [[Chapter 14]] — [[NATURAL_LAYER]], [[GEOMETRY_AS_CONSEQUENCE]], [[THEORY_LAYER]]
 - [[Chapter 15]] — [[NATURAL_LAYER]], [[WEATHER_LAYER]], [[ANTHROPOCENE_LAYER]], [[GEOMETRY_AS_CONSEQUENCE]]
-- [[Chapter 16]] — [[MEDIA_COMMUNICATION_LAYER]], [[DREAM_LAYER]], [[CLINICAL_REALITY_LAYER]], [[SELF_AWARENESS_LAYER]]
-- [[Chapter 17]] — [[CULTURAL_LAYER]], [[CLINICAL_REALITY_LAYER]], [[POWER_GOVERNANCE_LAYER]], [[SELF_AWARENESS_LAYER]], [[THEORY_LAYER]]
-- [[EPILOGUE]] — [[LAYER_INDEX]], [[CHAPTER_RIPPLE_MAP]], [[SELF_AWARENESS_LAYER]], [[THEORY_LAYER]], [[BOUNDARIES]]
+- [[Chapter 16]] — [[MEDIA_COMMUNICATION_LAYER]], [[ATTENTION_COLLAPSE_LAYER]], [[DREAM_LAYER]], [[CLINICAL_REALITY_LAYER]], [[SELF_AWARENESS_LAYER]]
+- [[Chapter 17]] — [[CULTURAL_LAYER]], [[CLINICAL_REALITY_LAYER]], [[POWER_GOVERNANCE_LAYER]], [[ATTENTION_COLLAPSE_LAYER]], [[SELF_AWARENESS_LAYER]], [[THEORY_LAYER]]
+- [[EPILOGUE]] — [[LAYER_INDEX]], [[CHAPTER_RIPPLE_MAP]], [[ATTENTION_COLLAPSE_LAYER]], [[SELF_AWARENESS_LAYER]], [[THEORY_LAYER]], [[BOUNDARIES]]
 
 ---
 
@@ -296,7 +305,7 @@ Fine.
 
 <!--
 [ARTIFACT LOG]: Layer Index
-Updated to include the Self-Awareness Layer as an Observer and Inner Reality layer and route key chapters toward the new pressure-test note.
+Updated to include the Attention Collapse Layer as an Observer and Inner Reality layer and route media, AI, trust, and consensus-reality chapters toward the new pressure-test note.
 This archive may reflect learning, not certainty.
 System will accept corrections from trusted observers.
 -->
