@@ -8,6 +8,107 @@ It records what changed, what it strengthened, and what the reader should know b
 
 ---
 
+## [2026-06-15] — 📡 Live rollout active, Chapter 14 deployed, public wall engaged
+
+- **Scale:** Public rollout / Reader Echo / ARG Field Layer
+- **Type:** Live-state update
+- **Primary artifacts:** `INTERVENTION ARG/SYSTEM_STATUS.md`, `CHANGELOG.md`, Facebook wall rollout, chapter deployment sequence
+
+### Status
+
+INTERVENTION remains a completed seventeen-chapter work with an epilogue.
+
+The repo is no longer only a private construction space.
+
+It is now functioning as a live public-facing artifact, with the chapter rollout moving through the public wall and reader responses beginning to behave like field echoes.
+
+Chapter 14, **The Cosmic Room**, has deployed into the public sequence.
+
+The live wall is now part of the observation layer.
+
+### What changed
+
+Updated the public status frame to reflect:
+
+- book complete,
+- chapter rollout active,
+- Chapter 14 deployed,
+- reader route active,
+- artifacts still expanding around the completed story,
+- public wall response functioning as live echo data,
+- and repo maintenance continuing without reopening the core book.
+
+### Concept strengthened
+
+The ARG architecture is now doing what the story describes.
+
+The repo is not merely explaining Ripple Theory.
+
+It is demonstrating it:
+
+```text
+chapter deployed → reader notices → public wall reacts → author observes → status updates → repo becomes artifact → reader returns
+```
+
+### Guardrail
+
+Public response is not proof of cosmic claims, prophecy, simulation, or hidden control.
+
+It is evidence of reader interaction, attention movement, emotional resonance, and social ripple.
+
+Reality remains reality.
+
+### Key line
+
+> The wall is not outside the book anymore. It is where the book learns whether it can make a ripple without becoming a cage.
+
+---
+
+## [2026-06-15] — 🗃️ Artifact layer expanded; numbering audit noted
+
+- **Scale:** Repository / Artifact Archive / Obsidian Graph
+- **Type:** Archive maintenance
+- **Primary artifacts:** `INTERVENTION ARG/ARTIFACTS/`
+
+### Status
+
+The artifact layer has expanded beyond the earlier numbered theory artifacts.
+
+Current visible additions include:
+
+- `ARTIFACT_030_THE_SPECTACLE_STATE.md`
+- `ARTIFACT_031_THE_GLASS_GAMES.md`
+- `ARTIFACT_032_THE_ELF_CARTRIDGE.md`
+- `ARTIFACT_032_THE_FATHER_LAYER.md`
+- `ARTIFACT_032_THE_BUILDING_WILL_HANDLE_THIS.md`
+
+### Maintenance note
+
+Multiple files currently use the `ARTIFACT_032` prefix.
+
+This does not break the reading experience, but it should be treated as a future numbering cleanup task if the artifact archive needs strict sequence hygiene.
+
+For now, the files remain live artifacts.
+
+The content matters more than the counter.
+
+### Concept strengthened
+
+The artifacts now cover more of the real-world echo layer:
+
+- spectacle and state branding,
+- glass-mediated perception,
+- game/cartidge symbolism,
+- father memory and witness grief,
+- institutional deflection,
+- and the way public systems absorb responsibility.
+
+### Key line
+
+> The archive is growing around a finished book, not replacing it.
+
+---
+
 ## [2026-06-12] — 🧭 Final repo polish and Layer Index added
 
 - **Scale:** Repository / Reader Experience / Obsidian Graph
@@ -329,6 +430,8 @@ Future changes should mostly be:
 - source improvements,
 - artifact additions,
 - community echo curation,
+- public rollout notes,
+- numbering cleanup,
 - and carefully labeled research updates.
 
 No new layer should be added unless it reveals a genuinely different kind of room.
