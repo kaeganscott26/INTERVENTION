@@ -1,6 +1,3 @@
-
-CHAPTER 15
-
 # Boulder
 
 Rowan almost closed the book at 1:17 a.m.
