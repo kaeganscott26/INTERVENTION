@@ -119,18 +119,10 @@
   "nodeSizeMultiplier": 2.12975694444444,
   "lineSizeMultiplier": 0.737808159722222,
   "collapse-forces": false,
-<<<<<<< HEAD
   "centerStrength": 0,
   "repelStrength": 20,
   "linkStrength": 0,
   "linkDistance": 500,
-  "scale": 0.07835188739019425,
-=======
-  "centerStrength": 0.219097222222222,
-  "repelStrength": 18.8107638888889,
-  "linkStrength": 0.176085069444444,
-  "linkDistance": 290,
-  "scale": 0.05255487107728031,
->>>>>>> 2b6d635 (Update Obsidian graph)
+  "scale": 0.067756364343051,
   "close": false
 }
