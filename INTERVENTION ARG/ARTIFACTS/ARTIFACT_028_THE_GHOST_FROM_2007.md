@@ -1,6 +1,6 @@
 # ARTIFACT_028_THE_GHOST_FROM_2007
 
-_Status: Unexplained Layer | Grief Current | Memory Witness | Thunderbird Echo | Reality Remains Reality_
+_Status: Non-fiction artifact / Grief | Memory Witness | Thunderbird Echo | Reality Remains Reality_
 
 ---
 
@@ -334,7 +334,6 @@ No unexplained feeling outranks reality.
 
 ## 🔗 Obsidian Links
 
-- [[UNEXPLAINED_LAYER]] — unexplained experience without unsafe certainty
 - [[CULTURAL_LAYER]] — family memory, humor, ritual, and inheritance
 - [[CLINICAL_REALITY_LAYER]] — grief, memory return, and emotional regulation
 - [[Chapter 16]] — father wound / public grief / emotional signal
