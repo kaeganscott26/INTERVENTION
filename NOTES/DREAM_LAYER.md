@@ -247,7 +247,7 @@ choose next ripple
 
 - [[DREAM_RIPPLE_MAP]] — dream section map
 - [[ARTIFACT_023_THE_BAD_DREAM_MOMMY]] — nonfiction dream-adjacent artifact / childhood horror current
-- [[ARTIFACT_027_THE_FILE_ROOM_DOOR]] — nonfiction unexplained continuation / final door current
+- [[ARTIFACT_036_THE_FILE_ROOM_DOOR]] — nonfiction unexplained continuation / final door current
 - [[UNEXPLAINED_LAYER]] — experiences that exceed final category without becoming proof
 - [[THEORY_LAYER]] — keeps dream symbolism separated from proof
 - [[CULTURAL_LAYER]] — compares dream, reality, and meaning across older frameworks without forcing agreement
