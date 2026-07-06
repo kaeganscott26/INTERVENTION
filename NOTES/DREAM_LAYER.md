@@ -1,6 +1,6 @@
 # DREAM LAYER
 
-_Status: Simulated Room | Waking Ripple Active_
+_Status: Simulated Room | Waking Ripple Active | Nonfiction Artifact Bridge_
 
 This note adds dreams to Ripple Theory as a separate layer.
 
@@ -11,6 +11,8 @@ Dreams are not commands.
 Dreams are not proof.
 
 But dreams can still create real ripples.
+
+Some nonfiction experiences may also be stored here when the safest available category is dream-adjacent memory rather than supernatural proof.
 
 ---
 
@@ -166,11 +168,15 @@ Dreams are where fiction briefly wears the body of reality.
 
 The Dream Layer also creates a bridge to the horror language outside the book.
 
-The figures called **bad_dream_mommy** and **Dad_mimic** are not literal claims.
+The figures called **bad_dream_mommy** and **Dad_mimic** are nonfiction report names, not final metaphysical claims.
 
-They are dream-symbol names for distorted attachment, childhood fear, memory fragments, and nightmare logic.
+They do not prove a haunting.
 
-They represent the kind of dream presence that feels familiar and wrong at the same time.
+They do not prove a supernatural mimic.
+
+They name distorted attachment, childhood fear, memory fragments, nightmare logic, and unexplained experience without forcing the reader to collapse the category too early.
+
+They represent the kind of presence that feels familiar and wrong at the same time.
 
 A parent-shaped figure.
 
@@ -178,22 +184,26 @@ A voice that almost sounds safe.
 
 A room that should be home but does not behave like home.
 
-A child who wakes up changed even though the thing never existed in base reality.
+A child who wakes up changed whether the final explanation is dream, body state, memory, trauma, unknown, or something else.
 
 This is where horror becomes useful:
 
 ```text
-the dream enters the body
-the body carries the fear
-the fear changes the room
-the room becomes memory
-the memory becomes story
-the story becomes inheritance
+experience enters the body
+body carries fear
+fear changes the room
+room becomes memory
+memory becomes story
+story becomes inheritance
 ```
 
-The story remains fiction.
+The artifact is nonfiction.
+
+The interpretation remains guarded.
 
 The emotional mechanism is real.
+
+Reality remains reality.
 
 ---
 
@@ -236,7 +246,9 @@ choose next ripple
 ## 🔗 Obsidian Links
 
 - [[DREAM_RIPPLE_MAP]] — dream section map
-- [[ARTIFACT_022_BAD_DREAM_MOMMY_DAD_MIMIC]] — creepy fiction artifact
+- [[ARTIFACT_023_THE_BAD_DREAM_MOMMY]] — nonfiction dream-adjacent artifact / childhood horror current
+- [[ARTIFACT_027_THE_FILE_ROOM_DOOR]] — nonfiction unexplained continuation / final door current
+- [[UNEXPLAINED_LAYER]] — experiences that exceed final category without becoming proof
 - [[THEORY_LAYER]] — keeps dream symbolism separated from proof
 - [[CULTURAL_LAYER]] — compares dream, reality, and meaning across older frameworks without forcing agreement
 - [[MENTAL_HEALTH_DISCLAIMER]] — safety handrail
@@ -255,6 +267,8 @@ choose next ripple
 > **The dream ends. The emotional weather remains.**
 
 > **A dream is not proof. A dream is not command. A dream is a simulated room with waking consequences.**
+
+> **Nonfiction memory can still require guarded interpretation.**
 
 > **Dreams are where fiction briefly wears the body of reality.**
 
