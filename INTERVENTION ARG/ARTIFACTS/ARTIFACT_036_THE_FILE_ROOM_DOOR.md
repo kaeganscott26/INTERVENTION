@@ -122,7 +122,7 @@ Until the night it wasn’t.
 
 ## 🧍 Witness Current
 
-Casey was living with me at my dad’s house at the time. This was late in the year, I think. November, maybe December, maybe January. It was close to the year my dad passed away. Close enough that when I think about it now, the whole memory has that cold edge around it, like the air before a storm.
+Kaysie was living with me at my dad’s house at the time. This was late in the year, I think. November, maybe December, maybe January. It was close to the year my dad passed away. Close enough that when I think about it now, the whole memory has that cold edge around it, like the air before a storm.
 
 We were in the living room getting ready to go outside and smoke.
 
@@ -136,7 +136,7 @@ No candlelit séance nonsense.
 
 Just two teenagers tying their shoes so they could go stand outside and smoke like idiots.
 
-I told Casey I had to use the bathroom first.
+I told Kaysie I had to use the bathroom first.
 
 The bathroom was in the same hallway as my bedroom and the file room. My room was on one side. The file room was basically across from it. The bathroom sat in the middle of that little stretch of hall.
 
@@ -166,7 +166,7 @@ There are moments when your body understands something before your mind can catc
 
 My mind tried to be eighteen about it.
 
-Maybe Casey opened it.
+Maybe Kaysie opened it.
 
 Maybe my dad opened it earlier.
 
@@ -180,7 +180,7 @@ The brain will throw anything in front of fear if it thinks one of the explanati
 
 I looked toward the living room.
 
-Casey was still there, sitting where I had left her, tying her shoes.
+Kaysie was still there, sitting where I had left her, tying her shoes.
 
 I tried to sound casual.
 
@@ -208,7 +208,7 @@ I walked over and shut the door.
 
 I don’t remember if I said anything else. Probably not. I probably made some dumb little comment to make it feel less weird than it was. That is what people do when a room changes the temperature of their spine.
 
-Then Casey went to use the bathroom.
+Then Kaysie went to use the bathroom.
 
 I went outside.
 
@@ -216,7 +216,7 @@ The back patio sat in a place where, through a living room window, I could see t
 
 I kept watching.
 
-At some point, Casey was taking longer than I expected.
+At some point, Kaysie was taking longer than I expected.
 
 So I came back in.
 
@@ -232,7 +232,7 @@ My dad was in his room on the other side of the house.
 
 I had been outside.
 
-Casey was in the bathroom.
+Kaysie was in the bathroom.
 
 And when she came out, the file room door was open again.
 
@@ -246,7 +246,7 @@ I had shut that door.
 
 I knew I had shut it.
 
-Casey had been in the bathroom.
+Kaysie had been in the bathroom.
 
 I had been outside.
 
@@ -340,11 +340,11 @@ The hallway seemed longer than it should have been.
 
 The door sat open like it had won an argument.
 
-Casey was there.
+Kaysie was there.
 
 That is the part I still come back to.
 
-Casey was there.
+Kaysie was there.
 
 Not in a dream.
 
@@ -596,7 +596,7 @@ Small things, maybe.
 
 Or maybe not small at all.
 
-There were nights when Casey and I would be sleeping next to each other, and I would feel something choking me.
+There were nights when Kaysie and I would be sleeping next to each other, and I would feel something choking me.
 
 Not a hand I could grab.
 
@@ -764,7 +764,7 @@ I only know this:
 
 I was eighteen.
 
-Casey was there.
+Kaysie was there.
 
 The door opened.
 
@@ -857,6 +857,7 @@ Fine.
 <!--
 [ARTIFACT LOG]: ARTIFACT_036_THE_FILE_ROOM_DOOR
 Renumbered from ARTIFACT_027_THE_FILE_ROOM_DOOR after curator correction.
+Corrected Kaysie's name spelling after curator correction.
 Added as a nonfiction Unexplained Layer artifact and companion continuation to ARTIFACT_023_THE_BAD_DREAM_MOMMY.
 This archive may reflect memory, not certainty.
 Reality remains reality.
