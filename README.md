@@ -159,8 +159,10 @@ The Layer Index also maps chapters to their corresponding layers.
 - [Natural Ripple Map](INTERVENTION%20ARG/NATURAL_RIPPLE_MAP.md)
 - [Dream Ripple Map](INTERVENTION%20ARG/DREAM_RIPPLE_MAP.md)
 - [Official Artifact Layer](INTERVENTION%20ARG/ARTIFACTS/)
+- [Artifact 023 — The Bad Dream Mommy](INTERVENTION%20ARG/ARTIFACTS/ARTIFACT_023_THE_BAD_DREAM_MOMMY.md)
 - [Artifact 025 — The Rabbit Hole](INTERVENTION%20ARG/ARTIFACTS/ARTIFACT_025_THE_RABBIT_HOLE.md)
 - [Artifact 026 — The Next Chapter](INTERVENTION%20ARG/ARTIFACTS/ARTIFACT_026_THE_NEXT_CHAPTER.md)
+- [Artifact 027 — The File Room Door](INTERVENTION%20ARG/ARTIFACTS/ARTIFACT_027_THE_FILE_ROOM_DOOR.md)
 - [Community Echoes](COMMUNITY/)
 - [System Status](INTERVENTION%20ARG/SYSTEM_STATUS.md)
 
@@ -168,11 +170,13 @@ The Layer Index also maps chapters to their corresponding layers.
 
 ## ⚠️ Safety Frame
 
-INTERVENTION intentionally blurs fiction, reflection, and real-world noticing.
+INTERVENTION intentionally blurs fiction, reflection, nonfiction artifact, and real-world noticing.
 
 It does not blur safety.
 
-The stories are fictional.
+The chapters are fictional.
+
+Some artifacts are nonfiction and clearly labeled.
 
 The noticing is real.
 
@@ -182,7 +186,7 @@ No theory outranks safety.
 
 No game outranks the person living it.
 
-If pattern-based fiction could make your current mental state worse, do not continue alone.
+If pattern-based fiction or nonfiction artifact reading could make your current mental state worse, do not continue alone.
 
 Your life is not the ARG.
 
