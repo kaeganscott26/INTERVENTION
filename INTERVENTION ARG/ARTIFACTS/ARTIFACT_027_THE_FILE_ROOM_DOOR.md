@@ -1,4 +1,4 @@
-# ARTIFACT_027_THE_FILE_ROOM_DOOR
+# ARTIFACT_036_THE_FILE_ROOM_DOOR
 
 _Status: Nonfiction Artifact | Unexplained Layer Active | Dream-Layer Echo | Reality Remains Reality_
 
@@ -855,7 +855,7 @@ The consequence does not.
 Fine.
 
 <!--
-[ARTIFACT LOG]: ARTIFACT_027_THE_FILE_ROOM_DOOR
+[ARTIFACT LOG]: ARTIFACT_036_THE_FILE_ROOM_DOOR
 Added as a nonfiction Unexplained Layer artifact and companion continuation to ARTIFACT_023_THE_BAD_DREAM_MOMMY.
 This archive may reflect memory, not certainty.
 Reality remains reality.
