@@ -1,8 +1,8 @@
-_Status: Fiction Artifact | Dream Layer Active_
+_Status: Nonfiction Artifact | Dream Layer Active | Reality Remains Reality_
 
 This artifact belongs to the Dream Layer.
 
-It is fiction based on events that only can be explained as bad dreams
+It is nonfiction based on reported experiences that can only be handled safely as bad dreams, dream-adjacent memory, and unexplained childhood fear.
 
 A bad dream can end and still leave something behind.
 
@@ -28,9 +28,11 @@ Return to:
 - [[BOUNDARIES]]
 - [[THEORY_LAYER]]
 - [[DREAM_LAYER]]
+- [[UNEXPLAINED_LAYER]]
+
 ---
 
-## The Bad Dream Mommy
+## 🛏️ The Bad Dream Mommy
 
 I don’t tell people this story anymore.
 
@@ -244,7 +246,7 @@ Still waiting for me to understand something I was too young to know.
 
 The last time I saw the Bad Dream Mommy, I was eight.
 
-By then, I knew what nightmares were. I knew what adults said when children told them impossible things. I knew how to watch someone’s face go soft with concern while their eyes quietly placed your story in a box labeled **dream**.
+By then, I knew what nightmares were. I knew what adults said when children told them impossible things. I knew how to watch someone’s face go soft with concern while their eyes quietly placed your story in a box labeled dream.
 
 So I stopped telling people.
 
@@ -721,3 +723,42 @@ The thing in the hallway raised one finger to its wrong mouth.
 And from the kitchen behind me, my father’s crutches tapped once against the tile.
 
 Clink.
+
+---
+
+## 🔗 Obsidian Links
+
+- [[DREAM_LAYER]] — dream-adjacent memory, nightmare logic, and waking residue
+- [[UNEXPLAINED_LAYER]] — experiences that exceed final category without becoming proof
+- [[CLINICAL_REALITY_LAYER]] — sleep paralysis, trauma response, fear, and body-state guardrails
+- [[THEORY_LAYER]] — separates experience, interpretation, consequence, and proof
+- [[MENTAL_HEALTH_DISCLAIMER]] — safety handrail
+- [[BOUNDARIES]] — no story outranks reality
+- [[Chapter 08]] — father / child / inherited memory echoes
+- [[Chapter 16]] — grief / signal / emotional aftermath
+- [[Chapter 17]] — inheritance / fatherhood / return current
+- [[ARTIFACT_027_THE_FILE_ROOM_DOOR]] — later nonfiction continuation / final door current
+
+---
+
+## 🧭 Key Lines
+
+> A loud house can be explained. A quiet house is waiting.
+
+> Everyone has a sound, if you love them enough.
+
+> The house had learned him.
+
+> The scariest sound is someone you love moving through the house at the wrong time, from the wrong direction, with the wrong rhythm.
+
+> What learned to sound like home?
+
+Fine.
+
+<!--
+[ARTIFACT LOG]: ARTIFACT_023_THE_BAD_DREAM_MOMMY
+Updated from fiction artifact to nonfiction artifact per curator correction.
+This archive may reflect memory, not certainty.
+Reality remains reality.
+System will accept corrections from trusted observers.
+-->
