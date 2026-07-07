@@ -8,6 +8,62 @@ It records what changed, what it strengthened, and what the reader should know b
 
 ---
 
+## [2026-07-07] — 🧩 ARTIFACT_037 added: The One If/Else
+
+- **Scale:** Artifact Archive / Software Systems Layer / Theory Layer
+- **Type:** Fictional metaphorical artifact
+- **Primary artifact:** `INTERVENTION ARG/ARTIFACTS/ARTIFACT_037_THE_ONE_IF_ELSE.md`
+
+### Status
+
+Added `ARTIFACT_037_THE_ONE_IF_ELSE.md` as a fictional metaphorical artifact that translates a compressed if/else and and/or logic fragment into a story about loop interruption, living currents, and choosing one next right action.
+
+The artifact belongs primarily to the Software / Systems Layer and Theory Layer, with a Clinical Reality guardrail.
+
+### What changed
+
+Updated:
+
+```text
+README.md
+INTERVENTION ARG/ARTIFACTS/README.md
+CHANGELOG.md
+```
+
+Added:
+
+```text
+INTERVENTION ARG/ARTIFACTS/ARTIFACT_037_THE_ONE_IF_ELSE.md
+```
+
+### Concept strengthened
+
+This artifact strengthens the connection between Ripple Theory and executable consequence:
+
+```text
+chaos enters → observer overloads → loop requests attention → living current is checked → loop is not fed → next binary win executes
+```
+
+It clarifies that the intervention point is not solving an entire life at once.
+
+The intervention point is protecting the next action from being eaten by the loop.
+
+### Guardrail
+
+The artifact must not be used to reduce a person to code, treat emotion as a bug, or turn metaphor into identity.
+
+A person is not an `if` statement.
+
+A life is not a script.
+
+Reality remains reality.
+
+### Key line
+
+> OR does not mean carry everything. OR means one true current is enough.
+
+---
+
 ## [2026-06-15] — 📡 Live rollout active, Chapter 14 deployed, public wall engaged
 
 - **Scale:** Public rollout / Reader Echo / ARG Field Layer
@@ -215,231 +271,3 @@ This layer studies how movies, television, news, internet platforms, social medi
 > Fiction is not base reality, but it can become emotional architecture.
 
 > Media can train the conscience by deciding who the audience is asked to feel for.
-
----
-
-## [2026-06-12] — 🏛️ Power, politics, human impact, biology, clinical reality, and weather layers expanded
-
-- **Scale:** Society / Earth Systems / Life / Body / Atmosphere
-- **Type:** Multi-layer expansion
-- **Primary artifacts:** `NOTES/POWER_GOVERNANCE_LAYER.md`, `NOTES/POLITICAL_REALITY_LAYER.md`, `NOTES/ANTHROPOCENE_LAYER.md`, `NOTES/BIOLOGICAL_LAYER.md`, `NOTES/CLINICAL_REALITY_LAYER.md`, `NOTES/WEATHER_LAYER.md`
-
-### Status
-
-The framework expanded beyond individual perception into larger rooms:
-
-- power and government,
-- political choice architecture,
-- human impact on Earth systems,
-- biological adaptation,
-- clinical and embodied reality,
-- and weather as a live natural pressure system.
-
-### Concept strengthened
-
-Ripple Theory is no longer only a human-perception framework.
-
-It now maps consequence across physical, biological, social, political, media, software, and internal reality layers.
-
-### Key line
-
-> Everything has consequence, but every layer has limits, evidence needs, and guardrails.
-
----
-
-## [2026-06-11] — 🧭 Cultural Layer linked into the front door
-
-- **Scale:** Cultural / Philosophical / Evidence Discipline
-- **Type:** Layer integration
-- **Primary artifacts:** `NOTES/CULTURAL_LAYER.md`, `NOTES/DREAM_LAYER.md`, `README.md`, `NOTES/THEORY_LAYER.md`
-
-### Status
-
-The Cultural Layer compares Ripple Theory with ancient and modern frameworks only when the comparison can survive pressure.
-
-If a cultural idea supports the theory, the support is documented.
-
-If it complicates the theory, the complication is documented.
-
-If it breaks the theory, the break is documented.
-
-### Key line
-
-> A theory that cannot be challenged becomes a room with no exits.
-
----
-
-## [2026-06-11] — 💤 Dream Layer added
-
-- **Scale:** Dream / Memory / Waking Consequence
-- **Type:** Layer expansion
-- **Primary artifacts:** `NOTES/DREAM_LAYER.md`, `INTERVENTION ARG/DREAM_RIPPLE_MAP.md`
-
-### Status
-
-Ripple Theory now has a dedicated Dream Layer.
-
-Dreams are not proof.
-
-Dreams are not commands.
-
-Dreams are not base reality.
-
-But dreams can still affect emotion, memory, attention, decision-making, and behavior.
-
-### Key line
-
-> Dreams are where fiction briefly wears the body of reality.
-
----
-
-## [2026-06-10] — 🚪 README first-reader path added
-
-- **Scale:** Reader / Entry UX
-- **Type:** Accessibility update
-- **Primary artifact:** `README.md`
-
-### Status
-
-The front door was made clearer for people who are not used to GitHub.
-
-The project cannot only be deep.
-
-It also has to be enterable.
-
-### Key line
-
-> A doorway is only a doorway if the reader knows where to step.
-
----
-
-## [2026-06-10] — 🌿 Natural layer and map-under-the-map added
-
-- **Scale:** Physical / Ecological
-- **Type:** Layer expansion
-- **Primary artifacts:** `NOTES/NATURAL_LAYER.md`, `INTERVENTION ARG/NATURAL_RIPPLE_MAP.md`
-
-### Status
-
-Ripple Theory gained a dedicated natural layer outside the psychological and perception layers.
-
-This prevents the theory from collapsing all consequence into human meaning.
-
-### Key line
-
-> Human perception is not the origin of consequence. It is one late branch of consequence becoming aware of itself.
-
----
-
-## [2026-06-09] — 🌀 Ripple Theory scales to the cosmic
-
-- **Scale:** Cosmic
-- **Type:** Model expansion
-- **Primary artifacts:** `README.md`, Issue #9, Issue #10
-
-### Status
-
-The project connected the original human-scale version of Ripple Theory to a broader cosmic question:
-
-> Existence is the first ripple.
-
-This does not replace physics, prove theology, or claim certainty.
-
-It gives the book a deeper question to orbit.
-
-### Key line
-
-> Ripple Theory does not begin by naming the stone. It begins by asking whether the ripple can be noticed.
-
----
-
-## [2026-06-09] — 📐 Mathematical framework added
-
-- **Scale:** Cosmic
-- **Type:** Testable question
-- **Primary artifacts:** `README.md`, Issue #10
-
-### Status
-
-The project added a physics-shaped framework for asking whether the cosmic version of Ripple Theory can be challenged by observation.
-
-The framework uses standard cosmology language as a bridge, not as proof.
-
-### Key line
-
-> Math is not being used here to prove a conclusion. Math is being used to make the question testable.
-
----
-
-## [2026-06-09] — 🧭 Theory layer separation note added
-
-- **Scale:** Human / Story / Cosmic
-- **Type:** Guardrail
-- **Primary artifact:** `NOTES/THEORY_LAYER.md`
-
-### Status
-
-The project gained a dedicated note separating:
-
-```text
-KNOWN MODEL
-SPECULATIVE BRIDGE
-ARG / STORY EXPRESSION
-```
-
-### Key line
-
-> The project can blur fiction, reflection, and real-world noticing. It must not blur responsibility.
-
----
-
-## Current layer summary
-
-Ripple Theory now has fifteen active layer rooms:
-
-1. [[THEORY_LAYER]]
-2. [[NATURAL_LAYER]]
-3. [[WEATHER_LAYER]]
-4. [[BIOLOGICAL_LAYER]]
-5. [[ANTHROPOCENE_LAYER]]
-6. [[CLINICAL_REALITY_LAYER]]
-7. [[DREAM_LAYER]]
-8. [[UNEXPLAINED_LAYER]]
-9. [[CULTURAL_LAYER]]
-10. [[POWER_GOVERNANCE_LAYER]]
-11. [[POLITICAL_REALITY_LAYER]]
-12. [[MEDIA_COMMUNICATION_LAYER]]
-13. [[SOFTWARE_SYSTEMS_LAYER]]
-14. [[GEOMETRY_AS_CONSEQUENCE]]
-15. [[SUSHUPTI_BRIDGE]]
-
-Use [[LAYER_INDEX]] for the guided route.
-
----
-
-## Maintenance rule
-
-The book is complete.
-
-The repo remains alive.
-
-Future changes should mostly be:
-
-- typo fixes,
-- link cleanup,
-- source improvements,
-- artifact additions,
-- community echo curation,
-- public rollout notes,
-- numbering cleanup,
-- and carefully labeled research updates.
-
-No new layer should be added unless it reveals a genuinely different kind of room.
-
-Fine.
-
-<!--
-[ARTIFACT LOG]: Ripple Theory Changelog
-This archive may reflect learning, not certainty.
-System will accept pull requests from trusted observers.
--->
