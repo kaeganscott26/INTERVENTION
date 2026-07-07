@@ -163,6 +163,7 @@ The Layer Index also maps chapters to their corresponding layers.
 - [Artifact 025 — The Rabbit Hole](INTERVENTION%20ARG/ARTIFACTS/ARTIFACT_025_THE_RABBIT_HOLE.md)
 - [Artifact 026 — The Next Chapter](INTERVENTION%20ARG/ARTIFACTS/ARTIFACT_026_THE_NEXT_CHAPTER.md)
 - [Artifact 036 — The File Room Door](INTERVENTION%20ARG/ARTIFACTS/ARTIFACT_036_THE_FILE_ROOM_DOOR.md)
+- [Artifact 037 — The One If/Else](INTERVENTION%20ARG/ARTIFACTS/ARTIFACT_037_THE_ONE_IF_ELSE.md)
 - [Community Echoes](COMMUNITY/)
 - [System Status](INTERVENTION%20ARG/SYSTEM_STATUS.md)
 
