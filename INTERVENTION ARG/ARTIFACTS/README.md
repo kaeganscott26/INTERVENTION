@@ -100,6 +100,10 @@ Fine.
 - [[ARTIFACT_029_THE_TIME_LAYER]] — base time, measured time, perceived time, system clocks, quantum edge
 - [[ARTIFACT_030_THE_SPECTACLE_STATE]] — state spectacle, managed freedom, media framing, algorithmic amplification, historical propaganda pattern
 - [[ARTIFACT_032_THE_FATHER_LAYER]] — witness grief, father memory, repo-as-witness object, humor-as-stabilizer, and the shift from rescue grief to witness grief
+- [[ARTIFACT_033_PROFESSOR_AIFRED_AND_THE_MAN_WHO_STOLE_REALITY]] — fictional AIFRED myth, reality theft, diagnostic signal, and theory-as-system
+- [[ARTIFACT_035_PROFESSOR_AIFRED_AND_THE_WEBSITE_HE_TOOK_BACK]] — fictional AIFRED continuation, product spine, repo consolidation, and system revival
+- [[ARTIFACT_036_THE_FILE_ROOM_DOOR]] — nonfiction Unexplained Layer artifact, witness current, father grief, and refusal to feed the pattern
+- [[ARTIFACT_037_THE_ONE_IF_ELSE]] — fictional metaphorical artifact, conditional logic, loop interruption, and next-action protocol
 
 ---
 
