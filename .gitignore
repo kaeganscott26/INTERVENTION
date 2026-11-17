@@ -1,0 +1,29 @@
+# Local operating system and vault state
+.DS_Store
+.obsidian/workspace*.json
+.trash/
+
+# Installed plugins include API keys, OAuth tokens, and private TLS keys.
+# Obsidian can reinstall plugins from .obsidian/community-plugins.json.
+.obsidian/plugins/
+
+# Local AI indexes, databases, and caches
+.smart-env
+.smtcmp_json_db/
+.smtcmp_vector_db*
+
+# Environment variables and private keys
+.env
+.env.*
+!.env.example
+!.env.sample
+!.env.template
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Local copies of Git metadata can contain credentials and old objects.
+.git.disabled/
+.git.backup/
+.git.bak/
